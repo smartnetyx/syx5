@@ -24,6 +24,38 @@ st.set_page_config(
     initial_sidebar_state="expanded"
 )
 
+# ── PASSWORD PROTECTION ──
+def check_password():
+    """Simple password gate using st.secrets"""
+    if "authenticated" not in st.session_state:
+        st.session_state.authenticated = False
+
+    if st.session_state.authenticated:
+        return True
+
+    st.markdown("""
+    <h2 style='text-align: center; color: #2C3E50; margin-top: 100px;'>
+        🔒 TERP Vertragsmanagement
+    </h2>
+    <p style='text-align: center; color: #7F8C8D;'>
+        Bitte Passwort eingeben, um fortzufahren.
+    </p>
+    """, unsafe_allow_html=True)
+
+    col1, col2, col3 = st.columns([1, 1, 1])
+    with col2:
+        password = st.text_input("Passwort", type="password", key="password_input")
+        if st.button("Anmelden", use_container_width=True):
+            if password == st.secrets["app_password"]:
+                st.session_state.authenticated = True
+                st.rerun()
+            else:
+                st.error("Falsches Passwort.")
+    return False
+
+if not check_password():
+    st.stop()
+
 # Custom CSS for larger tab labels
 st.markdown("""<style>
 button[data-baseweb="tab"] > div > p { font-size: 18px !important; }
