@@ -1,0 +1,4305 @@
+[
+  {
+    "src": "vertrag:7167b442",
+    "dst": "dokument:betriebsf_hrungsvertrag_marka_taler_ingenieurb_ro_wintering_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:marka_taler",
+    "dst": "vertrag:7167b442",
+    "relationship": "PARTEI_VON",
+    "rolle": "Auftraggeber"
+  },
+  {
+    "src": "firma:ingenieurb_ro_wintering",
+    "dst": "vertrag:7167b442",
+    "relationship": "PARTEI_VON",
+    "rolle": "Auftragnehmer"
+  },
+  {
+    "src": "vertrag:06f58ebe",
+    "dst": "dokument:betriebsf_hrungsvertrag_marka_taler_wt03_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:marka_taler",
+    "dst": "vertrag:06f58ebe",
+    "relationship": "PARTEI_VON",
+    "rolle": "Auftraggeber"
+  },
+  {
+    "src": "vertrag:06f58ebe",
+    "dst": "projekt:windpark_wt03",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:c13be12b",
+    "dst": "dokument:betriebsf_hrungsvertrag_marka_taler_wt04_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:marka_taler",
+    "dst": "vertrag:c13be12b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Auftraggeber"
+  },
+  {
+    "src": "firma:taler_gmbh",
+    "dst": "vertrag:c13be12b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Auftraggeber"
+  },
+  {
+    "src": "vertrag:c13be12b",
+    "dst": "projekt:windpark_wt04",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:96dd2c6f",
+    "dst": "dokument:betriebsf_hrungsvertrag_marka_taler_wt05_nachtrag_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Nachtrag"
+  },
+  {
+    "src": "firma:marka_taler",
+    "dst": "vertrag:96dd2c6f",
+    "relationship": "PARTEI_VON",
+    "rolle": "Auftraggeber"
+  },
+  {
+    "src": "vertrag:96dd2c6f",
+    "dst": "projekt:windpark_wt05",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Nachtrag"
+  },
+  {
+    "src": "vertrag:7ce5126a",
+    "dst": "dokument:betriebsf_hrungsvertrag_marka_taler_wt05_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:marka_taler",
+    "dst": "vertrag:7ce5126a",
+    "relationship": "PARTEI_VON",
+    "rolle": "Auftraggeber"
+  },
+  {
+    "src": "vertrag:7ce5126a",
+    "dst": "projekt:windpark_wt05",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:83f99db0",
+    "dst": "dokument:betriebsf_hrungsvertrag_wt04_marka_taler_nachtrag_2017_08_02_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Nachtrag"
+  },
+  {
+    "src": "firma:marka_taler",
+    "dst": "vertrag:83f99db0",
+    "relationship": "PARTEI_VON",
+    "rolle": "Auftraggeber"
+  },
+  {
+    "src": "firma:taler_gmbh",
+    "dst": "vertrag:83f99db0",
+    "relationship": "PARTEI_VON",
+    "rolle": "Auftraggeber"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:83f99db0",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vertragspartei"
+  },
+  {
+    "src": "vertrag:83f99db0",
+    "dst": "projekt:windpark_wt04",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Nachtrag"
+  },
+  {
+    "src": "vertrag:46899152",
+    "dst": "dokument:direktvermarktungsvertrag_e2m_beeke_wiesen_agrar_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:e2m",
+    "dst": "vertrag:46899152",
+    "relationship": "PARTEI_VON",
+    "rolle": "Direktvermarkter"
+  },
+  {
+    "src": "firma:beeke_wiesen_agrar",
+    "dst": "vertrag:46899152",
+    "relationship": "PARTEI_VON",
+    "rolle": "Erzeuger"
+  },
+  {
+    "src": "person:johannes_jansen",
+    "dst": "vertrag:46899152",
+    "relationship": "PARTEI_VON",
+    "rolle": "Erzeuger"
+  },
+  {
+    "src": "vertrag:46899152",
+    "dst": "projekt:beeke_wiesen",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:e2m",
+    "dst": "firma:beeke_wiesen_agrar",
+    "relationship": "VERMARKTET_FUER",
+    "produkt": "Strom"
+  },
+  {
+    "src": "vertrag:233a2aec",
+    "dst": "dokument:direkvermarktungsvertrag_e2m_bioenergie_witte_moor_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:e2m",
+    "dst": "vertrag:233a2aec",
+    "relationship": "PARTEI_VON",
+    "rolle": "Direktvermarkter"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "vertrag:233a2aec",
+    "relationship": "PARTEI_VON",
+    "rolle": "Erzeuger"
+  },
+  {
+    "src": "vertrag:233a2aec",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:e2m",
+    "dst": "firma:bioenergie_witte_moor",
+    "relationship": "VERMARKTET_FUER",
+    "produkt": "Strom"
+  },
+  {
+    "src": "vertrag:3ec50114",
+    "dst": "dokument:gesellschaftervertrag_albers_christoph_niedenhof_detlef_poelmeyer_dennis_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:3ec50114",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "person:albers_christoph",
+    "dst": "vertrag:3ec50114",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "person:poelmeyer_dennis",
+    "dst": "vertrag:3ec50114",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "vertrag:a692c593",
+    "dst": "dokument:gesellschaftervertrag_bn_blinzenberg_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bn_blinzenberg",
+    "dst": "vertrag:a692c593",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "vertrag:a692c593",
+    "dst": "projekt:blinzenberg",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:06771e5b",
+    "dst": "dokument:gesellschaftervertrag_hrn_solar_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:hrn_solar",
+    "dst": "vertrag:06771e5b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "vertrag:5f7bb620",
+    "dst": "dokument:gesellschaftervertrag_kirschner__niedenhof_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:kirschner",
+    "dst": "vertrag:5f7bb620",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "vertrag:3fb5d91b",
+    "dst": "dokument:gesellschaftervertrag_nn_solar_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:nn_solar",
+    "dst": "vertrag:3fb5d91b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "vertrag:60b979f5",
+    "dst": "dokument:gesellschaftervertrag_niedenhof_andrea_wessendorf_august_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_andrea",
+    "dst": "vertrag:60b979f5",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "person:wessendorf_august",
+    "dst": "vertrag:60b979f5",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "vertrag:577225e9",
+    "dst": "dokument:gesellschaftervertrag_niedenhof_detlef_peters_helmut_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:577225e9",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "person:peters_helmut",
+    "dst": "vertrag:577225e9",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "vertrag:b89cd2b4",
+    "dst": "dokument:gesellschaftervertrag_niedenhof_detlef_robenek_guido_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:b89cd2b4",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "person:robenek_guido",
+    "dst": "vertrag:b89cd2b4",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "vertrag:20e6bdc2",
+    "dst": "dokument:gesellschaftervertrag_niedenhof_detlef_spark_heiner_wilken_bernhard_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:20e6bdc2",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "person:wilken_bernhard",
+    "dst": "vertrag:20e6bdc2",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "person:spark_heiner",
+    "dst": "vertrag:20e6bdc2",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gesellschafter"
+  },
+  {
+    "src": "vertrag:c37db9ab",
+    "dst": "dokument:gesellschaftervertrag_sonnentaler_ii_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "vertrag:c37db9ab",
+    "dst": "projekt:sonnentaler_ii",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:7d5ec8df",
+    "dst": "dokument:gesellschaftervertrag_wilken_wilken_niedenhof_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "vertrag:cd6b19d7",
+    "dst": "dokument:gesellschaftervertrag_witte_moor_photovoltaik_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "vertrag:cd6b19d7",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:c3a09a09",
+    "dst": "dokument:gestattungsvertrag__janssen_andreas__hans_sonnentaler_ix_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:janssen_andreas",
+    "dst": "vertrag:c3a09a09",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:c3a09a09",
+    "dst": "projekt:sonnentaler_i",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:f341a265",
+    "dst": "dokument:gestattungsvertrag__niedenhof_detlef_g_ken_gerhard_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:f341a265",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:g_ken_gerhard",
+    "dst": "vertrag:f341a265",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:c05fc889",
+    "dst": "dokument:gestattungsvertrag__untied_gerd_kossen_birgit_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:untied_gerd",
+    "dst": "vertrag:c05fc889",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:kossen_birgit",
+    "dst": "vertrag:c05fc889",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:5d8818ab",
+    "dst": "dokument:gestattungsvertrag_andrea_niedenhof_lhh_r_hlertwist_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:lhh_r_hlertwist",
+    "dst": "vertrag:5d8818ab",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:andrea_niedenhof",
+    "dst": "vertrag:5d8818ab",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:e0245ad5",
+    "dst": "dokument:gestattungsvertrag_bn_blinzenberg_b_ter_wilhelm_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bn_blinzenberg",
+    "dst": "vertrag:e0245ad5",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsnehmer"
+  },
+  {
+    "src": "person:b_ter_wilhelm",
+    "dst": "vertrag:e0245ad5",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:e0245ad5",
+    "dst": "projekt:blinzenberg",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:1ca72f74",
+    "dst": "dokument:gestattungsvertrag_berendina_kemper_traute_n_sse_johanne_niedenhof_detlef_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:1ca72f74",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:n_sse_johanne",
+    "dst": "vertrag:1ca72f74",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:b0b1abb8",
+    "dst": "dokument:gestattungsvertrag_bioenergie_witte_moor_witte_moor_photovoltaik_signiert_2_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "vertrag:b0b1abb8",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:b0b1abb8",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:c8ca9d81",
+    "dst": "dokument:gestattungsvertrag_bioenergie_witte_moor_witte_moor_photovoltaik_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "vertrag:c8ca9d81",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:c8ca9d81",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:8fa639eb",
+    "dst": "dokument:gestattungsvertrag_hrn_solar_h_mmken_bernhard_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:hrn_solar",
+    "dst": "vertrag:8fa639eb",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsnehmer"
+  },
+  {
+    "src": "person:h_mmken_bernhard",
+    "dst": "vertrag:8fa639eb",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:378a0fbd",
+    "dst": "dokument:gestattungsvertrag_janssen_andreas_janssen_niedenhof_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:vn",
+    "dst": "vertrag:378a0fbd",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:janssen_andreas",
+    "dst": "vertrag:378a0fbd",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:bbe59609",
+    "dst": "dokument:gestattungsvertrag_kempel_berendina_n_sse_traute_n_sse_johanne_niedenhof_detlef_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:bbe59609",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:n_sse_traute",
+    "dst": "vertrag:bbe59609",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:n_sse_johanne",
+    "dst": "vertrag:bbe59609",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:b5d55c95",
+    "dst": "dokument:gestattungsvertrag_kirschner__niedenhof_kirschner_heinz_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:kirschner",
+    "dst": "vertrag:b5d55c95",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:339e281d",
+    "dst": "dokument:gestattungsvertrag_lhh_r_hlertwist_niedenhof_andrea_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:lhh_r_hlertwist",
+    "dst": "vertrag:339e281d",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:niedenhof_andrea",
+    "dst": "vertrag:339e281d",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:adc985e4",
+    "dst": "dokument:gestattungsvertrag_nn_solar_gbr_nannen_ludger_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:nn_solar",
+    "dst": "vertrag:adc985e4",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsnehmer"
+  },
+  {
+    "src": "person:nannen_ludger",
+    "dst": "vertrag:adc985e4",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:d53535bb",
+    "dst": "dokument:gestattungsvertrag_niedenhof_andrea_hollander_werner_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_andrea",
+    "dst": "vertrag:d53535bb",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:hollander_werner",
+    "dst": "vertrag:d53535bb",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:cd785ac9",
+    "dst": "dokument:gestattungsvertrag_niedenhof_andrea_l_ken_martin_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_andrea",
+    "dst": "vertrag:cd785ac9",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:l_ken_martin",
+    "dst": "vertrag:cd785ac9",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:0142424f",
+    "dst": "dokument:gestattungsvertrag_niedenhof_detlef_behrens_kossen_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:0142424f",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:behrens",
+    "dst": "vertrag:0142424f",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:1abb6832",
+    "dst": "dokument:gestattungsvertrag_niedenhof_detlef_kr_ger_franz_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:1abb6832",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:kr_ger_franz",
+    "dst": "vertrag:1abb6832",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:25f7da5f",
+    "dst": "dokument:gestattungsvertrag_niedenhof_detlef_steenken_hermann_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:25f7da5f",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:steenken_hermann",
+    "dst": "vertrag:25f7da5f",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:1963276a",
+    "dst": "dokument:gestattungsvertrag_peters_immobilien_peters_niedenhof_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:peters_immobilien",
+    "dst": "vertrag:1963276a",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:839b0a6c",
+    "dst": "dokument:gestattungsvertrag_peters_niedenhof_peters_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "vertrag:0793bac7",
+    "dst": "dokument:gestattungsvertrag_peters_werner_sandland_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:peters_werner",
+    "dst": "vertrag:0793bac7",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:5f0ae58f",
+    "dst": "dokument:gestattungsvertrag_snw_solar_wilken_und_spark_agrar_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:snw_solar",
+    "dst": "vertrag:5f0ae58f",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsnehmer"
+  },
+  {
+    "src": "firma:wilken_und_spark_agrar",
+    "dst": "vertrag:5f0ae58f",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:ada176ef",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_hera_holztechnik_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:hera_holztechnik",
+    "dst": "vertrag:ada176ef",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:356c7261",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_i__wiehebrink_ernst_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:wiehebrink_ernst",
+    "dst": "vertrag:356c7261",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:356c7261",
+    "dst": "projekt:sonnentaler_i",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:9f1a5c08",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_i_gts_borgmann_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:gts_borgmann",
+    "dst": "vertrag:9f1a5c08",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:9f1a5c08",
+    "dst": "projekt:sonnentaler_i",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:704df773",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_i_kremes_gezienus__kiena_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:kremes_gezienus",
+    "dst": "vertrag:704df773",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:704df773",
+    "dst": "projekt:sonnentaler_i",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:262324e4",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_i_quappen_immobilien_nachtrag_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Nachtrag"
+  },
+  {
+    "src": "firma:quappen_immobilien",
+    "dst": "vertrag:262324e4",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:262324e4",
+    "dst": "projekt:sonnentaler_i",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Nachtrag"
+  },
+  {
+    "src": "vertrag:9882a9aa",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_ii_erbengemeinschaft_rosen_gerda__ralf_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "vertrag:9882a9aa",
+    "dst": "projekt:sonnentaler_ii",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:389c45fd",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_iii_jungsth_fel_bernhard_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:jungsth_fel_bernhard",
+    "dst": "vertrag:389c45fd",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:389c45fd",
+    "dst": "projekt:sonnentaler_iii",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:e3499076",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_iii_jungsth_fel_jan_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:jungsth_fel_jan",
+    "dst": "vertrag:e3499076",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:e3499076",
+    "dst": "projekt:sonnentaler_iii",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:e599ff89",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_b_ter_helmut_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:b_ter_helmut",
+    "dst": "vertrag:e599ff89",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:e599ff89",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:a46d5ee4",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_hoesen_karl_heinz_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:hoesen_karl_heinz",
+    "dst": "vertrag:a46d5ee4",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:a46d5ee4",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:8e7a18cc",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_hollander_jakob_signiert_2_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:hollander_jakob",
+    "dst": "vertrag:8e7a18cc",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:8e7a18cc",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:230a5b95",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_hollander_jakob_signiert_3_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:hollander_jakob",
+    "dst": "vertrag:230a5b95",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:230a5b95",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:d2d4cd38",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_hollander_jakob_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:hollander_jakob",
+    "dst": "vertrag:d2d4cd38",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:d2d4cd38",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:d284599b",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_hollander_werner_mit_nachtrag_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Nachtrag"
+  },
+  {
+    "src": "person:hollander_werner",
+    "dst": "vertrag:d284599b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:d284599b",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Nachtrag"
+  },
+  {
+    "src": "vertrag:b6ca9e30",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_hollander_werner_signiert_3_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:hollander_werner",
+    "dst": "vertrag:b6ca9e30",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:b6ca9e30",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:f8777306",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_hollander_werner_signiert_4_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:hollander_werner",
+    "dst": "vertrag:f8777306",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:f8777306",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:5b137dd1",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_hollander_werner_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:hollander_werner",
+    "dst": "vertrag:5b137dd1",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:5b137dd1",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:4afcdc58",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_kuiper_tjeerd_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:kuiper_tjeerd",
+    "dst": "vertrag:4afcdc58",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:4afcdc58",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:0f4bc542",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_quappen_immobilien_mit_nachtrag_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Nachtrag"
+  },
+  {
+    "src": "firma:quappen_immobilien",
+    "dst": "vertrag:0f4bc542",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:0f4bc542",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Nachtrag"
+  },
+  {
+    "src": "vertrag:19725b77",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_reulmann_andreas_2_mit_nachtrag_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Nachtrag"
+  },
+  {
+    "src": "person:reulmann_andreas",
+    "dst": "vertrag:19725b77",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:19725b77",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Nachtrag"
+  },
+  {
+    "src": "vertrag:9cdb2c9a",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_reulmann_andreas_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:reulmann_andreas",
+    "dst": "vertrag:9cdb2c9a",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:9cdb2c9a",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:ac658583",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_rosen_ralf_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:rosen_ralf",
+    "dst": "vertrag:ac658583",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:ac658583",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:296bcd10",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_schnelling_bernhard_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:schnelling_bernhard",
+    "dst": "vertrag:296bcd10",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:296bcd10",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:4b7138cb",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_schulte_albert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:schulte_albert",
+    "dst": "vertrag:4b7138cb",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:4b7138cb",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:57bd251f",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_v_volker_jansen_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "vertrag:57bd251f",
+    "dst": "projekt:sonnentaler_v",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:f66b40be",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_vii_hollander_werner_2_mit_nachtrag_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Nachtrag"
+  },
+  {
+    "src": "person:hollander_werner",
+    "dst": "vertrag:f66b40be",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:f66b40be",
+    "dst": "projekt:sonnentaler_vii",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Nachtrag"
+  },
+  {
+    "src": "vertrag:9ac539e5",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_vii_hollander_werner_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:hollander_werner",
+    "dst": "vertrag:9ac539e5",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:9ac539e5",
+    "dst": "projekt:sonnentaler_vii",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:9d96cce2",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_vii_kreuzhermes_christian_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:kreuzhermes_christian",
+    "dst": "vertrag:9d96cce2",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:9d96cce2",
+    "dst": "projekt:sonnentaler_vii",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:637b0101",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_vii_werner_hollander_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "vertrag:637b0101",
+    "dst": "projekt:sonnentaler_vii",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:17dee9db",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_viihollander_werner_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:hollander_werner",
+    "dst": "vertrag:17dee9db",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:17dee9db",
+    "dst": "projekt:sonnentaler_vii",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:c7f29533",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_viii_flerlage_gefl_gelzucht_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:flerlage_gefl_gelzucht",
+    "dst": "vertrag:c7f29533",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:c7f29533",
+    "dst": "projekt:sonnentaler_viii",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:ed44a272",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_x_nutraferm_petfood_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:nutraferm_petfood",
+    "dst": "vertrag:ed44a272",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:ed44a272",
+    "dst": "projekt:sonnentaler_x",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:e24aebf6",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_xi_schulte_ralf_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:schulte_ralf",
+    "dst": "vertrag:e24aebf6",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:e24aebf6",
+    "dst": "projekt:sonnentaler_xi",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:1ccb2fae",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_xi_wessels_richard_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:wessels_richard",
+    "dst": "vertrag:1ccb2fae",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:1ccb2fae",
+    "dst": "projekt:sonnentaler_xi",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:56713d9b",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_xii_gesevo_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:gesevo",
+    "dst": "vertrag:56713d9b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:56713d9b",
+    "dst": "projekt:sonnentaler_xii",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:3381720f",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_xv_paus_helmut_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:paus_helmut",
+    "dst": "vertrag:3381720f",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:3381720f",
+    "dst": "projekt:sonnentaler_xv",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:cc33edb3",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_xv_schulte_albert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:schulte_albert",
+    "dst": "vertrag:cc33edb3",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:cc33edb3",
+    "dst": "projekt:sonnentaler_xv",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:38eb652a",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_xvi__lohner_putenmast_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:lohner_putenmast",
+    "dst": "vertrag:38eb652a",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:38eb652a",
+    "dst": "projekt:sonnentaler_xv",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:0d207c14",
+    "dst": "dokument:gestattungsvertrag_sonnentaler_xvii_lohner_putenmast_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:lohner_putenmast",
+    "dst": "vertrag:0d207c14",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:0d207c14",
+    "dst": "projekt:sonnentaler_xv",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:c21aead8",
+    "dst": "dokument:gestattungsvertrag_sonnetaler_xi_investment_gemeinschaft_sigiltrastra_e_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:investment_gemeinschaft_sigiltrastra_e",
+    "dst": "vertrag:c21aead8",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:46e788ef",
+    "dst": "dokument:gestattungsvertrag_spark_heiner_spark_niedenhof_gbr_nachtrag_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Nachtrag"
+  },
+  {
+    "src": "person:spark_heiner",
+    "dst": "vertrag:46e788ef",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:c7110a7e",
+    "dst": "dokument:gestattungsvertrag_untiedt_gerd_jansen_bernd_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:untiedt_gerd",
+    "dst": "vertrag:c7110a7e",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:e45f0ca2",
+    "dst": "dokument:gestattungsvertrag_vn_vagedes_bernhard__guido_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:vn",
+    "dst": "vertrag:e45f0ca2",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "person:vagedes_bernhard",
+    "dst": "vertrag:e45f0ca2",
+    "relationship": "PARTEI_VON",
+    "rolle": "Gestattungsgeber"
+  },
+  {
+    "src": "vertrag:6827c7f2",
+    "dst": "dokument:gestattungsvertrag_wilken_wilken__niedenhof_wilken_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "vertrag:134347a0",
+    "dst": "dokument:mietvertrag_eichenbrink_6_niedenhof_detlef_frank_julius_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:134347a0",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vermieter"
+  },
+  {
+    "src": "person:frank_julius",
+    "dst": "vertrag:134347a0",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
+    "src": "vertrag:134347a0",
+    "dst": "projekt:immobilie_eichenbrink_6_vrees",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:b82fd6d3",
+    "dst": "dokument:mietvertrag_eichenbrink_6_vrees_niedenhof_detlef_malinowski_monika_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:b82fd6d3",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vermieter"
+  },
+  {
+    "src": "person:malinowski_monika",
+    "dst": "vertrag:b82fd6d3",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
+    "src": "vertrag:b82fd6d3",
+    "dst": "projekt:immobilie_eichenbrink_6_vrees",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:b309eeac",
+    "dst": "dokument:mietvertrag_eichenbrink_6_vrees_niedenhof_detlef_munk_lukas_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:b309eeac",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vermieter"
+  },
+  {
+    "src": "person:detlef_niedenhof",
+    "dst": "vertrag:b309eeac",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vermieter"
+  },
+  {
+    "src": "person:munk_lukas",
+    "dst": "vertrag:b309eeac",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
+    "src": "vertrag:b309eeac",
+    "dst": "projekt:immobilie_eichenbrink_6_vrees",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:7c8a5412",
+    "dst": "dokument:mietvertrag_eichenbrink_6_vrees_niedenhof_detlef_walder_julia_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:7c8a5412",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vermieter"
+  },
+  {
+    "src": "person:walder_julia",
+    "dst": "vertrag:7c8a5412",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
+    "src": "vertrag:7c8a5412",
+    "dst": "projekt:immobilie_eichenbrink_6_vrees",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:f95df103",
+    "dst": "dokument:mietvertrag_niedenhof_detlef_alali_zakaria_eichenbrink_6_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:f95df103",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vermieter"
+  },
+  {
+    "src": "person:alali_zakaria",
+    "dst": "vertrag:f95df103",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
+    "src": "vertrag:f95df103",
+    "dst": "projekt:immobilie_eichenbrink_6_vrees",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:c7fdbbc1",
+    "dst": "dokument:mietvertrag_raiffeisenstra_e_5_niedenhof_detlef_kleene_christine_k_nig_henning_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:c7fdbbc1",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vermieter"
+  },
+  {
+    "src": "person:kleene_christine",
+    "dst": "vertrag:c7fdbbc1",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
+    "src": "person:k_nig_henning",
+    "dst": "vertrag:c7fdbbc1",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
+    "src": "vertrag:61f0070b",
+    "dst": "dokument:mietvertrag_m_ller_str_24_we_5_niedenhof_detlef_kerkhoff_laureen_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:61f0070b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vermieter"
+  },
+  {
+    "src": "person:kerkhoff_laureen",
+    "dst": "vertrag:61f0070b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
+    "src": "vertrag:058a6d66",
+    "dst": "dokument:mietvertrag_von_m_ller_str_24_1_ogl_lewin_heiko_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:lewin_heiko",
+    "dst": "vertrag:058a6d66",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
+    "src": "vertrag:addaa079",
+    "dst": "dokument:mietvertrag_von_m_ller_str_24_1_ogl_niedenhof_detlef_harms_daniela_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:addaa079",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vermieter"
+  },
+  {
+    "src": "person:harms_daniela",
+    "dst": "vertrag:addaa079",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
+    "src": "vertrag:c18dea77",
+    "dst": "dokument:mietvertrag_von_m_ller_str_24_erdgeschoss_meinerling_gisela_b_sing_petra_detlev_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:meinerling_gisela",
+    "dst": "vertrag:c18dea77",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
+    "src": "person:b_sing_petra",
+    "dst": "vertrag:c18dea77",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
+    "src": "vertrag:6e5f1317",
+    "dst": "dokument:mietvertrag_von_m_ller_str_24_oldenburg_niedenhof_andrea_steineck_manfred_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_andrea",
+    "dst": "vertrag:6e5f1317",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vermieter"
+  },
+  {
+    "src": "person:steineck_manfred",
+    "dst": "vertrag:6e5f1317",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
+    "src": "vertrag:bec404f2",
+    "dst": "dokument:nutzungsvertrag_arenberg__meppen_taler_8_1_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:detlef_niedenhof",
+    "dst": "vertrag:bec404f2",
+    "relationship": "PARTEI_VON",
+    "rolle": "Nutzungspartei"
+  },
+  {
+    "src": "vertrag:0516aa57",
+    "dst": "dokument:nutzungsvertrag_kronlage_marcus_wt07_1_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:kronlage_marcus",
+    "dst": "vertrag:0516aa57",
+    "relationship": "PARTEI_VON",
+    "rolle": "Nutzungspartei"
+  },
+  {
+    "src": "vertrag:0516aa57",
+    "dst": "projekt:windpark_wt07",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:b10e4242",
+    "dst": "dokument:nutzungsvertrag_marka_taler_kemper_berendina_traute_johanne_n_sse_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:marka_taler",
+    "dst": "vertrag:b10e4242",
+    "relationship": "PARTEI_VON",
+    "rolle": "Nutzungspartei"
+  },
+  {
+    "src": "person:kemper_berendina",
+    "dst": "vertrag:b10e4242",
+    "relationship": "PARTEI_VON",
+    "rolle": "Nutzungspartei"
+  },
+  {
+    "src": "vertrag:a29464f0",
+    "dst": "dokument:nutzungsvertrag_sonnetaler_11_sandmann_christof_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:sandmann_christof",
+    "dst": "vertrag:a29464f0",
+    "relationship": "PARTEI_VON",
+    "rolle": "Nutzungspartei"
+  },
+  {
+    "src": "vertrag:15395793",
+    "dst": "dokument:nutzungsvertrag_wt03_hempen_ulrich_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:hempen_ulrich",
+    "dst": "vertrag:15395793",
+    "relationship": "PARTEI_VON",
+    "rolle": "Nutzungspartei"
+  },
+  {
+    "src": "vertrag:15395793",
+    "dst": "projekt:windpark_wt03",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:9d9ecc45",
+    "dst": "dokument:stromliefervertrag_bioenegie_witte_moor_snw_solar_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:snw_solar",
+    "dst": "vertrag:9d9ecc45",
+    "relationship": "PARTEI_VON",
+    "rolle": "Stromlieferant/Abnehmer"
+  },
+  {
+    "src": "vertrag:9d9ecc45",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:1bfa262e",
+    "dst": "dokument:stromliefervertrag_b_terei_bn_blinzenberg_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bn_blinzenberg",
+    "dst": "vertrag:1bfa262e",
+    "relationship": "PARTEI_VON",
+    "rolle": "Stromlieferant/Abnehmer"
+  },
+  {
+    "src": "firma:b_terei",
+    "dst": "vertrag:1bfa262e",
+    "relationship": "PARTEI_VON",
+    "rolle": "Stromlieferant/Abnehmer"
+  },
+  {
+    "src": "vertrag:1bfa262e",
+    "dst": "projekt:blinzenberg",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bn_blinzenberg",
+    "dst": "firma:b_terei",
+    "relationship": "LIEFERT_STROM",
+    "vertrag": "vertrag:1bfa262e"
+  },
+  {
+    "src": "vertrag:1aab23e2",
+    "dst": "dokument:stromliefervertrag_edeka_s_gel_sonnentaler_11_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:edeka",
+    "dst": "vertrag:1aab23e2",
+    "relationship": "PARTEI_VON",
+    "rolle": "Stromlieferant/Abnehmer"
+  },
+  {
+    "src": "person:detlef_niedenhof",
+    "dst": "vertrag:1aab23e2",
+    "relationship": "PARTEI_VON",
+    "rolle": "Stromlieferant/Abnehmer"
+  },
+  {
+    "src": "vertrag:d3b63828",
+    "dst": "dokument:stromliefervertrag_hrn_h_mmken_christof_nachtrag_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Nachtrag"
+  },
+  {
+    "src": "firma:hrn_solar",
+    "dst": "vertrag:d3b63828",
+    "relationship": "PARTEI_VON",
+    "rolle": "Stromlieferant/Abnehmer"
+  },
+  {
+    "src": "vertrag:f7250726",
+    "dst": "dokument:stromliefervertrag_hrn_h_mmken_christoph_signiert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:h_mmken_christoph",
+    "dst": "vertrag:f7250726",
+    "relationship": "PARTEI_VON",
+    "rolle": "Stromlieferant/Abnehmer"
+  },
+  {
+    "src": "vertrag:c994e789",
+    "dst": "dokument:stromliefervertrag_hoesen_karl_heinz_sonnentaler_05_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:hoesen_karl_heinz",
+    "dst": "vertrag:c994e789",
+    "relationship": "PARTEI_VON",
+    "rolle": "Stromlieferant/Abnehmer"
+  },
+  {
+    "src": "vertrag:48898a57",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_bbv_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:48898a57",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "firma:bbv",
+    "dst": "vertrag:48898a57",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:48898a57",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "firma:bbv",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:48898a57"
+  },
+  {
+    "src": "vertrag:5e391b8d",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_biow_rme_vrees_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:5e391b8d",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "firma:biow_rme_vrees",
+    "dst": "vertrag:5e391b8d",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:5e391b8d",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "firma:biow_rme_vrees",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:5e391b8d"
+  },
+  {
+    "src": "vertrag:c1e201ad",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_deters_ewald_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:c1e201ad",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:deters_ewald",
+    "dst": "vertrag:c1e201ad",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:c1e201ad",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "person:deters_ewald",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:c1e201ad"
+  },
+  {
+    "src": "vertrag:5c6a5a8e",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_h_mmlinger_volksbank_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:5c6a5a8e",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "firma:h_mmlinger_volksbank",
+    "dst": "vertrag:5c6a5a8e",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:5c6a5a8e",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "firma:h_mmlinger_volksbank",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:5c6a5a8e"
+  },
+  {
+    "src": "vertrag:628b2643",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_kaiser_maria_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:628b2643",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:kaiser_maria",
+    "dst": "vertrag:628b2643",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:628b2643",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "person:kaiser_maria",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:628b2643"
+  },
+  {
+    "src": "vertrag:ef58b4a3",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_kleene_peter_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:ef58b4a3",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:kleene_peter",
+    "dst": "vertrag:ef58b4a3",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:ef58b4a3",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "person:kleene_peter",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:ef58b4a3"
+  },
+  {
+    "src": "vertrag:e32c9e44",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_maschinenbau_manfred_kaiser_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:e32c9e44",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "firma:maschinenbau_manfred_kaiser",
+    "dst": "vertrag:e32c9e44",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:e32c9e44",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "firma:maschinenbau_manfred_kaiser",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:e32c9e44"
+  },
+  {
+    "src": "vertrag:6d70a357",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_nannen_ludger_2009_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:6d70a357",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:nannen_ludger",
+    "dst": "vertrag:6d70a357",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:6d70a357",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "person:nannen_ludger",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:6d70a357"
+  },
+  {
+    "src": "vertrag:f94b69a9",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_nannen_ludger_2011_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:f94b69a9",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:nannen_ludger",
+    "dst": "vertrag:f94b69a9",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:f94b69a9",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "person:nannen_ludger",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:f94b69a9"
+  },
+  {
+    "src": "vertrag:811513d6",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_niedenhof_detlef_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:811513d6",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:811513d6",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "vertrag:811513d6",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:3841e1fe",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_p_nther_bernahard_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:3841e1fe",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "vertrag:3841e1fe",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:b776e219",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_schol_bbers_stefan_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:b776e219",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:schol_bbers_stefan",
+    "dst": "vertrag:b776e219",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:b776e219",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "person:schol_bbers_stefan",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:b776e219"
+  },
+  {
+    "src": "vertrag:562a9f66",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_steenken_hermann_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:562a9f66",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:steenken_hermann",
+    "dst": "vertrag:562a9f66",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:562a9f66",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "person:steenken_hermann",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:562a9f66"
+  },
+  {
+    "src": "vertrag:f66f0270",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_suhl_hans_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:f66f0270",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:suhl_hans",
+    "dst": "vertrag:f66f0270",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:f66f0270",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "person:suhl_hans",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:f66f0270"
+  },
+  {
+    "src": "vertrag:db61f585",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_wilken_bernhardt_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:db61f585",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:wilken_bernhard",
+    "dst": "vertrag:db61f585",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:db61f585",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "person:wilken_bernhard",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:db61f585"
+  },
+  {
+    "src": "vertrag:eb94163c",
+    "dst": "dokument:w_rmeliefervertrag_bioenenergie_witte_moor_wilken_spark_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "vertrag:eb94163c",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:wilken_spark",
+    "dst": "vertrag:eb94163c",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:eb94163c",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenenergie_witte_moor",
+    "dst": "person:wilken_spark",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:eb94163c"
+  },
+  {
+    "src": "vertrag:9d27f41a",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_witte_moor_gemeinde_vrees_nachtrag_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Nachtrag"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "vertrag:9d27f41a",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "firma:gemeinde_vrees",
+    "dst": "vertrag:9d27f41a",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "person:detlef_niedenhof",
+    "dst": "vertrag:9d27f41a",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:9d27f41a",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Nachtrag"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "firma:gemeinde_vrees",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:9d27f41a"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "person:detlef_niedenhof",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:9d27f41a"
+  },
+  {
+    "src": "vertrag:e51ac33d",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_witte_moor_gemeinde_vrees_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "vertrag:e51ac33d",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "firma:gemeinde_vrees",
+    "dst": "vertrag:e51ac33d",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:e51ac33d",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "firma:gemeinde_vrees",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:e51ac33d"
+  },
+  {
+    "src": "vertrag:fa42aa8f",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_witte_moor_kaiser_maria_nachtrag_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Nachtrag"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "vertrag:fa42aa8f",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:detlef_niedenhof",
+    "dst": "vertrag:fa42aa8f",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "person:kaiser_maria",
+    "dst": "vertrag:fa42aa8f",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:fa42aa8f",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Nachtrag"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "person:detlef_niedenhof",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:fa42aa8f"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "person:kaiser_maria",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:fa42aa8f"
+  },
+  {
+    "src": "vertrag:56b6dd32",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_witte_moor_maschinenbau_manfred_kaiser_nachtrag_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Nachtrag"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "vertrag:56b6dd32",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "firma:maschinenbau_manfred_kaiser",
+    "dst": "vertrag:56b6dd32",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "person:detlef_niedenhof",
+    "dst": "vertrag:56b6dd32",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:56b6dd32",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Nachtrag"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "firma:maschinenbau_manfred_kaiser",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:56b6dd32"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "person:detlef_niedenhof",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:56b6dd32"
+  },
+  {
+    "src": "vertrag:4ecfd1ff",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_witte_moor_samtgemeinde_werlte_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "vertrag:4ecfd1ff",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "firma:samtgemeinde_werlte",
+    "dst": "vertrag:4ecfd1ff",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:4ecfd1ff",
+    "dst": "projekt:witte_moor",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "firma:samtgemeinde_werlte",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:4ecfd1ff"
+  },
+  {
+    "src": "vertrag:65e70956",
+    "dst": "dokument:w_rmeliefervertrag_niedenhof_detlef_dedden_j_rgen_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:65e70956",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:dedden_j_rgen",
+    "dst": "vertrag:65e70956",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "person:dedden_j_rgen",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:65e70956"
+  },
+  {
+    "src": "vertrag:8eaec18b",
+    "dst": "dokument:w_rmeliefervertrag_niedenhof_detlef_gerdes_michael_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:8eaec18b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:gerdes_michael",
+    "dst": "vertrag:8eaec18b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "person:gerdes_michael",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:8eaec18b"
+  },
+  {
+    "src": "vertrag:48d0cb4e",
+    "dst": "dokument:w_rmeliefervertrag_niedenhof_detlef_niedenhof_norbert_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:48d0cb4e",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:detlef_niedenhof",
+    "dst": "vertrag:48d0cb4e",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "person:niedenhof_norbert",
+    "dst": "vertrag:48d0cb4e",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "person:detlef_niedenhof",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:48d0cb4e"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "person:niedenhof_norbert",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:48d0cb4e"
+  },
+  {
+    "src": "vertrag:47dd5719",
+    "dst": "dokument:w_rmeliefervertrag_niedenhof_detlef_porten_stephan_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:47dd5719",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:porten_stephan",
+    "dst": "vertrag:47dd5719",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "person:porten_stephan",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:47dd5719"
+  },
+  {
+    "src": "vertrag:5dcc87db",
+    "dst": "dokument:w_rmeliefervertrag_niedenhof_detlef_rode_thomas_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "vertrag:5dcc87db",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:rode_thomas",
+    "dst": "vertrag:5dcc87db",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "person:rode_thomas",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:5dcc87db"
+  },
+  {
+    "src": "vertrag:3c0449f2",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_bg_h_mmken_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:3c0449f2",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "vertrag:3c0449f2",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:e0e7e3ef",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_beckmann_arnold_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:e0e7e3ef",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:beckmann_arnold",
+    "dst": "vertrag:e0e7e3ef",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:e0e7e3ef",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:beckmann_arnold",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:e0e7e3ef"
+  },
+  {
+    "src": "vertrag:ee8dceef",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_berg_marco_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:ee8dceef",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:berg_marco",
+    "dst": "vertrag:ee8dceef",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:ee8dceef",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:berg_marco",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:ee8dceef"
+  },
+  {
+    "src": "vertrag:a7afdd76",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_b_ter_berthold_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:a7afdd76",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:b_ter_berthold",
+    "dst": "vertrag:a7afdd76",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:a7afdd76",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:b_ter_berthold",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:a7afdd76"
+  },
+  {
+    "src": "vertrag:192fc557",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_b_ter_ernst_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:192fc557",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:b_ter_ernst",
+    "dst": "vertrag:192fc557",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:192fc557",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:b_ter_ernst",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:192fc557"
+  },
+  {
+    "src": "vertrag:f5233dfe",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_b_ter_ralph_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:f5233dfe",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:b_ter_ralph",
+    "dst": "vertrag:f5233dfe",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:f5233dfe",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:b_ter_ralph",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:f5233dfe"
+  },
+  {
+    "src": "vertrag:1749528d",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_dedden_franz_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:1749528d",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:dedden_franz",
+    "dst": "vertrag:1749528d",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:1749528d",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:dedden_franz",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:1749528d"
+  },
+  {
+    "src": "vertrag:35ba5631",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_dedden_paul_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:35ba5631",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:dedden_paul",
+    "dst": "vertrag:35ba5631",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:35ba5631",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:dedden_paul",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:35ba5631"
+  },
+  {
+    "src": "vertrag:6dae14fc",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_dinklage_wilhelm_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:6dae14fc",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:dinklage_wilhelm",
+    "dst": "vertrag:6dae14fc",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:6dae14fc",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:dinklage_wilhelm",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:6dae14fc"
+  },
+  {
+    "src": "vertrag:422ffcab",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_elbers_josef_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:422ffcab",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:elbers_josef",
+    "dst": "vertrag:422ffcab",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:422ffcab",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:elbers_josef",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:422ffcab"
+  },
+  {
+    "src": "vertrag:9bad559b",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_elbers_paul_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:9bad559b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:elbers_paul",
+    "dst": "vertrag:9bad559b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:9bad559b",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:elbers_paul",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:9bad559b"
+  },
+  {
+    "src": "vertrag:cd1b3e02",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_ficker_friedrich_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:cd1b3e02",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:ficker_friedrich",
+    "dst": "vertrag:cd1b3e02",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:cd1b3e02",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:ficker_friedrich",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:cd1b3e02"
+  },
+  {
+    "src": "vertrag:9a80037b",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_fleer_thien_wilfried_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:9a80037b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:fleer_thien_wilfried",
+    "dst": "vertrag:9a80037b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:9a80037b",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:fleer_thien_wilfried",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:9a80037b"
+  },
+  {
+    "src": "vertrag:1beb832e",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_fortwengel_christoph_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:1beb832e",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:fortwengel_christoph",
+    "dst": "vertrag:1beb832e",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:1beb832e",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:fortwengel_christoph",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:1beb832e"
+  },
+  {
+    "src": "vertrag:127373a8",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_hausfeld_rainer_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:127373a8",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:hausfeld_rainer",
+    "dst": "vertrag:127373a8",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:127373a8",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:hausfeld_rainer",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:127373a8"
+  },
+  {
+    "src": "vertrag:8262f613",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_hemker_nadine_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:8262f613",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:hemker_nadine",
+    "dst": "vertrag:8262f613",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:8262f613",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:hemker_nadine",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:8262f613"
+  },
+  {
+    "src": "vertrag:3d2a070b",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_heymann_alexandra_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:3d2a070b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:heymann_alexandra",
+    "dst": "vertrag:3d2a070b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:3d2a070b",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:heymann_alexandra",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:3d2a070b"
+  },
+  {
+    "src": "vertrag:a3c1b94d",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_heymann_willi_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:a3c1b94d",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:heymann_willi",
+    "dst": "vertrag:a3c1b94d",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:a3c1b94d",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:heymann_willi",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:a3c1b94d"
+  },
+  {
+    "src": "vertrag:382d0882",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_hogeback_andreas_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:382d0882",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:hogeback_andreas",
+    "dst": "vertrag:382d0882",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:382d0882",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:hogeback_andreas",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:382d0882"
+  },
+  {
+    "src": "vertrag:158d108e",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_h_mmken_andreas_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:158d108e",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:h_mmken_andreas",
+    "dst": "vertrag:158d108e",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:158d108e",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:h_mmken_andreas",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:158d108e"
+  },
+  {
+    "src": "vertrag:34e2184c",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_h_mmken_bernhard_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:34e2184c",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:h_mmken_bernhard",
+    "dst": "vertrag:34e2184c",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:34e2184c",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:h_mmken_bernhard",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:34e2184c"
+  },
+  {
+    "src": "vertrag:f94a3cfa",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_h_mmken_claudia_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:f94a3cfa",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:h_mmken_claudia",
+    "dst": "vertrag:f94a3cfa",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:f94a3cfa",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:h_mmken_claudia",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:f94a3cfa"
+  },
+  {
+    "src": "vertrag:c97e0fc0",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_jansen_gerd_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:c97e0fc0",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:jansen_gerd",
+    "dst": "vertrag:c97e0fc0",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:c97e0fc0",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:jansen_gerd",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:c97e0fc0"
+  },
+  {
+    "src": "vertrag:34d2f2ea",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_khreis_mohammed_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:34d2f2ea",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:khreis_mohammed",
+    "dst": "vertrag:34d2f2ea",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:34d2f2ea",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:khreis_mohammed",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:34d2f2ea"
+  },
+  {
+    "src": "vertrag:a18a012c",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_kleene_berthold_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:a18a012c",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:kleene_berthold",
+    "dst": "vertrag:a18a012c",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:a18a012c",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:kleene_berthold",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:a18a012c"
+  },
+  {
+    "src": "vertrag:dfd69eb5",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_l_bke_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:dfd69eb5",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:l_bke",
+    "dst": "vertrag:dfd69eb5",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:dfd69eb5",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:l_bke",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:dfd69eb5"
+  },
+  {
+    "src": "vertrag:9ac81db3",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_l_nswilken_josef_am_sportplatz_4_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:9ac81db3",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:l_nswilken_josef",
+    "dst": "vertrag:9ac81db3",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:9ac81db3",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:l_nswilken_josef",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:9ac81db3"
+  },
+  {
+    "src": "vertrag:e7a0d933",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_l_nswilken_josef_am_sportplatz_6_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:e7a0d933",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:l_nswilken_josef",
+    "dst": "vertrag:e7a0d933",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:e7a0d933",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:l_nswilken_josef",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:e7a0d933"
+  },
+  {
+    "src": "vertrag:93aaa20b",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_menke_bernd_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:93aaa20b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:menke_bernd",
+    "dst": "vertrag:93aaa20b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:93aaa20b",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:menke_bernd",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:93aaa20b"
+  },
+  {
+    "src": "vertrag:75b2e827",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_oldemanns_heinz_in_den_g_rten_2_peheimer_stra_e_2_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:75b2e827",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:oldemanns_heinz",
+    "dst": "vertrag:75b2e827",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:75b2e827",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:oldemanns_heinz",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:75b2e827"
+  },
+  {
+    "src": "vertrag:7b44b33f",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_peters_heinz_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:7b44b33f",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:peters_heinz",
+    "dst": "vertrag:7b44b33f",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:7b44b33f",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:peters_heinz",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:7b44b33f"
+  },
+  {
+    "src": "vertrag:fa1c9938",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_peters_herbert_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:fa1c9938",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:peters_herbert",
+    "dst": "vertrag:fa1c9938",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:fa1c9938",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:peters_herbert",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:fa1c9938"
+  },
+  {
+    "src": "vertrag:826202ff",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_plaggenborg_dora_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:826202ff",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:plaggenborg_dora",
+    "dst": "vertrag:826202ff",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:826202ff",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:plaggenborg_dora",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:826202ff"
+  },
+  {
+    "src": "vertrag:3dfa0171",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_plaggenborg_martin_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:3dfa0171",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:plaggenborg_martin",
+    "dst": "vertrag:3dfa0171",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:3dfa0171",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:plaggenborg_martin",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:3dfa0171"
+  },
+  {
+    "src": "vertrag:dd5d420c",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_puls_josef_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:dd5d420c",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:puls_josef",
+    "dst": "vertrag:dd5d420c",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:dd5d420c",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:puls_josef",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:dd5d420c"
+  },
+  {
+    "src": "vertrag:334090d2",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_rawe_berthhold_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:334090d2",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "vertrag:334090d2",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:c9c2d4ad",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_rieken_gerd_hoher_sand_10_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:c9c2d4ad",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:rieken_gerd",
+    "dst": "vertrag:c9c2d4ad",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:c9c2d4ad",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:rieken_gerd",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:c9c2d4ad"
+  },
+  {
+    "src": "vertrag:7e7ebcfd",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_rieken_gerd_hoher_sand_2_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:7e7ebcfd",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:rieken_gerd",
+    "dst": "vertrag:7e7ebcfd",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:7e7ebcfd",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:rieken_gerd",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:7e7ebcfd"
+  },
+  {
+    "src": "vertrag:4b57f244",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_rieken_gerd_hoher_sand_4_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:4b57f244",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:rieken_gerd",
+    "dst": "vertrag:4b57f244",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:4b57f244",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:rieken_gerd",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:4b57f244"
+  },
+  {
+    "src": "vertrag:f399fda6",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_rieken_gerd_hoher_sand_6_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:f399fda6",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:rieken_gerd",
+    "dst": "vertrag:f399fda6",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:f399fda6",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:rieken_gerd",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:f399fda6"
+  },
+  {
+    "src": "vertrag:1536a764",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_schmidt_jens_willi_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:1536a764",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:schmidt_jens_willi",
+    "dst": "vertrag:1536a764",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:1536a764",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:schmidt_jens_willi",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:1536a764"
+  },
+  {
+    "src": "vertrag:bcac2b17",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_schweers_erwin_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:bcac2b17",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:schweers_erwin",
+    "dst": "vertrag:bcac2b17",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:bcac2b17",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:schweers_erwin",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:bcac2b17"
+  },
+  {
+    "src": "vertrag:df62dcd6",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_unverfehrt_heinz_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:df62dcd6",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:unverfehrt_heinz",
+    "dst": "vertrag:df62dcd6",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:df62dcd6",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:unverfehrt_heinz",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:df62dcd6"
+  },
+  {
+    "src": "vertrag:9c91ab18",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_wessels_bernhard_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:9c91ab18",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:wessels_bernhard",
+    "dst": "vertrag:9c91ab18",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:9c91ab18",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:wessels_bernhard",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:9c91ab18"
+  },
+  {
+    "src": "vertrag:ec907dfa",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_wevering_wilma_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:ec907dfa",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:wevering_wilma",
+    "dst": "vertrag:ec907dfa",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:ec907dfa",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:wevering_wilma",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:ec907dfa"
+  },
+  {
+    "src": "vertrag:d54ec62a",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_wilhelm_schmidt_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:d54ec62a",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:wilhelm_schmidt",
+    "dst": "vertrag:d54ec62a",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:d54ec62a",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:wilhelm_schmidt",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:d54ec62a"
+  },
+  {
+    "src": "vertrag:267ca384",
+    "dst": "dokument:w_rmeliefervertrag_bioenergie_alte_heide_wraga_iris_matthias_sign_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "vertrag:267ca384",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:wraga_iris",
+    "dst": "vertrag:267ca384",
+    "relationship": "PARTEI_VON",
+    "rolle": "Wärmeabnehmer"
+  },
+  {
+    "src": "vertrag:267ca384",
+    "dst": "projekt:alte_heide",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "person:wraga_iris",
+    "relationship": "LIEFERT_WAERME",
+    "vertrag": "vertrag:267ca384"
+  },
+  {
+    "src": "vertrag:7cf75d9b",
+    "dst": "dokument:jahresabrechnung_2024_heymann_alexandra_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:heymann_alexandra",
+    "dst": "vertrag:7cf75d9b",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vertragspartei"
+  },
+  {
+    "src": "vertrag:d2f697ab",
+    "dst": "dokument:jahresabrechnung_2024_h_mmken_claudia_z_hler_639_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:h_mmken_claudia",
+    "dst": "vertrag:d2f697ab",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vertragspartei"
+  },
+  {
+    "src": "vertrag:1ea3b274",
+    "dst": "dokument:jahresabrechnung_2024_h_mmken_claudia_z_hler_919_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:h_mmken_claudia",
+    "dst": "vertrag:1ea3b274",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vertragspartei"
+  },
+  {
+    "src": "vertrag:0c6cf851",
+    "dst": "dokument:jahresabrechnung_2024_kleene_berthold_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:kleene_berthold",
+    "dst": "vertrag:0c6cf851",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vertragspartei"
+  },
+  {
+    "src": "vertrag:1beadd86",
+    "dst": "dokument:detlef_niedenhof_dieter_elbers_kaufvertrag_der_en_gbr_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:detlef_niedenhof",
+    "dst": "vertrag:1beadd86",
+    "relationship": "PARTEI_VON",
+    "rolle": "Käufer/Verkäufer"
+  },
+  {
+    "src": "person:dieter_elbers",
+    "dst": "vertrag:1beadd86",
+    "relationship": "PARTEI_VON",
+    "rolle": "Käufer/Verkäufer"
+  },
+  {
+    "src": "vertrag:8e5f9161",
+    "dst": "dokument:detlef_niedenhof_uwe_kebschull_kaufvertrag_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:detlef_niedenhof",
+    "dst": "vertrag:8e5f9161",
+    "relationship": "PARTEI_VON",
+    "rolle": "Käufer/Verkäufer"
+  },
+  {
+    "src": "vertrag:ff520fd4",
+    "dst": "dokument:kemper_n_sse_detlef_niedenhof_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:detlef_niedenhof",
+    "dst": "vertrag:ff520fd4",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vertragspartei"
+  },
+  {
+    "src": "vertrag:d52cd619",
+    "dst": "dokument:sonnentaler_iii_andrea_niedenhof_nachtrag_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Nachtrag"
+  },
+  {
+    "src": "person:andrea_niedenhof",
+    "dst": "vertrag:d52cd619",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vertragspartei"
+  },
+  {
+    "src": "vertrag:d52cd619",
+    "dst": "projekt:sonnentaler_iii",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Nachtrag"
+  },
+  {
+    "src": "vertrag:2e26efbc",
+    "dst": "dokument:sonnentaler_viii_flerlage_gefl_gelzucht_nachtag_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:flerlage_gefl_gelzucht",
+    "dst": "vertrag:2e26efbc",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vertragspartei"
+  },
+  {
+    "src": "vertrag:2e26efbc",
+    "dst": "projekt:sonnentaler_viii",
+    "relationship": "GEHOERT_ZU",
+    "beziehung": "Hauptvertrag"
+  },
+  {
+    "src": "vertrag:683e0152",
+    "dst": "dokument:stadtweke_wesel_marka_taler_kaufvertrag_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "firma:marka_taler",
+    "dst": "vertrag:683e0152",
+    "relationship": "PARTEI_VON",
+    "rolle": "Käufer/Verkäufer"
+  },
+  {
+    "src": "vertrag:775cedd4",
+    "dst": "dokument:unterpachtvertrag_franz_untied_detlef_niedenhof_pdf",
+    "relationship": "HAT_DOKUMENT",
+    "dokument_typ": "Original"
+  },
+  {
+    "src": "person:detlef_niedenhof",
+    "dst": "vertrag:775cedd4",
+    "relationship": "PARTEI_VON",
+    "rolle": "Vertragspartei"
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "firma:hrn_solar",
+    "relationship": "GESELLSCHAFTER_VON",
+    "anteil_prozent": 50
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "firma:nn_solar",
+    "relationship": "GESELLSCHAFTER_VON",
+    "anteil_prozent": 50
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "firma:bn_blinzenberg",
+    "relationship": "GESELLSCHAFTER_VON",
+    "anteil_prozent": 50
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "firma:snw_solar",
+    "relationship": "GESELLSCHAFTER_VON",
+    "anteil_prozent": 50
+  },
+  {
+    "src": "person:niedenhof_detlef",
+    "dst": "firma:vn",
+    "relationship": "GESELLSCHAFTER_VON",
+    "anteil_prozent": 50
+  },
+  {
+    "src": "person:niedenhof_andrea",
+    "dst": "firma:lhh_r_hlertwist",
+    "relationship": "GESELLSCHAFTER_VON",
+    "anteil_prozent": 50
+  },
+  {
+    "src": "firma:marka_taler",
+    "dst": "projekt:windpark_wt03",
+    "relationship": "BETREIBT"
+  },
+  {
+    "src": "firma:marka_taler",
+    "dst": "projekt:windpark_wt04",
+    "relationship": "BETREIBT"
+  },
+  {
+    "src": "firma:marka_taler",
+    "dst": "projekt:windpark_wt05",
+    "relationship": "BETREIBT"
+  },
+  {
+    "src": "firma:bioenergie_witte_moor",
+    "dst": "projekt:witte_moor",
+    "relationship": "BETREIBT"
+  },
+  {
+    "src": "firma:bioenergie_alte_heide",
+    "dst": "projekt:alte_heide",
+    "relationship": "BETREIBT"
+  }
+]

@@ -1,0 +1,4917 @@
+[
+  {
+    "vertrags_id": "vertrag:7167b442",
+    "dateiname": "Betriebsführungsvertrag Marka Taler Ingenieurbüro Wintering sign.pdf",
+    "dateipfad": "Betriebsführungsverträge/Betriebsführungsvertrag Marka Taler Ingenieurbüro Wintering sign.pdf",
+    "kategorie": "Betriebsführungsverträge",
+    "vertragsart": "Betriebsführungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Marka Taler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Ingenieurbüro Wintering",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:06f58ebe",
+    "dateiname": "Betriebsführungsvertrag Marka Taler WT03 sign.pdf",
+    "dateipfad": "Betriebsführungsverträge/Betriebsführungsvertrag Marka Taler WT03 sign.pdf",
+    "kategorie": "Betriebsführungsverträge",
+    "vertragsart": "Betriebsführungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 10,
+    "parteien": [
+      {
+        "name": "Marka Taler",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:c13be12b",
+    "dateiname": "Betriebsführungsvertrag Marka Taler WT04 sign.pdf",
+    "dateipfad": "Betriebsführungsverträge/Betriebsführungsvertrag Marka Taler WT04 sign.pdf",
+    "kategorie": "Betriebsführungsverträge",
+    "vertragsart": "Betriebsführungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 12,
+    "parteien": [
+      {
+        "name": "Marka Taler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Taler GmbH",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {
+      "leistung": [
+        "3"
+      ]
+    },
+    "standorte": [
+      "Vrees",
+      "Werlte"
+    ],
+    "text_preview": "\"n\n“-\nVertrag zur Betriebsfllihrung des\nWindparkprojektes Werlte\nzwischen der\nWindtaler IV GmbH & Co. KG\nSchflr Hus 1, D - 49757 Vrees\n1 nachfolgend \"Auftraggeber\" genannt\nI\n. und der\nMarka Taler GmbH & Co. KG\nSchiir Hus 1, D - 49757 Vrees\nnachfolgend “Auftragnehmer\" genannt\nDer Auftraggeber und der Auftragnehmer werden nachfolgend gemeinsam als \"Parteien\" und einzeln\n0 als \"Partei\" bezeichnet.\nPréiambel\nDerAuftraggeberwird zukunftig den WindparkWerlte (im Folgenden: \"Windpark\") bestehend aus ei"
+  },
+  {
+    "vertrags_id": "vertrag:96dd2c6f",
+    "dateiname": "Betriebsführungsvertrag Marka Taler WT05 Nachtrag.pdf",
+    "dateipfad": "Betriebsführungsverträge/Betriebsführungsvertrag Marka Taler WT05 Nachtrag.pdf",
+    "kategorie": "Betriebsführungsverträge",
+    "vertragsart": "Betriebsführungsvertrag",
+    "ist_nachtrag": true,
+    "seitenzahl": 1,
+    "parteien": [
+      {
+        "name": "Marka Taler",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:7ce5126a",
+    "dateiname": "Betriebsführungsvertrag Marka Taler WT05.pdf",
+    "dateipfad": "Betriebsführungsverträge/Betriebsführungsvertrag Marka Taler WT05.pdf",
+    "kategorie": "Betriebsführungsverträge",
+    "vertragsart": "Betriebsführungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 11,
+    "parteien": [
+      {
+        "name": "Marka Taler",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:83f99db0",
+    "dateiname": "Betriebsführungsvertrag WT04 Marka Taler Nachtrag 2017 08 02.pdf",
+    "dateipfad": "Betriebsführungsverträge/Betriebsführungsvertrag WT04 Marka Taler Nachtrag 2017 08 02.pdf",
+    "kategorie": "Betriebsführungsverträge",
+    "vertragsart": "Betriebsführungsvertrag",
+    "ist_nachtrag": true,
+    "seitenzahl": 1,
+    "parteien": [
+      {
+        "name": "Marka Taler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Taler GmbH",
+        "typ": "Firma"
+      },
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      }
+    ],
+    "datum": {
+      "found_dates": [
+        "08.02.2017",
+        "01.01.2019"
+      ]
+    },
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Vrees",
+      "Werlte"
+    ],
+    "text_preview": "Nachtrag//inderung zum\nVertrag zur Betriebsjiihrung des Windparkprojektes Werlte vom 08.02.2017\nAuftraggeber: Windtaler IV GmbH & Co.KG\nSchur Hus 1\n49757 Vrees\nAuftragnehmer: Marka Taler GmbH & Co.KG\nSchL'|r Hus 1\n49757 Vrees\nDer Auftraggeber und der Auftragnehmer werden nachfolgend gemeinsam als\n,,Parteien” und einzeln als ,,Partei” bezeichnet.\nDie Parteien haben folgende blnderung zu o.g. Vertrag_gesch|ossen.\n§ 5Absatz 1\nDie jéhrliche Vergiitung des Auftragnehmers errechnet sich ab dem\n01.01.2"
+  },
+  {
+    "vertrags_id": "vertrag:46899152",
+    "dateiname": "Direktvermarktungsvertrag e2m Beeke Wiesen Agrar sign.pdf",
+    "dateipfad": "Direktvermarktungsverträge/Direktvermarktungsvertrag e2m Beeke Wiesen Agrar sign.pdf",
+    "kategorie": "Direktvermarktungsverträge",
+    "vertragsart": "Direktvermarktungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 30,
+    "parteien": [
+      {
+        "name": "e2m",
+        "typ": "Firma"
+      },
+      {
+        "name": "Beeke Wiesen Agrar",
+        "typ": "Firma"
+      },
+      {
+        "name": "Johannes Jansen",
+        "typ": "Person"
+      }
+    ],
+    "datum": {
+      "found_dates": [
+        "01.07.2024",
+        "04.08.2015",
+        "08.04.2024",
+        "26.06.2015"
+      ]
+    },
+    "finanzen": {
+      "betraege": [
+        "25,00",
+        "275,00"
+      ],
+      "preis_ct_kwh": [
+        "0,2"
+      ],
+      "prozente": [
+        "19",
+        "19",
+        "68",
+        "2",
+        "2"
+      ]
+    },
+    "energie": {
+      "malo_ids": [
+        "DE78285900752",
+        "Marktlokation",
+        "MaLo",
+        "MaLo",
+        "MaLo"
+      ],
+      "eeg_refs": [
+        "EEG",
+        "EEG-",
+        "EEG 2023"
+      ]
+    },
+    "standorte": [
+      "Vrees"
+    ],
+    "text_preview": "Vertrag\nStromliefervertrag zur Direktvermarktung von\nelektrischer Energie und Erzeugungsflexibilitét\naus steuerbaren Erzeugungsanlagen\nzwischen Energy2market GmbH, WeiflenfelserStrafie 84, 04229 Leipzig (,,e2m“) und dem ,,Erzeuger“\nBeekeWiesenAgrarGmbH GeLa\nFirrnenname Vertriebspartnergruppe\nZum Dorfteich 5 dn@ta|er.de\nStraile, Hausnummer E-Mail\n49757Vrees +49 (4479)93910\nPostleitzahl,Ori TelefonFesineiz\nJohannes Jansen, DetlefNiedenhof +49 (173)2531266\nvertretendurch TelefonMobil\nwiederumvertre"
+  },
+  {
+    "vertrags_id": "vertrag:233a2aec",
+    "dateiname": "Direkvermarktungsvertrag e2m Bioenergie Witte Moor sign.pdf",
+    "dateipfad": "Direktvermarktungsverträge/Direkvermarktungsvertrag e2m Bioenergie Witte Moor sign.pdf",
+    "kategorie": "Direktvermarktungsverträge",
+    "vertragsart": "Direktvermarktungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 32,
+    "parteien": [
+      {
+        "name": "e2m",
+        "typ": "Firma"
+      },
+      {
+        "name": "Bioenergie Witte Moor",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {
+      "prozente": [
+        "1199",
+        "1199",
+        "6688"
+      ]
+    },
+    "energie": {
+      "eeg_refs": [
+        "EEG"
+      ]
+    },
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "VVeerrttrraagg\nSSttrroommlliieeffeerrvveerrttrraagg zzuurr DDiirreekkttvveerrmmaarrkkttuunngg vvoonn\neelleekkttrriisscchheerr EEnneerrggiiee uunndd EErrzzeeuugguunnggssfflleexxiibbiilliittéétt\naauuss sstteeuueerrbbaarreenn EErrzzeeuugguunnggssaannllaaggeenn\nzzwwiisscchheenn EEnneerrggyy22mmaarrkkeettGGmmbbHH,, WWeeiififieennffeellsseerrSSttrraaII33ee 8844,, 0044222299 LLeeiippzziigg ((,,,,ee22mm““)) uunndd ddeemm ,,,,EErrzzeeuuggeerr““\nBBiiooeenneerrggiieeWWiittttee MMoooorrGGmmbbHH && CCoo.. KK"
+  },
+  {
+    "vertrags_id": "vertrag:3ec50114",
+    "dateiname": "Gesellschaftervertrag Albers Christoph Niedenhof Detlef Poelmeyer Dennis sign.pdf",
+    "dateipfad": "Gesellschaftsverträge/Gesellschaftervertrag Albers Christoph Niedenhof Detlef Poelmeyer Dennis sign.pdf",
+    "kategorie": "Gesellschaftsverträge",
+    "vertragsart": "Gesellschaftsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Albers Christoph",
+        "typ": "Person"
+      },
+      {
+        "name": "Poelmeyer Dennis",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:a692c593",
+    "dateiname": "Gesellschaftervertrag BN Blinzenberg sign.pdf",
+    "dateipfad": "Gesellschaftsverträge/Gesellschaftervertrag BN Blinzenberg sign.pdf",
+    "kategorie": "Gesellschaftsverträge",
+    "vertragsart": "Gesellschaftsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "BN Blinzenberg",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Blinzenberg"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:06771e5b",
+    "dateiname": "Gesellschaftervertrag HRN Solar sign.pdf",
+    "dateipfad": "Gesellschaftsverträge/Gesellschaftervertrag HRN Solar sign.pdf",
+    "kategorie": "Gesellschaftsverträge",
+    "vertragsart": "Gesellschaftsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 2,
+    "parteien": [
+      {
+        "name": "HRN Solar",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:5f7bb620",
+    "dateiname": "Gesellschaftervertrag Kirschner, Niedenhof sign.pdf",
+    "dateipfad": "Gesellschaftsverträge/Gesellschaftervertrag Kirschner, Niedenhof sign.pdf",
+    "kategorie": "Gesellschaftsverträge",
+    "vertragsart": "Gesellschaftsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Kirschner",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:3fb5d91b",
+    "dateiname": "Gesellschaftervertrag NN Solar sign.pdf",
+    "dateipfad": "Gesellschaftsverträge/Gesellschaftervertrag NN Solar sign.pdf",
+    "kategorie": "Gesellschaftsverträge",
+    "vertragsart": "Gesellschaftsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "NN Solar",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:60b979f5",
+    "dateiname": "Gesellschaftervertrag Niedenhof Andrea Wessendorf August sign.pdf",
+    "dateipfad": "Gesellschaftsverträge/Gesellschaftervertrag Niedenhof Andrea Wessendorf August sign.pdf",
+    "kategorie": "Gesellschaftsverträge",
+    "vertragsart": "Gesellschaftsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Niedenhof Andrea",
+        "typ": "Person"
+      },
+      {
+        "name": "Wessendorf August",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:577225e9",
+    "dateiname": "Gesellschaftervertrag Niedenhof Detlef Peters Helmut sign.pdf",
+    "dateipfad": "Gesellschaftsverträge/Gesellschaftervertrag Niedenhof Detlef Peters Helmut sign.pdf",
+    "kategorie": "Gesellschaftsverträge",
+    "vertragsart": "Gesellschaftsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Peters Helmut",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:b89cd2b4",
+    "dateiname": "Gesellschaftervertrag Niedenhof Detlef Robenek Guido sign.pdf",
+    "dateipfad": "Gesellschaftsverträge/Gesellschaftervertrag Niedenhof Detlef Robenek Guido sign.pdf",
+    "kategorie": "Gesellschaftsverträge",
+    "vertragsart": "Gesellschaftsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Robenek Guido",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:20e6bdc2",
+    "dateiname": "Gesellschaftervertrag Niedenhof Detlef Spark Heiner Wilken Bernhard sign.pdf",
+    "dateipfad": "Gesellschaftsverträge/Gesellschaftervertrag Niedenhof Detlef Spark Heiner Wilken Bernhard sign.pdf",
+    "kategorie": "Gesellschaftsverträge",
+    "vertragsart": "Gesellschaftsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Wilken Bernhard",
+        "typ": "Person"
+      },
+      {
+        "name": "Spark Heiner",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:c37db9ab",
+    "dateiname": "Gesellschaftervertrag Sonnentaler II sign.pdf",
+    "dateipfad": "Gesellschaftsverträge/Gesellschaftervertrag Sonnentaler II sign.pdf",
+    "kategorie": "Gesellschaftsverträge",
+    "vertragsart": "Gesellschaftsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:7d5ec8df",
+    "dateiname": "Gesellschaftervertrag Wilken Wilken Niedenhof sign.pdf",
+    "dateipfad": "Gesellschaftsverträge/Gesellschaftervertrag Wilken Wilken Niedenhof sign.pdf",
+    "kategorie": "Gesellschaftsverträge",
+    "vertragsart": "Gesellschaftsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:cd6b19d7",
+    "dateiname": "Gesellschaftervertrag Witte Moor Photovoltaik sign.pdf",
+    "dateipfad": "Gesellschaftsverträge/Gesellschaftervertrag Witte Moor Photovoltaik sign.pdf",
+    "kategorie": "Gesellschaftsverträge",
+    "vertragsart": "Gesellschaftsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:c3a09a09",
+    "dateiname": "Gestattungsvertrag  Janssen Andreas, Hans Sonnentaler IX signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag  Janssen Andreas, Hans Sonnentaler IX signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Janssen Andreas",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:f341a265",
+    "dateiname": "Gestattungsvertrag  Niedenhof Detlef Göken Gerhard signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag  Niedenhof Detlef Göken Gerhard signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Göken Gerhard",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:c05fc889",
+    "dateiname": "Gestattungsvertrag  Untied Gerd Kossen Birgit signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag  Untied Gerd Kossen Birgit signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Untied Gerd",
+        "typ": "Person"
+      },
+      {
+        "name": "Kossen Birgit",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:5d8818ab",
+    "dateiname": "Gestattungsvertrag Andrea Niedenhof LHH Rühlertwist signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Andrea Niedenhof LHH Rühlertwist signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "LHH Rühlertwist",
+        "typ": "Firma"
+      },
+      {
+        "name": "Andrea Niedenhof",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Rühlertwist"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:e0245ad5",
+    "dateiname": "Gestattungsvertrag BN Blinzenberg Büter Wilhelm signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag BN Blinzenberg Büter Wilhelm signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "BN Blinzenberg",
+        "typ": "Firma"
+      },
+      {
+        "name": "Büter Wilhelm",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Blinzenberg"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:1ca72f74",
+    "dateiname": "Gestattungsvertrag Berendina Kemper Traute Nüsse Johanne Niedenhof Detlef signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Berendina Kemper Traute Nüsse Johanne Niedenhof Detlef signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Nüsse Johanne",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:b0b1abb8",
+    "dateiname": "Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert 2.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert 2.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Bioenergie Witte Moor",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:c8ca9d81",
+    "dateiname": "Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Bioenergie Witte Moor",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:8fa639eb",
+    "dateiname": "Gestattungsvertrag HRN Solar Hömmken Bernhard.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag HRN Solar Hömmken Bernhard.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "HRN Solar",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hömmken Bernhard",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:378a0fbd",
+    "dateiname": "Gestattungsvertrag Janssen Andreas Janssen Niedenhof signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Janssen Andreas Janssen Niedenhof signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "VN",
+        "typ": "Firma"
+      },
+      {
+        "name": "Janssen Andreas",
+        "typ": "Person"
+      }
+    ],
+    "datum": {
+      "found_dates": [
+        "14.12.2010"
+      ]
+    },
+    "finanzen": {
+      "prozente": [
+        "10",
+        "9"
+      ]
+    },
+    "energie": {},
+    "standorte": [],
+    "text_preview": "Gestattuugsvertrag iibcr die Errichtung llllit clen__Betrieb\nBiner Phntn1gq_ltailj.3nlag1_1\nzwischen\nAndreas Jansscn film-use 11 4915':‘Wcrlte\n- nachth-Igend Eigentiimergenannt—\nund\nJanssen,NiedenhnfGhll SchfirHus 1 49757 ‘Frees\n— nachfolgend Nulzer gcnannt —\nPrfiamhel\nDer Eigcntllmcr gewfihrl dem Nutzcr tin N l fiberdie in -§ I genanntc Dachflfichc\nfiir die Em'chtung und den Ben-it-.b einer Phutrwnlmilcanlagc zur Ijrzcugung van Solarsimm.\nDer Umfang dcs Nutzmgsmchts crgilrt sich ans den Beslirn"
+  },
+  {
+    "vertrags_id": "vertrag:bbe59609",
+    "dateiname": "Gestattungsvertrag Kempel Berendina Nüsse Traute Nüsse Johanne Niedenhof Detlef signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Kempel Berendina Nüsse Traute Nüsse Johanne Niedenhof Detlef signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Nüsse Traute",
+        "typ": "Person"
+      },
+      {
+        "name": "Nüsse Johanne",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:b5d55c95",
+    "dateiname": "Gestattungsvertrag Kirschner, Niedenhof Kirschner Heinz signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Kirschner, Niedenhof Kirschner Heinz signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Kirschner",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:339e281d",
+    "dateiname": "Gestattungsvertrag LHH Rühlertwist Niedenhof Andrea signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag LHH Rühlertwist Niedenhof Andrea signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "LHH Rühlertwist",
+        "typ": "Firma"
+      },
+      {
+        "name": "Niedenhof Andrea",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {
+      "prozente": [
+        "1100",
+        "1100",
+        "1100",
+        "1100",
+        "6666"
+      ]
+    },
+    "energie": {
+      "eeg_refs": [
+        "EEG"
+      ]
+    },
+    "standorte": [
+      "Rühlertwist"
+    ],
+    "text_preview": "\"\"DD\nGGeessttaattttuunnggssvveerrttrraagg iiiibbeerr ddiiee EErrrriicchhttuunngg uunndd ddeenn BBeettrriieebb\neeiinneerr PPhhoottoovvoollttaaiikkaannllaagggg\nzzwwiisscchheenn\nLLHHHH RRiiiihhlleerrttwwiisstt\nAAlltt--RRiiiihhlleerrttwwiisstt 7766 AA\n4499776677 TTwwiisstt\n-- nnaacchhffoollggeenndd EEiiggeennttttiimmeerr ggeennaannnntt ——\nuunndd\nAAnnddrreeaa NNiieeddeennhhooff,, SScchhiiiirrhhuuss 11,, 4499775577 VVrreeeess\n-- nnaacchhffoollggeenndd NNuuttzzeerr ggeennaannnntt ——\nPPrrfifiaammbbeell\n"
+  },
+  {
+    "vertrags_id": "vertrag:adc985e4",
+    "dateiname": "Gestattungsvertrag NN Solar GbR Nannen Ludger signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag NN Solar GbR Nannen Ludger signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "NN Solar",
+        "typ": "Firma"
+      },
+      {
+        "name": "Nannen Ludger",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:d53535bb",
+    "dateiname": "Gestattungsvertrag Niedenhof Andrea Hollander Werner signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Niedenhof Andrea Hollander Werner signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Niedenhof Andrea",
+        "typ": "Person"
+      },
+      {
+        "name": "Hollander Werner",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:cd785ac9",
+    "dateiname": "Gestattungsvertrag Niedenhof Andrea Lüken Martin signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Niedenhof Andrea Lüken Martin signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Niedenhof Andrea",
+        "typ": "Person"
+      },
+      {
+        "name": "Lüken Martin",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:0142424f",
+    "dateiname": "Gestattungsvertrag Niedenhof Detlef Behrens Kossen signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Niedenhof Detlef Behrens Kossen signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Behrens",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:1abb6832",
+    "dateiname": "Gestattungsvertrag Niedenhof Detlef Kröger Franz signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Niedenhof Detlef Kröger Franz signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Kröger Franz",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:25f7da5f",
+    "dateiname": "Gestattungsvertrag Niedenhof Detlef Steenken Hermann signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Niedenhof Detlef Steenken Hermann signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Steenken Hermann",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:1963276a",
+    "dateiname": "Gestattungsvertrag Peters Immobilien Peters Niedenhof signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Peters Immobilien Peters Niedenhof signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Peters Immobilien",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:839b0a6c",
+    "dateiname": "Gestattungsvertrag Peters Niedenhof Peters signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Peters Niedenhof Peters signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:0793bac7",
+    "dateiname": "Gestattungsvertrag Peters Werner Sandland signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Peters Werner Sandland signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Peters Werner",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:5f0ae58f",
+    "dateiname": "Gestattungsvertrag SNW Solar Wilken und Spark Agrar signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag SNW Solar Wilken und Spark Agrar signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "SNW Solar",
+        "typ": "Firma"
+      },
+      {
+        "name": "Wilken und Spark Agrar",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:ada176ef",
+    "dateiname": "Gestattungsvertrag Sonnentaler HERA Holztechnik signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler HERA Holztechnik signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "HERA Holztechnik",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:356c7261",
+    "dateiname": "Gestattungsvertrag Sonnentaler I  Wiehebrink Ernst.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler I  Wiehebrink Ernst.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Wiehebrink Ernst",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:9f1a5c08",
+    "dateiname": "Gestattungsvertrag Sonnentaler I GTS Borgmann signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler I GTS Borgmann signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "GTS Borgmann",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:704df773",
+    "dateiname": "Gestattungsvertrag Sonnentaler I Kremes Gezienus, Kiena signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler I Kremes Gezienus, Kiena signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Kremes Gezienus",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:262324e4",
+    "dateiname": "Gestattungsvertrag Sonnentaler I Quappen Immobilien Nachtrag signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler I Quappen Immobilien Nachtrag signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": true,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Quappen Immobilien",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:9882a9aa",
+    "dateiname": "Gestattungsvertrag Sonnentaler II Erbengemeinschaft Rosen Gerda, Ralf signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler II Erbengemeinschaft Rosen Gerda, Ralf signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:389c45fd",
+    "dateiname": "Gestattungsvertrag Sonnentaler III Jungsthöfel Bernhard signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler III Jungsthöfel Bernhard signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Jungsthöfel Bernhard",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:e3499076",
+    "dateiname": "Gestattungsvertrag Sonnentaler III Jungsthöfel Jan signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler III Jungsthöfel Jan signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Jungsthöfel Jan",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:e599ff89",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Büter Helmut signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Büter Helmut signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Büter Helmut",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:a46d5ee4",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Hoesen Karl Heinz signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Hoesen Karl Heinz signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hoesen Karl Heinz",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:8e7a18cc",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 2.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 2.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hollander Jakob",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:230a5b95",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 3.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 3.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hollander Jakob",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:d2d4cd38",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Jakob signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Hollander Jakob signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hollander Jakob",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:d284599b",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Werner mit Nachtrag signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Hollander Werner mit Nachtrag signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": true,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hollander Werner",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:b6ca9e30",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Werner signiert 3.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Hollander Werner signiert 3.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hollander Werner",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:f8777306",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Werner signiert 4.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Hollander Werner signiert 4.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hollander Werner",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:5b137dd1",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Werner signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Hollander Werner signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hollander Werner",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:4afcdc58",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Kuiper Tjeerd.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Kuiper Tjeerd.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Kuiper Tjeerd",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:0f4bc542",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Quappen Immobilien mit Nachtrag signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Quappen Immobilien mit Nachtrag signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": true,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Quappen Immobilien",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:19725b77",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Reulmann Andreas 2 mit Nachtrag signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Reulmann Andreas 2 mit Nachtrag signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": true,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Reulmann Andreas",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:9cdb2c9a",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Reulmann Andreas signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Reulmann Andreas signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Reulmann Andreas",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:ac658583",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Rosen Ralf signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Rosen Ralf signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Rosen Ralf",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:296bcd10",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Schnelling Bernhard signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Schnelling Bernhard signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Schnelling Bernhard",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:4b7138cb",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Schulte Albert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Schulte Albert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Schulte Albert",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:57bd251f",
+    "dateiname": "Gestattungsvertrag Sonnentaler V Volker&Jansen signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Volker&Jansen signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:f66b40be",
+    "dateiname": "Gestattungsvertrag Sonnentaler VII Hollander Werner 2 mit Nachtrag signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler VII Hollander Werner 2 mit Nachtrag signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": true,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hollander Werner",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:9ac539e5",
+    "dateiname": "Gestattungsvertrag Sonnentaler VII Hollander Werner signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler VII Hollander Werner signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hollander Werner",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:9d96cce2",
+    "dateiname": "Gestattungsvertrag Sonnentaler VII Kreuzhermes Christian signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler VII Kreuzhermes Christian signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Kreuzhermes Christian",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:637b0101",
+    "dateiname": "Gestattungsvertrag Sonnentaler VII Werner Hollander signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler VII Werner Hollander signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:17dee9db",
+    "dateiname": "Gestattungsvertrag Sonnentaler VIIHollander Werner signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler VIIHollander Werner signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hollander Werner",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:c7f29533",
+    "dateiname": "Gestattungsvertrag Sonnentaler VIII Flerlage Geflügelzucht signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler VIII Flerlage Geflügelzucht signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Flerlage Geflügelzucht",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:ed44a272",
+    "dateiname": "Gestattungsvertrag Sonnentaler X Nutraferm Petfood.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler X Nutraferm Petfood.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Nutraferm Petfood",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:e24aebf6",
+    "dateiname": "Gestattungsvertrag Sonnentaler XI Schulte Ralf.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler XI Schulte Ralf.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Schulte Ralf",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:1ccb2fae",
+    "dateiname": "Gestattungsvertrag Sonnentaler XI Wessels Richard.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler XI Wessels Richard.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Wessels Richard",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:56713d9b",
+    "dateiname": "Gestattungsvertrag Sonnentaler XII GESEVO signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler XII GESEVO signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "GESEVO",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:3381720f",
+    "dateiname": "Gestattungsvertrag Sonnentaler XV Paus Helmut.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler XV Paus Helmut.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Paus Helmut",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:cc33edb3",
+    "dateiname": "Gestattungsvertrag Sonnentaler XV Schulte Albert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler XV Schulte Albert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Schulte Albert",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:38eb652a",
+    "dateiname": "Gestattungsvertrag Sonnentaler XVI  Lohner Putenmast signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler XVI  Lohner Putenmast signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 8,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Lohner Putenmast",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:0d207c14",
+    "dateiname": "Gestattungsvertrag Sonnentaler XVII Lohner Putenmast signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler XVII Lohner Putenmast signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Lohner Putenmast",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:c21aead8",
+    "dateiname": "Gestattungsvertrag Sonnetaler XI-Investment Gemeinschaft Sigiltrastraße signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnetaler XI-Investment Gemeinschaft Sigiltrastraße signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Investment Gemeinschaft Sigiltrastraße",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:46e788ef",
+    "dateiname": "Gestattungsvertrag Spark Heiner Spark Niedenhof GbR Nachtrag signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Spark Heiner Spark Niedenhof GbR Nachtrag signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": true,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Spark Heiner",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:c7110a7e",
+    "dateiname": "Gestattungsvertrag Untiedt Gerd Jansen Bernd signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Untiedt Gerd Jansen Bernd signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Untiedt Gerd",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:e45f0ca2",
+    "dateiname": "Gestattungsvertrag VN Vagedes Bernhard, Guido signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag VN Vagedes Bernhard, Guido signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "VN",
+        "typ": "Firma"
+      },
+      {
+        "name": "Vagedes Bernhard",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:6827c7f2",
+    "dateiname": "Gestattungsvertrag Wilken Wilken, Niedenhof Wilken signiert.pdf",
+    "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Wilken Wilken, Niedenhof Wilken signiert.pdf",
+    "kategorie": "Gestattungsverträge PV",
+    "vertragsart": "Gestattungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:134347a0",
+    "dateiname": "Mietvertrag Eichenbrink 6 Niedenhof Detlef Frank Julius sign.pdf",
+    "dateipfad": "Mietverträge/Eichenbrink 6 Vrees/Mietvertrag Eichenbrink 6 Niedenhof Detlef Frank Julius sign.pdf",
+    "kategorie": "Mietverträge",
+    "vertragsart": "Mietvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 14,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Frank Julius",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:b82fd6d3",
+    "dateiname": "Mietvertrag Eichenbrink 6 Vrees Niedenhof Detlef Malinowski Monika sign.pdf",
+    "dateipfad": "Mietverträge/Eichenbrink 6 Vrees/Mietvertrag Eichenbrink 6 Vrees Niedenhof Detlef Malinowski Monika sign.pdf",
+    "kategorie": "Mietverträge",
+    "vertragsart": "Mietvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 14,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Malinowski Monika",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {
+      "prozente": [
+        "1100",
+        "88"
+      ]
+    },
+    "energie": {},
+    "standorte": [
+      "Vrees"
+    ],
+    "text_preview": "11\nMMiieettvveerrttrraagg fifibbeerr WWoohhnnrraauumm\nZZwwiisscchheenn\nDDeettiieeff NNiieeddeennhhooff,, ZZuumm DDoorrfftteeiicchh 55,, 4499775577 VVrreeeess\n-- iimm FFoollggeennddeenn ,,,,\\\\//eerrmmiieetteerr““ ggeennaannnntt--\nuunndd\nMMoonniikkaa MMaalliinnoowwsskkii,, LLiinnddeerrnneerr SSttrraaBBee,, 4499775577 VVrreeeess\n-- iimm FFoollggeennddeenn ,,,,MMiieetteerr““ ggeennaannnntt--\nwwiirrdd ffoollggeennddeerr MMiieettvveerrttrraagg ggeesscchhiioosssseenn::\n§§ 11 MMiieettggeeggeennssttaannd"
+  },
+  {
+    "vertrags_id": "vertrag:b309eeac",
+    "dateiname": "Mietvertrag Eichenbrink 6 Vrees Niedenhof Detlef Munk Lukas sign.pdf",
+    "dateipfad": "Mietverträge/Eichenbrink 6 Vrees/Mietvertrag Eichenbrink 6 Vrees Niedenhof Detlef Munk Lukas sign.pdf",
+    "kategorie": "Mietverträge",
+    "vertragsart": "Mietvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 14,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Detlef Niedenhof",
+        "typ": "Person"
+      },
+      {
+        "name": "Munk Lukas",
+        "typ": "Person"
+      }
+    ],
+    "datum": {
+      "found_dates": [
+        "22.7.2026",
+        "22.7.2024"
+      ]
+    },
+    "finanzen": {
+      "betraege": [
+        "644,00",
+        "71,00",
+        "150,00",
+        "865,00",
+        "2,50"
+      ],
+      "prozente": [
+        "10",
+        "8"
+      ]
+    },
+    "energie": {},
+    "standorte": [
+      "Vrees"
+    ],
+    "text_preview": "1\nMietvertrag fiber Wohnraum\nZwischen\nDetlef Niedenhof, Zum Dorfteich 5, 49757 Vrees\n- im Folgenden ,,Vem1ieter“ genannt-\nund\nLukas Munk, Groner Landstrafie 7, 37081 Géttingen\n- im Folgenden ,,Mieter\" genannt -\nwird folgender Mietvertrag geschlossenz\n§ 1 Mietgegenstand I (ohne Einbaukiiche)\n1.1.\nVermietet wird die Wohnung im Eichenbrink 6 in 49757 Vrees Wohnung 4 im Obergeschoss\nbestehend aus 1 Zimmern sowie 1 Kiiche/Wohnen, 1 Bad, 1 Flur, 1 Abstellraum, 2 Baikone. Die\nWohnung hateineWohnfiéchev"
+  },
+  {
+    "vertrags_id": "vertrag:7c8a5412",
+    "dateiname": "Mietvertrag Eichenbrink 6 Vrees Niedenhof Detlef Walder Julia sign.pdf",
+    "dateipfad": "Mietverträge/Eichenbrink 6 Vrees/Mietvertrag Eichenbrink 6 Vrees Niedenhof Detlef Walder Julia sign.pdf",
+    "kategorie": "Mietverträge",
+    "vertragsart": "Mietvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 14,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Walder Julia",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Vrees"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:f95df103",
+    "dateiname": "Mietvertrag Niedenhof Detlef Alali Zakaria Eichenbrink 6 sign.pdf",
+    "dateipfad": "Mietverträge/Eichenbrink 6 Vrees/Mietvertrag Niedenhof Detlef Alali Zakaria Eichenbrink 6 sign.pdf",
+    "kategorie": "Mietverträge",
+    "vertragsart": "Mietvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 10,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Alali Zakaria",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:c7fdbbc1",
+    "dateiname": "Mietvertrag Raiffeisenstraße 5 Niedenhof Detlef Kleene Christine König Henning sign.pdf",
+    "dateipfad": "Mietverträge/Raiffeisenstraße 5 Vrees/Mietvertrag Raiffeisenstraße 5 Niedenhof Detlef Kleene Christine König Henning sign.pdf",
+    "kategorie": "Mietverträge",
+    "vertragsart": "Mietvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Kleene Christine",
+        "typ": "Person"
+      },
+      {
+        "name": "König Henning",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:61f0070b",
+    "dateiname": "Mietvertrag Müller Str 24 WE 5 Niedenhof Detlef Kerkhoff Laureen sign.pdf",
+    "dateipfad": "Mietverträge/Von Müller Str 24 OL/Mietvertrag Müller Str 24 WE 5 Niedenhof Detlef Kerkhoff Laureen sign.pdf",
+    "kategorie": "Mietverträge",
+    "vertragsart": "Mietvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 12,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Kerkhoff Laureen",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:058a6d66",
+    "dateiname": "Mietvertrag Von Müller Str 24 1 OGL Lewin Heiko sign.pdf",
+    "dateipfad": "Mietverträge/Von Müller Str 24 OL/Mietvertrag Von Müller Str 24 1 OGL Lewin Heiko sign.pdf",
+    "kategorie": "Mietverträge",
+    "vertragsart": "Mietvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Lewin Heiko",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:addaa079",
+    "dateiname": "Mietvertrag Von Müller Str 24 1 OGL Niedenhof Detlef Harms Daniela sign.pdf",
+    "dateipfad": "Mietverträge/Von Müller Str 24 OL/Mietvertrag Von Müller Str 24 1 OGL Niedenhof Detlef Harms Daniela sign.pdf",
+    "kategorie": "Mietverträge",
+    "vertragsart": "Mietvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 8,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Harms Daniela",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:c18dea77",
+    "dateiname": "Mietvertrag Von Müller Str 24 Erdgeschoss Meinerling Gisela Büsing Petra Detlev sign.pdf",
+    "dateipfad": "Mietverträge/Von Müller Str 24 OL/Mietvertrag Von Müller Str 24 Erdgeschoss Meinerling Gisela Büsing Petra Detlev sign.pdf",
+    "kategorie": "Mietverträge",
+    "vertragsart": "Mietvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 12,
+    "parteien": [
+      {
+        "name": "Meinerling Gisela",
+        "typ": "Person"
+      },
+      {
+        "name": "Büsing Petra",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:6e5f1317",
+    "dateiname": "Mietvertrag Von Müller Str 24 Oldenburg Niedenhof Andrea Steineck Manfred sign.pdf",
+    "dateipfad": "Mietverträge/Von Müller Str 24 OL/Mietvertrag Von Müller Str 24 Oldenburg Niedenhof Andrea Steineck Manfred sign.pdf",
+    "kategorie": "Mietverträge",
+    "vertragsart": "Mietvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Niedenhof Andrea",
+        "typ": "Person"
+      },
+      {
+        "name": "Steineck Manfred",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Oldenburg"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:bec404f2",
+    "dateiname": "Nutzungsvertrag Arenberg- Meppen Taler 8.1.pdf",
+    "dateipfad": "Nutzungsverträge/Nutzungsvertrag Arenberg- Meppen Taler 8.1.pdf",
+    "kategorie": "Nutzungsverträge",
+    "vertragsart": "Nutzungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 38,
+    "parteien": [
+      {
+        "name": "Detlef Niedenhof",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {
+      "prozente": [
+        "10"
+      ]
+    },
+    "energie": {
+      "leistung": [
+        "10",
+        "10",
+        "10"
+      ]
+    },
+    "standorte": [
+      "Cloppenburg",
+      "Meppen",
+      "Vrees"
+    ],
+    "text_preview": "Grundstücksnutzungsvertrag\nzwischen\nTaler Wind 8.1 GmbH, Zum Dorfteich 5 49757 Vrees, vertreten durch den\neinzelvertretungsberechtigten Geschäftsführer Detlef Niedenhof, Vrees\n- nachfolgend bezeichnet als „Nutzer“ -\nund\nArenberg–Meppen GmbH, vertreten durch den Geschäftsführer Herrn Thomas Schomaker,\nHaselünner Straße 17,49716 Meppen, und den Prokuristen Herrn Volker Blankenspeck,\nund den nach internen Geschäftsverteilungsplan zuständigen Fachbereichsleiter Gerd Niers\n- nachfolgend bezeichnet al"
+  },
+  {
+    "vertrags_id": "vertrag:0516aa57",
+    "dateiname": "Nutzungsvertrag Kronlage Marcus WT07-1 sign.pdf",
+    "dateipfad": "Nutzungsverträge/Nutzungsvertrag Kronlage Marcus WT07-1 sign.pdf",
+    "kategorie": "Nutzungsverträge",
+    "vertragsart": "Nutzungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 25,
+    "parteien": [
+      {
+        "name": "Kronlage Marcus",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:b10e4242",
+    "dateiname": "Nutzungsvertrag Marka Taler Kemper Berendina Traute Johanne Nüsse sign.pdf",
+    "dateipfad": "Nutzungsverträge/Nutzungsvertrag Marka Taler Kemper Berendina Traute Johanne Nüsse sign.pdf",
+    "kategorie": "Nutzungsverträge",
+    "vertragsart": "Nutzungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Marka Taler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Kemper Berendina",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:a29464f0",
+    "dateiname": "Nutzungsvertrag Sonnetaler 11 Sandmann Christof sign.pdf",
+    "dateipfad": "Nutzungsverträge/Nutzungsvertrag Sonnetaler 11 Sandmann Christof sign.pdf",
+    "kategorie": "Nutzungsverträge",
+    "vertragsart": "Nutzungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sandmann Christof",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:15395793",
+    "dateiname": "Nutzungsvertrag WT03 Hempen Ulrich sign.pdf",
+    "dateipfad": "Nutzungsverträge/Nutzungsvertrag WT03 Hempen Ulrich sign.pdf",
+    "kategorie": "Nutzungsverträge",
+    "vertragsart": "Nutzungsvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 32,
+    "parteien": [
+      {
+        "name": "Hempen Ulrich",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:9d9ecc45",
+    "dateiname": "Stromliefervertrag Bioenegie Witte Moor SNW Solar signiert.pdf",
+    "dateipfad": "Stromlieferverträge/Stromliefervertrag Bioenegie Witte Moor SNW Solar signiert.pdf",
+    "kategorie": "Stromlieferverträge",
+    "vertragsart": "Stromliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "SNW Solar",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {
+      "leistung": [
+        "205"
+      ],
+      "eeg_refs": [
+        "EEG-"
+      ]
+    },
+    "standorte": [
+      "Witte Moor",
+      "Vrees"
+    ],
+    "text_preview": "Stromvertrag\nzwischen\nBloenergie Witte Moor GmbH 8- Co. KG Zum Dorfteich 5 49757 Vrees\n-nachfolgend EigentUmer-\nund\nSNW Solar GbR Zum Dorfteich 5 49757 Vrees Steuernummer 531203130983\n-nachfolgend Lieferant-\n§ 1 Vertragsgegenstand\nDer Lieferant speist auf dem Grundstiick der Bioenergie Vifitte Moor GmbH & Co. KG in\nVrees eine Photovoltaik-Anlage mit einer installierten Leistung von 205 kWp ins Netz ein.\nDer Lieferantwird Strom an den Eigentilmer liefern, sobald alle technischen und sonstigen\nVor"
+  },
+  {
+    "vertrags_id": "vertrag:1bfa262e",
+    "dateiname": "Stromliefervertrag Büterei BN Blinzenberg sign.pdf",
+    "dateipfad": "Stromlieferverträge/Stromliefervertrag Büterei BN Blinzenberg sign.pdf",
+    "kategorie": "Stromlieferverträge",
+    "vertragsart": "Stromliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "BN Blinzenberg",
+        "typ": "Firma"
+      },
+      {
+        "name": "Büterei",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {
+      "found_dates": [
+        "01.01.2023"
+      ]
+    },
+    "finanzen": {
+      "betraege": [
+        "630,25"
+      ],
+      "prozente": [
+        "19"
+      ]
+    },
+    "energie": {
+      "leistung": [
+        "660"
+      ],
+      "eeg_refs": [
+        "EEG-"
+      ]
+    },
+    "standorte": [
+      "Blinzenberg",
+      "Vrees"
+    ],
+    "text_preview": "Stromvertrag\nzwischen\nButerei GmbH & Co. KG GehlenbergerWeg 131 49757 Vrees\n-nachfolgend EigentUmer-\nund\nBN Blinzenberg GbR Zum Dorfteich 5 49757 Vrees\n-nachfolgend Lieferant-\n§ 1 Vertragsgegenstand\nDer Lieferant hat auf dem Dach des Herrn Bijter in Vrees eine Photovoltaik-Anlage mit\neiner installierten Leistung von 660 kWp errichtet.\nDer Lieferantwird Strom an den Eigentiimer liefem, sobald alle technischen und sonstigen\nVoraussetzungen geschaffen sind. Dieser Strom wird durch eine Photovoltaik"
+  },
+  {
+    "vertrags_id": "vertrag:1aab23e2",
+    "dateiname": "Stromliefervertrag Edeka Sögel Sonnentaler 11 sign.pdf",
+    "dateipfad": "Stromlieferverträge/Stromliefervertrag Edeka Sögel Sonnentaler 11 sign.pdf",
+    "kategorie": "Stromlieferverträge",
+    "vertragsart": "Stromliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Edeka",
+        "typ": "Firma"
+      },
+      {
+        "name": "Detlef Niedenhof",
+        "typ": "Person"
+      }
+    ],
+    "datum": {
+      "found_dates": [
+        "1.10.2023"
+      ]
+    },
+    "finanzen": {
+      "prozente": [
+        "10"
+      ]
+    },
+    "energie": {
+      "leistung": [
+        "344"
+      ],
+      "eeg_refs": [
+        "EEG-"
+      ]
+    },
+    "standorte": [
+      "Sögel",
+      "Vrees"
+    ],
+    "text_preview": "$\nStromvertrag\nzwischen\nEDEKA Meyer Sigiltrastrasse 11 49751 Sfigel\nvertreten durch Marko Meyer\n-nachfolgend EigentUmer-\nund\nSonnentaler XI GmbH & Co. KG Zum Dorfteich 5 49757 Vrees\nvertreten durch Detlef Niedenhof\n-nachfolgend Lieferant-\n§ 1 Vertragsgegenstand\nDer Lieferant hat auf dem Dach des EDEKA Marktes in Ségel eine Photovoltaik-Anlage\nmit einer installierten Leistung von 344 kWp errichtet.\nDer Lieferantwird Strom an den Eigentflmer liefern, sobald alletechnischen und sonstigen\nVoraussetz"
+  },
+  {
+    "vertrags_id": "vertrag:d3b63828",
+    "dateiname": "Stromliefervertrag HRN Hömmken Christof Nachtrag.pdf",
+    "dateipfad": "Stromlieferverträge/Stromliefervertrag HRN Hömmken Christof Nachtrag.pdf",
+    "kategorie": "Stromlieferverträge",
+    "vertragsart": "Stromliefervertrag",
+    "ist_nachtrag": true,
+    "seitenzahl": 1,
+    "parteien": [
+      {
+        "name": "HRN Solar",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {
+      "found_dates": [
+        "20.12.2022",
+        "15.05.2024",
+        "01.01.2026"
+      ]
+    },
+    "finanzen": {
+      "betraege": [
+        "0,05",
+        "0,20"
+      ]
+    },
+    "energie": {},
+    "standorte": [
+      "Vrees"
+    ],
+    "text_preview": "Nachtrag zum Stromvertragvom 20.12.2022\nzwischen: Christopf Hémmken, In den StraBen 4, 49757 Vrees -EigentL'|mer-\nund: HRN Solar GbR, Zum Dorfteich 5, 49757 Vrees -Lieferant-\n§ 4 Strompreis\nEntgegen dem Vertrag vom 20.12.2022 wird cler Strompreis fUr die Jahre\n2024 und 2025 um 0,05€ Netto gesenkt und betrégt somit 0,20€ Netto.\nAb dem 01.01.2026 werden die Preise neu verhandelt.\nVrees, 15.05.2024\nOrt, Datum Ort, Datum\n4\nF.\nJ1- ;=a5:2\nUnterschrift Lieferant Unterschrift Eigentumer"
+  },
+  {
+    "vertrags_id": "vertrag:f7250726",
+    "dateiname": "Stromliefervertrag HRN Hömmken Christoph signiert.pdf",
+    "dateipfad": "Stromlieferverträge/Stromliefervertrag HRN Hömmken Christoph signiert.pdf",
+    "kategorie": "Stromlieferverträge",
+    "vertragsart": "Stromliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Hömmken Christoph",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {
+      "leistung": [
+        "445"
+      ],
+      "eeg_refs": [
+        "EEG-"
+      ]
+    },
+    "standorte": [
+      "Vrees"
+    ],
+    "text_preview": "\\\nStromvertrag\nzwischen\nChristoph Hfimmken In den Straflen 4 49757 Vrees\n-nachfolgend EigentiJmer-\nund\nHRN GbR Zum Dorfteich 5 49757 Vrees\n-nachfolgend Lieferant-\n§ 1 Vertragsgegenstand\nDer Lieferant hat auf dem Dach des Herrn Hdmmken in Vrees eine Photovoltaik-Anlage\nmit einer installierten Leistung von 445 kWp errichtet.\nDer Lieferantwird Strom an den Eigentumer liefern, sobald alletechnischen und sonstigen\nVoraussetzungen geschaffen sind. Dieser Strom wird durch eine Photovoltaik-Anlage, die\n"
+  },
+  {
+    "vertrags_id": "vertrag:c994e789",
+    "dateiname": "Stromliefervertrag Hoesen Karl Heinz Sonnentaler 05 sign.pdf",
+    "dateipfad": "Stromlieferverträge/Stromliefervertrag Hoesen Karl Heinz Sonnentaler 05 sign.pdf",
+    "kategorie": "Stromlieferverträge",
+    "vertragsart": "Stromliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hoesen Karl Heinz",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {
+      "leistung": [
+        "998"
+      ],
+      "eeg_refs": [
+        "EEG-"
+      ]
+    },
+    "standorte": [
+      "Vrees"
+    ],
+    "text_preview": "Stromvertrag\nzwischen\nKarl Heinz Hoesen Hauptstrasse 18a 49762 Sustrum\n-nachfolgend EigentUmer-\nund\nSonnentaler V GmbH & Co. KG Zum Dorfteich 5 49757 Vrees\n-nachfolgend Lieferant-\n§ 1 Vertragsgegenstand\nDer Lieferant hat auf dem Dach des Herrn Hoesen in Sustrum eine Photovoltaik-Anlage\nmit einer installierten Leistung von 998 kWp errichtet.\nDer Lieferantwird Strom an den Eigentilmer liefern, sobald alle technischen und sonstigen\nVoraussetzungen geschaffen sind. Dieser Strom wird durch eine Photo"
+  },
+  {
+    "vertrags_id": "vertrag:48898a57",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor BBV sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor BBV sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "BBV",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {
+      "prozente": [
+        "50"
+      ]
+    },
+    "energie": {},
+    "standorte": [
+      "Witte Moor",
+      "Vrees"
+    ],
+    "text_preview": "Wiirmelieferungsvertrag\nzwischen\nder Firma Bioenergie Witte-Moor GmbH & C0. KG, vertr. d. d. Firrna Bioenergie Witte-\nMoor Beteiligungs GmbH, vertr. d. d. Geschéiftsfiihrer DetlefNiedenhof\n- nachstehend Unternehmen genannt -\nund\nBBV GmbH & C0. KG Lehmkuhlen 1 49757 Vrees, vertr. d. d. Geschéiftsfiihrer Christian\nKaiser\n- nachstehend Kunde genaimt -\nPriiambel\nDas Unternehrnen betreibt eine Biogasanlage. Die dadurch unter Anderem erzeugte Wéirme\nwird mittels eines Wéirmenetzes zur Belieferung von "
+  },
+  {
+    "vertrags_id": "vertrag:5e391b8d",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Biowärme Vrees sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Biowärme Vrees sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Biowärme Vrees",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor",
+      "Vrees"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:c1e201ad",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Deters Ewald sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Deters Ewald sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Deters Ewald",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:5c6a5a8e",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Hümmlinger Volksbank sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Hümmlinger Volksbank sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hümmlinger Volksbank",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:628b2643",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Kaiser Maria sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Kaiser Maria sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Kaiser Maria",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {
+      "prozente": [
+        "50"
+      ]
+    },
+    "energie": {},
+    "standorte": [
+      "Witte Moor",
+      "Vrees"
+    ],
+    "text_preview": "Wiirmelieferungsvertrag\nzwischen\nder Firma Bioenergie Witte-Moor GmbH & Co. KG, vertr. d. d. Firma Bioenergie Witte-\nMoor Beteiligungs GmbH, vertr. d. d. Geschéiftsfiihrer DetlefNiedenhof\n- nachstehendUntemehmen genamt -\nund\nMaria Kaiser, Vrees\n- nachstehend Kunde genannt -\nPréiambel\nDas Untemehmen betreibt eine Biogasanlage. Die dadurch unter Anderem erzeugte Wéirme\nwird miflels eines Wéirmenetzes zur Belieferung von Kimden mit Heizwéinne genutzt. Dies\nvorausgeschickt vereinbaren die Parteien F"
+  },
+  {
+    "vertrags_id": "vertrag:ef58b4a3",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Kleene Peter sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Kleene Peter sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Kleene Peter",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:e32c9e44",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Maschinenbau Manfred Kaiser sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Maschinenbau Manfred Kaiser sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Maschinenbau Manfred Kaiser",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:6d70a357",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Nannen Ludger 2009 sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Nannen Ludger 2009 sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 8,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Nannen Ludger",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "WWWiiiiiirrrmmmeeellliiieeefffeeerrruuunnngggsssvvveeerrrtttrrraaaggg\nzzzwwwiiisssccchhheeennn\ndddeeerrr FFFiiirrrmmmaaa ___ ‘‘‘ BBBiiioooeeennneeerrrgggiiieee WWWiiitttttteee---MMMoooooorrr GGGmmmbbbHHH &&& CCCooo... KKKGGG,,, vvveeerrrtttrrr... ddd... ddd... FFFiiirrrmmmaaa BBBiiioooeeennneeerrrgggiiieee WWWiiitttttteee---\nMMMoooooorrr BBBeeettteeeiiillliiiggguuunnngggsss GGGmmmbbbHHH,,, vvveeerrrtttrrr... ddd... ddd... GGGeeesssccchhhéééfififisssffffififihhhrrreeerrr DDDeeetttllleeefffNNNiiie"
+  },
+  {
+    "vertrags_id": "vertrag:f94b69a9",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Nannen Ludger 2011 sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Nannen Ludger 2011 sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Nannen Ludger",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:811513d6",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Niedenhof Detlef.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Niedenhof Detlef.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:3841e1fe",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Pünther Bernahard sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Pünther Bernahard sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:b776e219",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Scholübbers Stefan sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Scholübbers Stefan sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 8,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Scholübbers Stefan",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:562a9f66",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Steenken Hermann sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Steenken Hermann sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 8,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Steenken Hermann",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:f66f0270",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Suhl Hans sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Suhl Hans sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 8,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Suhl Hans",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {
+      "prozente": [
+        "2",
+        "50"
+      ]
+    },
+    "energie": {},
+    "standorte": [
+      "Witte Moor",
+      "Vrees"
+    ],
+    "text_preview": "1L(Cl‘f\\$, ~§uifi\nWiirmelieferungsvertrag\nzwischen\nder Firma Bioenergie Witte-Moor GmbH & C0. KG, vertr. d. d. Firma Bioenergie Witte-\nMoorBeteiligungs GmbH, vertr. d. d. GeschéifisfiihrerDet1efNiedenhof\n- nachstehend Untemehmen genannt -\nund IL‘/-¢'L\"\\~_r Z1 2.» .e CV,-c/i<- FQC (f\n49757 Vrees\n- nachstehendKunde genannt -\nPriiambel\nDas Unternehmen betreibt eine Biogasanlage. Die dadurch unter Anderem erzeugte Wéirme\nwird mittels eines Wéirmenetzes zur Belieferung von Kunden mit Heizwfirnie genu"
+  },
+  {
+    "vertrags_id": "vertrag:db61f585",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Wilken Bernhardt sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Wilken Bernhardt sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 7,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Wilken Bernhard",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:eb94163c",
+    "dateiname": "Wärmeliefervertrag Bioenenergie Witte Moor Wilken Spark.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenenergie Witte Moor Wilken Spark.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Bioenenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Wilken Spark",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:9d27f41a",
+    "dateiname": "Wärmeliefervertrag Bioenergie Witte Moor Gemeinde Vrees Nachtrag sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenergie Witte Moor Gemeinde Vrees Nachtrag sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": true,
+    "seitenzahl": 1,
+    "parteien": [
+      {
+        "name": "Bioenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Gemeinde Vrees",
+        "typ": "Firma"
+      },
+      {
+        "name": "Detlef Niedenhof",
+        "typ": "Person"
+      }
+    ],
+    "datum": {
+      "found_dates": [
+        "01.01.2024",
+        "13.11.2023",
+        "03.05.2013"
+      ]
+    },
+    "finanzen": {
+      "prozente": [
+        "70"
+      ]
+    },
+    "energie": {},
+    "standorte": [
+      "Witte Moor",
+      "Vrees",
+      "Werlte"
+    ],
+    "text_preview": "1.Nachtrag zum Wérmelieferungsvertrag vom 03.05.2013\nzwischen\nder Firma Bioenergie Witte-Moor GmbH & Co. KG, vertr. d. d. Firma Bioenergie Witte-\nMoor Beteiligungs GmbH, vertr. d. d. Geschéftsfilhrer Detlef Niedenhof, Zum Dorfteich 5,\n49757 Vrees\n- nachstehend Unternehmen genannt -\nund\nGemeinde Vrees, Werlter Straffie 9, 49757 Vrees\n- nachstehend Kunde genannt —\nZu § 1 Abnahmestellen des Kunden\nZu den Abnahmestellen Heimathaus, Biirgerhaus und Turnhalle,\nkommt die Abnahmestelle ,,Pflegehaus, Wer"
+  },
+  {
+    "vertrags_id": "vertrag:e51ac33d",
+    "dateiname": "Wärmeliefervertrag Bioenergie Witte Moor Gemeinde Vrees sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenergie Witte Moor Gemeinde Vrees sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Bioenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Gemeinde Vrees",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor",
+      "Vrees"
+    ],
+    "text_preview": "WWiiiirrmmeelliieeffeerruunnggssvveerrttrraagg\nzzwwiisscchheenn\nddeerr FFiirrmmaa BBiiooeenneerrggiiee WWiittttee--MMoooorr GGmmbbHH && CC00.. KKGG,, vveerrttrr.. dd.. dd.. FFiirrmmaa BBiiooeenneerrggiiee WWiittttee--\nMMoooorr BBeetteeiilliigguunnggss GGmmbbHH,, vveerrttrr.. dd.. dd.. GGeesscchhééiififissfifiiihhrreerr DDeettlleeffNNiieeddeennhhooff\n-- nnaacchhsstteehheenndd UUnntteemmeehhmmeenn ggeennaannnntt --\nuunndd\nGGeemmeeiinnddee VVrreeeess PPaassttoorreenn MMeeeerr 88 4499775577 VVrreeee"
+  },
+  {
+    "vertrags_id": "vertrag:fa42aa8f",
+    "dateiname": "Wärmeliefervertrag Bioenergie Witte Moor Kaiser Maria Nachtrag sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenergie Witte Moor Kaiser Maria Nachtrag sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": true,
+    "seitenzahl": 1,
+    "parteien": [
+      {
+        "name": "Bioenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Detlef Niedenhof",
+        "typ": "Person"
+      },
+      {
+        "name": "Kaiser Maria",
+        "typ": "Person"
+      }
+    ],
+    "datum": {
+      "found_dates": [
+        "06.03.2011",
+        "01.01.2023",
+        "13.11.2023"
+      ]
+    },
+    "finanzen": {
+      "prozente": [
+        "50"
+      ]
+    },
+    "energie": {},
+    "standorte": [
+      "Peheim",
+      "Witte Moor",
+      "Vrees"
+    ],
+    "text_preview": "1.Nachtrag zum Wéirmelieferungsvertrag vom 06.03.2011\nzwischen\nder Firma Bioenergie Witte-Moor GmbH & C0. KG, vertr. d. d. Firma Bioenergie Witte-\nMoor Beteiligungs GmbH, vertr. d. d. Geschéiftsfijhrer Detlef Niedenhof, Zum Dorfteich 5,\n49757 Vrees\n- nachstehend Unternehmen genannt -\nund\nMaria Kaiser, Gewerbegebiet, 49757 Vrees\n- nachstehend Kunde genannt —\nZu § 1 Abnahmestellen des Kunden\nDie Abnahmestellen Iauten:\nHotel Sonnenschein, Peheimer Str. 43, 49757 Vrees und\nHaus Bfiter, Bischofsbrijc"
+  },
+  {
+    "vertrags_id": "vertrag:56b6dd32",
+    "dateiname": "Wärmeliefervertrag Bioenergie Witte Moor Maschinenbau Manfred Kaiser Nachtrag sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenergie Witte Moor Maschinenbau Manfred Kaiser Nachtrag sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": true,
+    "seitenzahl": 1,
+    "parteien": [
+      {
+        "name": "Bioenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Maschinenbau Manfred Kaiser",
+        "typ": "Firma"
+      },
+      {
+        "name": "Detlef Niedenhof",
+        "typ": "Person"
+      }
+    ],
+    "datum": {
+      "found_dates": [
+        "06.03.2011",
+        "01.01.2023",
+        "13.11.2023"
+      ]
+    },
+    "finanzen": {
+      "prozente": [
+        "50"
+      ]
+    },
+    "energie": {},
+    "standorte": [
+      "Witte Moor",
+      "Vrees"
+    ],
+    "text_preview": "1.Nachtrag zum Wérmelieferungsvertrag vom 06.03.2011\nzwischen\nder Firma Bioenergie Witte-Moor GmbH & Co. KG, vertr. d. d. Firma Bioenergie Witte-\nMoor Beteiligungs GmbH, vertr. d. d. Geschaftsfiihrer Detlef Niedenhof, Zum Dorfteich 5,\n49757 Vrees\n- nachstehend Unternehmen genannt -\nund\nMaschinenbau Manfred Kaiser GmbH, Lehmkuhlen 1, 49757 Vrees\nvertreten durch den GF Manfred Kaiser\n- nachstehend Kunde genannt —\nZu § 1 Abnahmestellen des Kunden\nDie Abnahmestellen Iauten:\nHalle/Biiro, Lehmkuhlen 1"
+  },
+  {
+    "vertrags_id": "vertrag:4ecfd1ff",
+    "dateiname": "Wärmeliefervertrag Bioenergie Witte Moor Samtgemeinde Werlte sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenergie Witte Moor Samtgemeinde Werlte sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Bioenergie Witte Moor",
+        "typ": "Firma"
+      },
+      {
+        "name": "Samtgemeinde Werlte",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {
+      "found_dates": [
+        "01.01.2015"
+      ]
+    },
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Witte Moor",
+      "Vrees",
+      "Werlte"
+    ],
+    "text_preview": "Wiirmelieferungsvertrag\nzwischen\nder Firma Bioenergie Witte Moor GmbH & C0. KG, vertr. d. d. Geschéiftsfiihrer Detlef\nNiedenhof, Schfir Hus 1, 49757 Vrees\n- nachstehend Unternehmen genannt -\nund der\nSamtgemeinde Werlte, Marktstrasse 1, 49757 Werlte,\nvenreten durch den Samtgemeindebflrgenneister\n- nachstehend Kunde genannt -\nPriiambel\nDas Unternehmen betreibt eine Biogasanlage. Die dadurch unter Anderem erzeugte Wéirme\nwird mittels eines Wéinnenetzes zur Belieferung von Kunden mit Heizwiirme genu"
+  },
+  {
+    "vertrags_id": "vertrag:65e70956",
+    "dateiname": "Wärmeliefervertrag Niedenhof Detlef Dedden Jürgen sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Niedenhof Detlef Dedden Jürgen sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Dedden Jürgen",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:8eaec18b",
+    "dateiname": "Wärmeliefervertrag Niedenhof Detlef Gerdes Michael.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Niedenhof Detlef Gerdes Michael.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Gerdes Michael",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:48d0cb4e",
+    "dateiname": "Wärmeliefervertrag Niedenhof Detlef Niedenhof Norbert.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Niedenhof Detlef Niedenhof Norbert.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Detlef Niedenhof",
+        "typ": "Person"
+      },
+      {
+        "name": "Niedenhof Norbert",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Vrees"
+    ],
+    "text_preview": "Wiirmelieferungsvertrag\nzwischen\nder Firma DetlefNieder1h0fSchiir Hus 1 49757 Vrees\n- nachstehend Unternehmen genannt -\nund\nNorbertNiedenhofRosenstrafie 22 49757 Vrees\n- nachstehend Kunde genannt -\nPriiambel\nDas Unternehrnen betreibt eine Biogasanlage. Die dadurch unter Anderem erzeugte Wéirme\nwird mittels eines Wéirmenetzes zur Belieferung von Kunden mit Heizwéirme genutzt. Dies\nvorausgeschickt vereinbaren die Parteien Folgendesz\n§ I Abnahmestellen des Kunden\nDieser Wéirmelieferungsvertragbezie"
+  },
+  {
+    "vertrags_id": "vertrag:47dd5719",
+    "dateiname": "Wärmeliefervertrag Niedenhof Detlef Porten Stephan sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Niedenhof Detlef Porten Stephan sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Porten Stephan",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:5dcc87db",
+    "dateiname": "Wärmeliefervertrag Niedenhof Detlef Rode Thomas sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Niedenhof Detlef Rode Thomas sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 6,
+    "parteien": [
+      {
+        "name": "Niedenhof Detlef",
+        "typ": "Person"
+      },
+      {
+        "name": "Rode Thomas",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:3c0449f2",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide BG Hömmken sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide BG Hömmken sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:e0e7e3ef",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Beckmann Arnold sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Beckmann Arnold sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Beckmann Arnold",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:ee8dceef",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Berg Marco sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Berg Marco sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Berg Marco",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:a7afdd76",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Büter Berthold sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Büter Berthold sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Büter Berthold",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:192fc557",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Büter Ernst sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Büter Ernst sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Büter Ernst",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:f5233dfe",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Büter Ralph sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Büter Ralph sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Büter Ralph",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:1749528d",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Dedden Franz sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Dedden Franz sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Dedden Franz",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:35ba5631",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Dedden Paul sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Dedden Paul sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Dedden Paul",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:6dae14fc",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Dinklage Wilhelm sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Dinklage Wilhelm sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Dinklage Wilhelm",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:422ffcab",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Elbers Josef sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Elbers Josef sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Elbers Josef",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:9bad559b",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Elbers Paul sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Elbers Paul sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Elbers Paul",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:cd1b3e02",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Ficker Friedrich.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Ficker Friedrich.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Ficker Friedrich",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:9a80037b",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Fleer Thien Wilfried sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Fleer Thien Wilfried sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Fleer Thien Wilfried",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:1beb832e",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Fortwengel Christoph sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Fortwengel Christoph sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Fortwengel Christoph",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:127373a8",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Hausfeld Rainer sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Hausfeld Rainer sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hausfeld Rainer",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:8262f613",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Hemker Nadine sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Hemker Nadine sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hemker Nadine",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:3d2a070b",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Heymann Alexandra sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Heymann Alexandra sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 4,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Heymann Alexandra",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:a3c1b94d",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Heymann Willi sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Heymann Willi sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Heymann Willi",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:382d0882",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Hogeback Andreas sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Hogeback Andreas sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hogeback Andreas",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:158d108e",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Hömmken Andreas sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Hömmken Andreas sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hömmken Andreas",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:34e2184c",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Hömmken Bernhard sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Hömmken Bernhard sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hömmken Bernhard",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:f94a3cfa",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Hömmken Claudia sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Hömmken Claudia sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Hömmken Claudia",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:c97e0fc0",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Jansen Gerd sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Jansen Gerd sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Jansen Gerd",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:34d2f2ea",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Khreis Mohammed sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Khreis Mohammed sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Khreis Mohammed",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:a18a012c",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Kleene Berthold sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Kleene Berthold sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Kleene Berthold",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:dfd69eb5",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Lübke sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Lübke sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Lübke",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:9ac81db3",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Lünswilken Josef Am Sportplatz 4 sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Lünswilken Josef Am Sportplatz 4 sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Lünswilken Josef",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:e7a0d933",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Lünswilken Josef Am Sportplatz 6 sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Lünswilken Josef Am Sportplatz 6 sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Lünswilken Josef",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:93aaa20b",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Menke Bernd sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Menke Bernd sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Menke Bernd",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:75b2e827",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Oldemanns Heinz In den Gärten 2 Peheimer Straße 2 sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Oldemanns Heinz In den Gärten 2 Peheimer Straße 2 sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Oldemanns Heinz",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Peheim",
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:7b44b33f",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Peters Heinz sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Peters Heinz sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Peters Heinz",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:fa1c9938",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Peters Herbert sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Peters Herbert sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Peters Herbert",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:826202ff",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Plaggenborg Dora sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Plaggenborg Dora sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Plaggenborg Dora",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:3dfa0171",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Plaggenborg Martin sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Plaggenborg Martin sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Plaggenborg Martin",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:dd5d420c",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Puls Josef sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Puls Josef sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Puls Josef",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:334090d2",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Rawe Berthhold sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Rawe Berthhold sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:c9c2d4ad",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 10 sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 10 sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Rieken Gerd",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:7e7ebcfd",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 2 sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 2 sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Rieken Gerd",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:4b57f244",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 4 sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 4 sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Rieken Gerd",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:f399fda6",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 6 sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 6 sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Rieken Gerd",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:1536a764",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Schmidt Jens Willi sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Schmidt Jens Willi sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Schmidt Jens Willi",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:bcac2b17",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Schweers Erwin sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Schweers Erwin sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Schweers Erwin",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:df62dcd6",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Unverfehrt Heinz sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Unverfehrt Heinz sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Unverfehrt Heinz",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:9c91ab18",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Wessels Bernhard sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Wessels Bernhard sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Wessels Bernhard",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:ec907dfa",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Wevering Wilma sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Wevering Wilma sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Wevering Wilma",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:d54ec62a",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Wilhelm Schmidt sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Wilhelm Schmidt sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Wilhelm Schmidt",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:267ca384",
+    "dateiname": "Wärmeliefervertrag Bioenergie Alte Heide Wraga Iris Matthias sign.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/Wärmeliefervertrag Bioenergie Alte Heide Wraga Iris Matthias sign.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Wärmeliefervertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Bioenergie Alte Heide",
+        "typ": "Firma"
+      },
+      {
+        "name": "Wraga Iris",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Alte Heide"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:7cf75d9b",
+    "dateiname": "Jahresabrechnung 2024 Heymann Alexandra.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/A1/Jahresabrechnung 2024 Heymann Alexandra.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Jahresabrechnung",
+    "ist_nachtrag": false,
+    "seitenzahl": 1,
+    "parteien": [
+      {
+        "name": "Heymann Alexandra",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:d2f697ab",
+    "dateiname": "Jahresabrechnung 2024 Hömmken Claudia Zähler 639.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/A1/Jahresabrechnung 2024 Hömmken Claudia Zähler 639.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Jahresabrechnung",
+    "ist_nachtrag": false,
+    "seitenzahl": 1,
+    "parteien": [
+      {
+        "name": "Hömmken Claudia",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:1ea3b274",
+    "dateiname": "Jahresabrechnung 2024 Hömmken Claudia Zähler 919.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/A1/Jahresabrechnung 2024 Hömmken Claudia Zähler 919.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Jahresabrechnung",
+    "ist_nachtrag": false,
+    "seitenzahl": 1,
+    "parteien": [
+      {
+        "name": "Hömmken Claudia",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:0c6cf851",
+    "dateiname": "Jahresabrechnung 2024 Kleene Berthold.pdf",
+    "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/A1/Jahresabrechnung 2024 Kleene Berthold.pdf",
+    "kategorie": "Wärmelieferverträge",
+    "vertragsart": "Jahresabrechnung",
+    "ist_nachtrag": false,
+    "seitenzahl": 1,
+    "parteien": [
+      {
+        "name": "Kleene Berthold",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:1beadd86",
+    "dateiname": "Detlef Niedenhof-Dieter Elbers Kaufvertrag der EN GbR.pdf",
+    "dateipfad": "xx Verträge gescannt/Detlef Niedenhof-Dieter Elbers Kaufvertrag der EN GbR.pdf",
+    "kategorie": "xx Verträge gescannt",
+    "vertragsart": "Kaufvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 8,
+    "parteien": [
+      {
+        "name": "Detlef Niedenhof",
+        "typ": "Person"
+      },
+      {
+        "name": "Dieter Elbers",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:8e5f9161",
+    "dateiname": "Detlef Niedenhof-Uwe Kebschull Kaufvertrag.pdf",
+    "dateipfad": "xx Verträge gescannt/Detlef Niedenhof-Uwe Kebschull Kaufvertrag.pdf",
+    "kategorie": "xx Verträge gescannt",
+    "vertragsart": "Kaufvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 8,
+    "parteien": [
+      {
+        "name": "Detlef Niedenhof",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:ff520fd4",
+    "dateiname": "Kemper&Nüsse-Detlef Niedenhof.pdf",
+    "dateipfad": "xx Verträge gescannt/Kemper&Nüsse-Detlef Niedenhof.pdf",
+    "kategorie": "xx Verträge gescannt",
+    "vertragsart": "Sonstiger Vertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 5,
+    "parteien": [
+      {
+        "name": "Detlef Niedenhof",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:d52cd619",
+    "dateiname": "Sonnentaler III-Andrea Niedenhof Nachtrag.pdf",
+    "dateipfad": "xx Verträge gescannt/Sonnentaler III-Andrea Niedenhof Nachtrag.pdf",
+    "kategorie": "xx Verträge gescannt",
+    "vertragsart": "Nachtrag",
+    "ist_nachtrag": true,
+    "seitenzahl": 1,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Andrea Niedenhof",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:2e26efbc",
+    "dateiname": "Sonnentaler VIII-Flerlage Geflügelzucht Nachtag.pdf",
+    "dateipfad": "xx Verträge gescannt/Sonnentaler VIII-Flerlage Geflügelzucht Nachtag.pdf",
+    "kategorie": "xx Verträge gescannt",
+    "vertragsart": "Sonstiger Vertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 1,
+    "parteien": [
+      {
+        "name": "Sonnentaler",
+        "typ": "Firma"
+      },
+      {
+        "name": "Flerlage Geflügelzucht",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:683e0152",
+    "dateiname": "Stadtweke Wesel-Marka Taler Kaufvertrag.pdf",
+    "dateipfad": "xx Verträge gescannt/Stadtweke Wesel-Marka Taler Kaufvertrag.pdf",
+    "kategorie": "xx Verträge gescannt",
+    "vertragsart": "Kaufvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 11,
+    "parteien": [
+      {
+        "name": "Marka Taler",
+        "typ": "Firma"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [
+      "Wesel"
+    ],
+    "text_preview": "[KEIN TEXT]"
+  },
+  {
+    "vertrags_id": "vertrag:775cedd4",
+    "dateiname": "Unterpachtvertrag Franz Untied-Detlef Niedenhof.pdf",
+    "dateipfad": "xx Verträge gescannt/Unterpachtvertrag Franz Untied-Detlef Niedenhof.pdf",
+    "kategorie": "xx Verträge gescannt",
+    "vertragsart": "Pachtvertrag",
+    "ist_nachtrag": false,
+    "seitenzahl": 3,
+    "parteien": [
+      {
+        "name": "Detlef Niedenhof",
+        "typ": "Person"
+      }
+    ],
+    "datum": {},
+    "finanzen": {},
+    "energie": {},
+    "standorte": [],
+    "text_preview": "[KEIN TEXT]"
+  }
+]
