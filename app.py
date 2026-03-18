@@ -44,7 +44,10 @@ def check_password():
     app_password = get_app_password()
 
     # Auto-login via URL token (?token=...) for iframe embedding in Dynamics 365
-    token = st.query_params.get("token")
+    try:
+        token = st.query_params.get("token")
+    except AttributeError:
+        token = st.experimental_get_query_params().get("token", [None])[0]
     if token and app_password and token == app_password:
         st.session_state.authenticated = True
         return True
@@ -209,14 +212,15 @@ div[data-baseweb="tab-border"] { display: none !important; }
     margin-bottom: 0.2rem !important;
 }
 
-/* Slider: TERP-Lila statt Rot */
-[data-testid="stSlider"] [role="slider"] {
+/* Slider: TERP-Lila statt Rot — breite Selektoren fuer alle Streamlit-Versionen */
+[data-testid="stSlider"] [role="slider"],
+[data-testid="stSlider"] [data-testid="stThumbValue"],
+div[data-baseweb="slider"] [role="slider"] {
     background-color: #742774 !important;
 }
-[data-testid="stSlider"] [data-testid="stThumbValue"] {
-    color: #742774 !important;
-}
-div[data-baseweb="slider"] div[role="progressbar"] > div {
+div[data-baseweb="slider"] div[role="progressbar"] > div,
+div[data-baseweb="slider"] div[role="progressbar"],
+[data-testid="stSlider"] div[data-baseweb="slider"] div[style*="background"] {
     background-color: #742774 !important;
 }
 
@@ -224,6 +228,20 @@ div[data-baseweb="slider"] div[role="progressbar"] > div {
 div[data-baseweb="radio"] div[aria-checked="true"] > div:first-child {
     background-color: #742774 !important;
     border-color: #742774 !important;
+}
+
+/* Filter-Reset-Button in Sidebar: TERP-Lila */
+[data-testid="stSidebar"] button[kind="secondary"],
+[data-testid="stSidebar"] .stButton > button {
+    background-color: #742774 !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 4px !important;
+    font-size: 13px !important;
+}
+[data-testid="stSidebar"] button[kind="secondary"]:hover,
+[data-testid="stSidebar"] .stButton > button:hover {
+    background-color: #5a1f5a !important;
 }
 
 /* Metric styling */
@@ -237,7 +255,7 @@ div[data-baseweb="radio"] div[aria-checked="true"] > div:first-child {
 </style>""", unsafe_allow_html=True)
 
 # TERP Header bar
-st.markdown('<div class="terp-header">TERP Vertragsmanagement (v1.3.0)</div>', unsafe_allow_html=True)
+st.markdown('<div class="terp-header">TERP Vertragsmanagement (v1.4.0)</div>', unsafe_allow_html=True)
 
 # Color scheme for node types — TERP pastel palette
 NODE_COLORS = {
