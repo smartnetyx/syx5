@@ -238,7 +238,7 @@ NODE_COLORS_SIMPLE = {
 @st.cache_resource
 def load_data():
     """Load vertices, edges, and contracts metadata"""
-    data_dir = Path(__file__).parent / 'data'
+    data_dir = next(p for p in [Path(__file__).parent / 'data', Path(__file__).parent.parent / 'data'] if p.exists())
 
     with open(data_dir / 'vertices.json', 'r', encoding='utf-8') as f:
         vertices = json.load(f)
@@ -446,7 +446,7 @@ def create_pyvis_graph(G, spring_length=180, gravity=-8000, central_gravity=0.10
     # Pre-build contract metadata lookup for rich tooltips
     contract_meta = {}
     try:
-        data_dir = Path(__file__).parent / 'data'
+        data_dir = next(p for p in [Path(__file__).parent / 'data', Path(__file__).parent.parent / 'data'] if p.exists())
         with open(data_dir / 'contracts_metadata.json', 'r', encoding='utf-8') as f:
             for cm in json.load(f):
                 contract_meta[cm.get('vertrags_id')] = cm
