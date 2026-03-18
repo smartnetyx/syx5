@@ -209,6 +209,23 @@ div[data-baseweb="tab-border"] { display: none !important; }
     margin-bottom: 0.2rem !important;
 }
 
+/* Slider: TERP-Lila statt Rot */
+[data-testid="stSlider"] [role="slider"] {
+    background-color: #742774 !important;
+}
+[data-testid="stSlider"] [data-testid="stThumbValue"] {
+    color: #742774 !important;
+}
+div[data-baseweb="slider"] div[role="progressbar"] > div {
+    background-color: #742774 !important;
+}
+
+/* Radio: TERP-Lila statt Rot */
+div[data-baseweb="radio"] div[aria-checked="true"] > div:first-child {
+    background-color: #742774 !important;
+    border-color: #742774 !important;
+}
+
 /* Metric styling */
 [data-testid="stMetricValue"] {
     color: #333333 !important;
@@ -220,7 +237,7 @@ div[data-baseweb="tab-border"] { display: none !important; }
 </style>""", unsafe_allow_html=True)
 
 # TERP Header bar
-st.markdown('<div class="terp-header">TERP Vertragsmanagement (v1.2.0)</div>', unsafe_allow_html=True)
+st.markdown('<div class="terp-header">TERP Vertragsmanagement (v1.3.0)</div>', unsafe_allow_html=True)
 
 # Color scheme for node types — TERP pastel palette
 NODE_COLORS = {
@@ -927,6 +944,7 @@ def main():
     st.sidebar.markdown("---")
     st.sidebar.markdown("## Filter")
     filter_count_placeholder = st.sidebar.empty()
+    reset_placeholder = st.sidebar.empty()
 
     # Node-Type filter (above all other filters)
     all_node_types = ['Vertrag', 'Firma', 'Person', 'Projekt', 'Anlage', 'MaLo', 'Dokument']
@@ -1101,6 +1119,14 @@ def main():
 
     # Fill the filter count placeholder at top of sidebar
     filter_count_placeholder.markdown(f"**{len(filtered_contracts)}** von {len(contracts)} Verträgen")
+    if any_filter_active:
+        if reset_placeholder.button("Alle Filter löschen", key="reset_filters"):
+            for key in ["sb_firmen", "sb_projekte", "sb_arten", "sb_personen",
+                         "sb_standort", "sb_rolle", "sb_ende_jahr", "sb_node_types",
+                         "sb_nachtrag", "sb_seiten"]:
+                if key in st.session_state:
+                    del st.session_state[key]
+            st.rerun()
 
     # Create tabs
     tab1, tab2, tab_query, tab3, tab4 = st.tabs([
