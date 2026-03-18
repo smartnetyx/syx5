@@ -14,6 +14,7 @@ import io
 from datetime import datetime
 from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment
+import os
 import warnings
 warnings.filterwarnings('ignore')
 
@@ -25,6 +26,13 @@ st.set_page_config(
 )
 
 # ── PASSWORD PROTECTION ──
+def get_app_password():
+    """Get password from st.secrets (lokal/Streamlit Cloud) or env var (Azure)."""
+    try:
+        return st.secrets["app_password"]
+    except (FileNotFoundError, KeyError):
+        return os.environ.get("APP_PASSWORD", "")
+
 def check_password():
     """Password gate: URL token (for D365 iframe) or manual login."""
     if "authenticated" not in st.session_state:
@@ -33,9 +41,11 @@ def check_password():
     if st.session_state.authenticated:
         return True
 
+    app_password = get_app_password()
+
     # Auto-login via URL token (?token=...) for iframe embedding in Dynamics 365
     token = st.query_params.get("token")
-    if token and token == st.secrets["app_password"]:
+    if token and app_password and token == app_password:
         st.session_state.authenticated = True
         return True
 
@@ -53,7 +63,7 @@ def check_password():
     with col2:
         password = st.text_input("Passwort", type="password", key="password_input")
         if st.button("Anmelden", use_container_width=True):
-            if password == st.secrets["app_password"]:
+            if app_password and password == app_password:
                 st.session_state.authenticated = True
                 st.rerun()
             else:
