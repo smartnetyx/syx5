@@ -26,13 +26,20 @@ st.set_page_config(
 
 # ── PASSWORD PROTECTION ──
 def check_password():
-    """Simple password gate using st.secrets"""
+    """Password gate: URL token (for D365 iframe) or manual login."""
     if "authenticated" not in st.session_state:
         st.session_state.authenticated = False
 
     if st.session_state.authenticated:
         return True
 
+    # Auto-login via URL token (?token=...) for iframe embedding in Dynamics 365
+    token = st.query_params.get("token")
+    if token and token == st.secrets["app_password"]:
+        st.session_state.authenticated = True
+        return True
+
+    # Manual login form
     st.markdown("""
     <h2 style='text-align: center; color: #2C3E50; margin-top: 100px;'>
         TERP Vertragsmanagement
