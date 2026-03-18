@@ -1746,11 +1746,14 @@ def main():
     </script>
     """, height=0)
 
-    # Footer
+    # Footer + Version
     st.markdown("---")
     st.markdown("""
     <div style='text-align: center; color: #999999; font-size: 11px; font-family: Segoe UI, sans-serif;'>
         TERP Vertragsmanagement | Powered by Streamlit
+    </div>
+    <div style='position: fixed; bottom: 4px; right: 8px; color: #BBBBBB; font-size: 10px; font-family: Segoe UI, sans-serif; z-index: 9999;'>
+        v1.2.0
     </div>
     """, unsafe_allow_html=True)
 
