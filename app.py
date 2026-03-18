@@ -231,7 +231,8 @@ div[data-baseweb="radio"] div[aria-checked="true"] > div:first-child {
 }
 
 /* Filter-Reset-Button in Sidebar: TERP-Lila */
-[data-testid="stSidebar"] button[kind="secondary"],
+[data-testid="stSidebar"] button,
+[data-testid="stSidebar"] [data-testid="stBaseButton-secondary"] > button,
 [data-testid="stSidebar"] .stButton > button {
     background-color: #742774 !important;
     color: white !important;
@@ -239,9 +240,10 @@ div[data-baseweb="radio"] div[aria-checked="true"] > div:first-child {
     border-radius: 4px !important;
     font-size: 13px !important;
 }
-[data-testid="stSidebar"] button[kind="secondary"]:hover,
+[data-testid="stSidebar"] button:hover,
 [data-testid="stSidebar"] .stButton > button:hover {
     background-color: #5a1f5a !important;
+    color: white !important;
 }
 
 /* Metric styling */
@@ -255,7 +257,7 @@ div[data-baseweb="radio"] div[aria-checked="true"] > div:first-child {
 </style>""", unsafe_allow_html=True)
 
 # TERP Header bar
-st.markdown('<div class="terp-header">TERP Vertragsmanagement (v1.4.0)</div>', unsafe_allow_html=True)
+st.markdown('<div class="terp-header">TERP Vertragsmanagement (v1.4.1)</div>', unsafe_allow_html=True)
 
 # Color scheme for node types — TERP pastel palette
 NODE_COLORS = {
