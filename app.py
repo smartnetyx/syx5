@@ -83,7 +83,67 @@ html, body, [class*="css"] {
     font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif !important;
     color: #333333 !important;
 }
-header[data-testid="stHeader"] { display: none !important; }
+/* Header: visibility hidden statt display none — Kinder bleiben im Rendering-Tree */
+header[data-testid="stHeader"] {
+    visibility: hidden !important;
+    height: 0 !important;
+    min-height: 0 !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    overflow: visible !important;
+    background: transparent !important;
+    border: none !important;
+}
+
+/* Sidebar expand button — sichtbar aus dem hidden Header herauslösen */
+[data-testid="stExpandSidebarButton"] {
+    position: fixed !important;
+    display: flex !important;
+    visibility: visible !important;
+    top: 6px !important;
+    left: 6px !important;
+    z-index: 999999 !important;
+    width: 36px !important;
+    height: 36px !important;
+    align-items: center !important;
+    justify-content: center !important;
+    background-color: #742774 !important;
+    border-radius: 4px !important;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.3) !important;
+    cursor: pointer !important;
+    opacity: 1 !important;
+}
+[data-testid="stExpandSidebarButton"] * {
+    visibility: visible !important;
+    color: white !important;
+    fill: white !important;
+    stroke: white !important;
+}
+[data-testid="stExpandSidebarButton"]:hover {
+    background-color: #5a1f5a !important;
+}
+
+/* Sidebar collapse button — gleiche Größe und Farbe wie expand */
+[data-testid="stSidebarCollapseButton"] {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 36px !important;
+    height: 36px !important;
+    background-color: #742774 !important;
+    border-radius: 4px !important;
+    cursor: pointer !important;
+}
+[data-testid="stSidebarCollapseButton"] *,
+[data-testid="stSidebarCollapseButton"] svg,
+[data-testid="stSidebarCollapseButton"] svg * {
+    color: white !important;
+    fill: white !important;
+    stroke: white !important;
+}
+[data-testid="stSidebarCollapseButton"]:hover {
+    background-color: #5a1f5a !important;
+}
 .stApp { background-color: #E8E8E8 !important; }
 .block-container {
     padding-top: 0 !important;
@@ -230,20 +290,20 @@ div[data-baseweb="radio"] div[aria-checked="true"] > div:first-child {
     border-color: #742774 !important;
 }
 
-/* Filter-Reset-Button in Sidebar: TERP-Lila */
-[data-testid="stSidebar"] button,
-[data-testid="stSidebar"] [data-testid="stBaseButton-secondary"] > button,
-[data-testid="stSidebar"] .stButton > button {
-    background-color: #742774 !important;
-    color: white !important;
-    border: none !important;
+/* Filter-Reset-Button in Sidebar: Dropdown-Stil (grau, dunkler Rahmen) */
+[data-testid="stSidebar"] .stButton > button,
+[data-testid="stSidebar"] [data-testid="stBaseButton-secondary"] > button {
+    background-color: #F5F5F5 !important;
+    color: #333333 !important;
+    border: 1px solid #D0D0D0 !important;
     border-radius: 4px !important;
     font-size: 13px !important;
 }
-[data-testid="stSidebar"] button:hover,
-[data-testid="stSidebar"] .stButton > button:hover {
-    background-color: #5a1f5a !important;
-    color: white !important;
+[data-testid="stSidebar"] .stButton > button:hover,
+[data-testid="stSidebar"] [data-testid="stBaseButton-secondary"] > button:hover {
+    background-color: #E8E8E8 !important;
+    color: #333333 !important;
+    border: 1px solid #AAAAAA !important;
 }
 
 /* Metric styling */
@@ -257,7 +317,7 @@ div[data-baseweb="radio"] div[aria-checked="true"] > div:first-child {
 </style>""", unsafe_allow_html=True)
 
 # TERP Header bar
-st.markdown('<div class="terp-header">TERP Vertragsmanagement (v1.4.1)</div>', unsafe_allow_html=True)
+st.markdown('<div class="terp-header">TERP Vertragsmanagement (v1.4.8)</div>', unsafe_allow_html=True)
 
 # Color scheme for node types — TERP pastel palette
 NODE_COLORS = {
@@ -513,12 +573,19 @@ def create_pyvis_graph(G, spring_length=180, gravity=-8000, central_gravity=0.10
             meta = contract_meta.get(node, {})
             if node_data.get('vertragsart'):
                 tooltip_lines.append(f"Vertragsart: {node_data['vertragsart']}")
+            if node_data.get('kategorie'):
+                tooltip_lines.append(f"Kategorie: {node_data['kategorie']}")
             if node_data.get('vertragstitel'):
                 tooltip_lines.append(f"Titel: {node_data['vertragstitel']}")
+            if meta.get('vertragsgegenstand'):
+                tooltip_lines.append(f"Gegenstand: {meta['vertragsgegenstand']}")
             # Parteien
             parteien = meta.get('parteien', [])
             if parteien:
-                tooltip_lines.append(f"Parteien: {', '.join(p.get('name','') for p in parteien)}")
+                for p in parteien:
+                    rolle = p.get('rolle', '')
+                    name_p = p.get('name', '')
+                    tooltip_lines.append(f"  {rolle}: {name_p}" if rolle else f"  Partei: {name_p}")
             # Datum
             datum = meta.get('datum', {})
             if datum.get('abschluss'):
@@ -535,52 +602,73 @@ def create_pyvis_graph(G, spring_length=180, gravity=-8000, central_gravity=0.10
             # Kündigung
             if meta.get('kuendigungsfrist'):
                 tooltip_lines.append(f"Kündigung: {meta['kuendigungsfrist']}")
+            if meta.get('kuendigung_form'):
+                tooltip_lines.append(f"Kündigungsform: {meta['kuendigung_form']}")
             if meta.get('kuendigung_ausserordentlich'):
                 tooltip_lines.append(f"Außerordentlich: {meta['kuendigung_ausserordentlich']}")
             # Finanzen
             fin = meta.get('finanzen', {})
             if fin.get('verguetung'):
                 tooltip_lines.append(f"Vergütung: {fin['verguetung']}")
+            if fin.get('verguetungsbasis'):
+                tooltip_lines.append(f"Vergütungsbasis: {fin['verguetungsbasis']}")
             if fin.get('vertragswert_jaehrlich'):
                 tooltip_lines.append(f"Vertragswert p.a.: {fin['vertragswert_jaehrlich']}")
             if fin.get('arbeitspreis_ct_kwh'):
                 tooltip_lines.append(f"Arbeitspreis: {fin['arbeitspreis_ct_kwh']} ct/kWh")
+            if fin.get('strompreis_ct_kwh'):
+                tooltip_lines.append(f"Strompreis: {fin['strompreis_ct_kwh']} ct/kWh")
             if fin.get('kaltmiete_eur'):
                 tooltip_lines.append(f"Kaltmiete: {fin['kaltmiete_eur']} EUR")
+            if fin.get('nebenkosten_eur'):
+                tooltip_lines.append(f"Nebenkosten: {fin['nebenkosten_eur']} EUR")
             if fin.get('gesamtmiete_eur'):
                 tooltip_lines.append(f"Gesamtmiete: {fin['gesamtmiete_eur']} EUR")
+            if fin.get('zahlungsrhythmus'):
+                tooltip_lines.append(f"Zahlungsrhythmus: {fin['zahlungsrhythmus']}")
+            if fin.get('waehrung') and fin['waehrung'] != 'EUR':
+                tooltip_lines.append(f"Währung: {fin['waehrung']}")
             # Energie
             ene = meta.get('energie', {})
             if ene.get('pv_leistung_kwp'):
                 tooltip_lines.append(f"PV: {ene['pv_leistung_kwp']} kWp")
+            if ene.get('anschlussleistung_kw'):
+                tooltip_lines.append(f"Anschlussleistung: {ene['anschlussleistung_kw']} kW")
+            if ene.get('malo_leistung_mw'):
+                tooltip_lines.append(f"MaLo-Leistung: {ene['malo_leistung_mw']} MW")
             malo = ene.get('malo_ids', [])
             if malo:
-                tooltip_lines.append(f"MaLo: {', '.join(str(m) for m in malo)}")
+                tooltip_lines.append(f"MaLo-IDs: {', '.join(str(m) for m in malo)}")
             # Standort
             standorte = meta.get('standorte', [])
             if standorte and any(standorte):
                 tooltip_lines.append(f"Standort: {', '.join(s for s in standorte if s)}")
             if meta.get('gerichtsstand'):
                 tooltip_lines.append(f"Gerichtsstand: {meta['gerichtsstand']}")
-            # Nachtrag
+            # Nachtrag / Status
             if node_data.get('ist_nachtrag'):
                 tooltip_lines.append("Status: NACHTRAG")
             tooltip_lines.append(f"Seiten: {node_data.get('seitenzahl', '?')}")
+            if meta.get('dateipfad'):
+                tooltip_lines.append(f"Datei: {meta['dateipfad']}")
 
         elif label == 'Firma':
             if node_data.get('rechtsform'):
                 tooltip_lines.append(f"Rechtsform: {node_data['rechtsform']}")
             if node_data.get('adresse'):
                 tooltip_lines.append(f"Adresse: {node_data['adresse']}")
-            # Count contracts
             n_contracts = sum(1 for _, dst in G.edges(node) if G.nodes.get(dst, {}).get('label') == 'Vertrag')
+            n_contracts += sum(1 for src, _ in G.in_edges(node) if G.nodes.get(src, {}).get('label') == 'Vertrag')
             if n_contracts:
                 tooltip_lines.append(f"Verträge: {n_contracts}")
 
         elif label == 'Person':
+            if node_data.get('rechtsform'):
+                tooltip_lines.append(f"Rechtsform: {node_data['rechtsform']}")
             if node_data.get('adresse'):
                 tooltip_lines.append(f"Adresse: {node_data['adresse']}")
             n_contracts = sum(1 for _, dst in G.edges(node) if G.nodes.get(dst, {}).get('label') == 'Vertrag')
+            n_contracts += sum(1 for src, _ in G.in_edges(node) if G.nodes.get(src, {}).get('label') == 'Vertrag')
             if n_contracts:
                 tooltip_lines.append(f"Verträge: {n_contracts}")
 
@@ -607,6 +695,16 @@ def create_pyvis_graph(G, spring_length=180, gravity=-8000, central_gravity=0.10
             if n_contracts:
                 tooltip_lines.append(f"Verträge: {n_contracts}")
 
+        # Alle verbleibenden Vertex-Attribute anzeigen (Catch-all)
+        shown_keys = {'id', 'label', 'name', 'vertragsart', 'kategorie', 'vertragstitel',
+                       'status', 'standorte', 'seitenzahl', 'datum_gefunden', 'vertragswert',
+                       'datum_ende', 'datum_ende_jahr', 'ist_nachtrag', 'rechtsform', 'adresse',
+                       'typ', 'leistung_kwp', 'standort', 'malo_leistung_mw', 'dateipfad'}
+        for k, v in node_data.items():
+            if k not in shown_keys and v:
+                display_key = KEY_LABELS.get(k, k)
+                tooltip_lines.append(f"{display_key}: {v}")
+
         title = "\n".join(tooltip_lines)
 
         g.add_node(
@@ -626,19 +724,20 @@ def create_pyvis_graph(G, spring_length=180, gravity=-8000, central_gravity=0.10
         relationship = edge_data.get('relationship', 'UNKNOWN')
 
         # Rich edge tooltip
+        src_name = G.nodes.get(src, {}).get('name', src)
+        dst_name = G.nodes.get(dst, {}).get('name', dst)
         tooltip_lines = [relationship]
+        tooltip_lines.append(f"Von: {src_name}")
+        tooltip_lines.append(f"An: {dst_name}")
         rolle = edge_data.get('rolle')
         if rolle:
             tooltip_lines.append(f"Rolle: {rolle}")
+        if edge_data.get('dokument_typ'):
+            tooltip_lines.append(f"Dokument-Typ: {edge_data['dokument_typ']}")
         for k, v in edge_data.items():
-            if k not in ('relationship', 'rolle') and v:
+            if k not in ('relationship', 'rolle', 'dokument_typ') and v:
                 display_key = KEY_LABELS.get(k, k)
                 tooltip_lines.append(f"{display_key}: {v}")
-        # Add source/target names
-        src_name = G.nodes.get(src, {}).get('name', src)
-        dst_name = G.nodes.get(dst, {}).get('name', dst)
-        tooltip_lines.append(f"Von: {src_name}")
-        tooltip_lines.append(f"An: {dst_name}")
         edge_title = "\n".join(tooltip_lines)
 
         # Show rolle on edge label if present
@@ -1021,21 +1120,13 @@ def main():
     _, _, _, available_personen = get_options_from_contracts(contracts_after_fpa)
     selected_personen = st.sidebar.multiselect("Person", available_personen, default=[p for p in q_person_default if p in available_personen], key="sb_personen")
 
-    st.sidebar.markdown("---")
-    st.sidebar.markdown("#### Erweitert")
-
     # Kreuzfilterung: Erweitert-Filter basieren auf vorgefiltertem Vertragsbestand
     contracts_after_all_main = filter_contracts(
         contracts, vertices, edges,
         selected_firmen, selected_projekte, selected_arten, selected_personen
     )
 
-    available_standorte = sorted(set(
-        s for c in contracts_after_all_main
-        for s in (c.get('standorte', []) if isinstance(c.get('standorte'), list) else [c.get('standorte', '')])
-        if s
-    ))
-    selected_standorte = st.sidebar.multiselect("Standort", available_standorte, default=[s for s in q_standort_default if s in available_standorte], key="sb_standort")
+    selected_standorte = []  # Standort-Filter entfernt (identisch mit Projekt)
 
     available_rollen = sorted(set(
         e.get('rolle', '') for e in edges
@@ -1075,7 +1166,7 @@ def main():
     sidebar_nachtrag = nachtrag_option if nachtrag_option != "Alle" else None
     sidebar_seiten = seiten_range if seiten_range != (1, 38) else None
     any_filter_active = (selected_firmen or selected_arten or selected_projekte or selected_personen
-                        or selected_standorte or selected_rollen or sidebar_nachtrag or sidebar_seiten
+                        or selected_rollen or sidebar_nachtrag or sidebar_seiten
                         or selected_ende_jahre)
 
     # Projekt/Standort wildcard from query
@@ -1141,11 +1232,14 @@ def main():
     filter_count_placeholder.markdown(f"**{len(filtered_contracts)}** von {len(contracts)} Verträgen")
     if any_filter_active:
         if reset_placeholder.button("Alle Filter löschen", key="reset_filters"):
+            # Multiselects auf leer setzen
             for key in ["sb_firmen", "sb_projekte", "sb_arten", "sb_personen",
-                         "sb_standort", "sb_rolle", "sb_ende_jahr", "sb_node_types",
-                         "sb_nachtrag", "sb_seiten"]:
-                if key in st.session_state:
-                    del st.session_state[key]
+                         "sb_rolle", "sb_ende_jahr"]:
+                st.session_state[key] = []
+            # Nachtrag auf "Alle" (Index 0)
+            st.session_state["sb_nachtrag"] = "Alle"
+            # Seitenzahl auf vollen Bereich
+            st.session_state["sb_seiten"] = (1, 38)
             st.rerun()
 
     # Create tabs
