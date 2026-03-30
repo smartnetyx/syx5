@@ -1068,7 +1068,7 @@
     "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 3.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 3.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1119,15 +1119,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung der Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 26 kWp auf Dachflaechen",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 26 kWp auf Dachflaechen"
   },
   {
     "vertrags_id": "vertrag:d2d4cd38",
     "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Jakob signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Hollander Jakob signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1178,15 +1177,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung der Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 1 Monat nach 2-maliger Mahnung",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage - Vertrag Nr. 1",
-    "vertragsgegenstand": "Errichtung und Betrieb einer weiteren PV-Anlage mit ca. 100 kWp auf Dachflaechen (Anbau und Vordach)",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer weiteren PV-Anlage mit ca. 100 kWp auf Dachflaechen (Anbau und Vordach)"
   },
   {
     "vertrags_id": "vertrag:d284599b",
     "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Werner mit Nachtrag signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Hollander Werner mit Nachtrag signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1237,15 +1235,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 170 kWp (installiert: 165,44 kWp) auf Dachflaechen in 26553 Dornum, Gewerbestrasse",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 170 kWp (installiert: 165,44 kWp) auf Dachflaechen in 26553 Dornum, Gewerbestrasse"
   },
   {
     "vertrags_id": "vertrag:b6ca9e30",
     "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Werner signiert 3.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Hollander Werner signiert 3.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1296,15 +1293,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate nach 2-maliger Mahnung",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 100 kWp auf Dachflaechen der Gewerbehalle nebst Anbauten und Einfamilienhaus",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 100 kWp auf Dachflaechen der Gewerbehalle nebst Anbauten und Einfamilienhaus"
   },
   {
     "vertrags_id": "vertrag:f8777306",
     "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Werner signiert 4.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Hollander Werner signiert 4.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1355,15 +1351,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 56,12 kWp auf Dachflaechen in 26553 Dornum",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 56,12 kWp auf Dachflaechen in 26553 Dornum"
   },
   {
     "vertrags_id": "vertrag:5b137dd1",
     "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Werner signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Hollander Werner signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1414,15 +1409,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 170 kWp auf Dachflaechen in 26553 Dornum",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 170 kWp auf Dachflaechen in 26553 Dornum"
   },
   {
     "vertrags_id": "vertrag:4afcdc58",
     "dateiname": "Gestattungsvertrag Sonnentaler V Kuiper Tjeerd.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Kuiper Tjeerd.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1473,15 +1467,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 55 kWp auf Dachflaechen",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 55 kWp auf Dachflaechen"
   },
   {
     "vertrags_id": "vertrag:0f4bc542",
     "dateiname": "Gestattungsvertrag Sonnentaler V Quappen Immobilien mit Nachtrag signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Quappen Immobilien mit Nachtrag signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1532,15 +1525,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 80 kWp auf Dachflaechen, Industriestr. 4+6, 49751 Soegel",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 80 kWp auf Dachflaechen, Industriestr. 4+6, 49751 Soegel"
   },
   {
     "vertrags_id": "vertrag:19725b77",
     "dateiname": "Gestattungsvertrag Sonnentaler V Reulmann Andreas 2 mit Nachtrag signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Reulmann Andreas 2 mit Nachtrag signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1591,15 +1583,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 1 Monat nach 2-maliger Mahnung",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage sowie deren Erweiterung mit Nachtrag",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 300-500 kWp auf vorhandener Lagerhalle + Erweiterung 150-250 kWp auf geplantem Anbau",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 300-500 kWp auf vorhandener Lagerhalle + Erweiterung 150-250 kWp auf geplantem Anbau"
   },
   {
     "vertrags_id": "vertrag:9cdb2c9a",
     "dateiname": "Gestattungsvertrag Sonnentaler V Reulmann Andreas signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Reulmann Andreas signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1650,15 +1641,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 1 Monat nach 2-maliger Mahnung",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 250-350 kWp auf Dachflaechen von Rinderstall, Strohhalle und kleinem Stall",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 250-350 kWp auf Dachflaechen von Rinderstall, Strohhalle und kleinem Stall"
   },
   {
     "vertrags_id": "vertrag:ac658583",
     "dateiname": "Gestattungsvertrag Sonnentaler V Rosen Ralf signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Rosen Ralf signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1709,15 +1699,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 90 kWp auf Dachflaechen der Halle",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 90 kWp auf Dachflaechen der Halle"
   },
   {
     "vertrags_id": "vertrag:296bcd10",
     "dateiname": "Gestattungsvertrag Sonnentaler V Schnelling Bernhard signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Schnelling Bernhard signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1768,15 +1757,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage auf 4 Huehnchenstallen in Bernte",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage auf 4 Huehnchenstallen in Bernte"
   },
   {
     "vertrags_id": "vertrag:4b7138cb",
     "dateiname": "Gestattungsvertrag Sonnentaler V Schulte Albert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Schulte Albert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1827,15 +1815,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 1 Monat",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit bis zu 1.200 kWp auf Dachflaechen der neu errichteten Huehnchenstalle",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit bis zu 1.200 kWp auf Dachflaechen der neu errichteten Huehnchenstalle"
   },
   {
     "vertrags_id": "vertrag:57bd251f",
     "dateiname": "Gestattungsvertrag Sonnentaler V Volker&Jansen signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler V Volker&Jansen signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1886,15 +1873,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 1 Monat nach 2-maliger Mahnung",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 200 kWp auf Dachflaechen der Halle",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 200 kWp auf Dachflaechen der Halle"
   },
   {
     "vertrags_id": "vertrag:f66b40be",
     "dateiname": "Gestattungsvertrag Sonnentaler VII Hollander Werner 2 mit Nachtrag signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler VII Hollander Werner 2 mit Nachtrag signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -1945,15 +1931,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 30 kWp (installiert: 18,80 kWp) auf Dachflaechen in 26556 Westerholt, Holtkamp 6",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 30 kWp (installiert: 18,80 kWp) auf Dachflaechen in 26556 Westerholt, Holtkamp 6"
   },
   {
     "vertrags_id": "vertrag:9ac539e5",
     "dateiname": "Gestattungsvertrag Sonnentaler VII Hollander Werner signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler VII Hollander Werner signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2004,15 +1989,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage (installiert: 21,16 kWp) auf Dachflaechen in Dornum-Roggenstede, Fulkumer Weg 16",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage (installiert: 21,16 kWp) auf Dachflaechen in Dornum-Roggenstede, Fulkumer Weg 16"
   },
   {
     "vertrags_id": "vertrag:9d96cce2",
     "dateiname": "Gestattungsvertrag Sonnentaler VII Kreuzhermes Christian signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler VII Kreuzhermes Christian signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2063,15 +2047,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 230 kWp WR-Leistung auf Dachflaechen",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 230 kWp WR-Leistung auf Dachflaechen"
   },
   {
     "vertrags_id": "vertrag:637b0101",
     "dateiname": "Gestattungsvertrag Sonnentaler VII Werner Hollander signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler VII Werner Hollander signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2122,15 +2105,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage (installiert: 22,08 kWp) auf Dachflaechen in 26532 Grossheide, Gewerbestrasse 18",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage (installiert: 22,08 kWp) auf Dachflaechen in 26532 Grossheide, Gewerbestrasse 18"
   },
   {
     "vertrags_id": "vertrag:17dee9db",
     "dateiname": "Gestattungsvertrag Sonnentaler VIIHollander Werner signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler VIIHollander Werner signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2181,15 +2163,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage (installiert: 67,78 kWp) auf Dachflaechen in 26556 Westerholt, Holtkamp 1",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage (installiert: 67,78 kWp) auf Dachflaechen in 26556 Westerholt, Holtkamp 1"
   },
   {
     "vertrags_id": "vertrag:c7f29533",
     "dateiname": "Gestattungsvertrag Sonnentaler VIII Flerlage Geflügelzucht signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler VIII Flerlage Geflügelzucht signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2240,15 +2221,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate nach 2-maliger Mahnung",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage Nr. 1",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 370 kWp auf Dachflaechen",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 370 kWp auf Dachflaechen"
   },
   {
     "vertrags_id": "vertrag:ed44a272",
     "dateiname": "Gestattungsvertrag Sonnentaler X Nutraferm Petfood.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler X Nutraferm Petfood.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2299,15 +2279,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 230 kWp auf Dachflaechen",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 230 kWp auf Dachflaechen"
   },
   {
     "vertrags_id": "vertrag:e24aebf6",
     "dateiname": "Gestattungsvertrag Sonnentaler XI Schulte Ralf.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler XI Schulte Ralf.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2358,15 +2337,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 1 Monat nach 2-maliger Mahnung",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 450 kWp auf Dachflaechen der Fertigungshalle und angrenzenden Gebaeude",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 450 kWp auf Dachflaechen der Fertigungshalle und angrenzenden Gebaeude"
   },
   {
     "vertrags_id": "vertrag:1ccb2fae",
     "dateiname": "Gestattungsvertrag Sonnentaler XI Wessels Richard.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler XI Wessels Richard.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2417,15 +2395,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 1 Monat nach 2-maliger Mahnung",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 70-100 kWp auf Dachflaechen der Lagerhalle",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 70-100 kWp auf Dachflaechen der Lagerhalle"
   },
   {
     "vertrags_id": "vertrag:56713d9b",
     "dateiname": "Gestattungsvertrag Sonnentaler XII GESEVO signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler XII GESEVO signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2476,15 +2453,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 1 Monat nach 2-maliger Mahnung",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage - Vertrag Nr. 1",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage auf Dachflaechen vorhandener und geplanter Gebaeude inkl. Trafo",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage auf Dachflaechen vorhandener und geplanter Gebaeude inkl. Trafo"
   },
   {
     "vertrags_id": "vertrag:3381720f",
     "dateiname": "Gestattungsvertrag Sonnentaler XV Paus Helmut.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler XV Paus Helmut.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2535,15 +2511,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 1 Monat nach 2-maliger Mahnung",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 749 kWp auf Dachflaechen der Huehnchenstalle",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 749 kWp auf Dachflaechen der Huehnchenstalle"
   },
   {
     "vertrags_id": "vertrag:cc33edb3",
     "dateiname": "Gestattungsvertrag Sonnentaler XV Schulte Albert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler XV Schulte Albert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2594,15 +2569,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 1 Monat",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 750 kWp auf Dachflaechen der neu errichteten Huehnchenstalle",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 750 kWp auf Dachflaechen der neu errichteten Huehnchenstalle"
   },
   {
     "vertrags_id": "vertrag:38eb652a",
     "dateiname": "Gestattungsvertrag Sonnentaler XVI  Lohner Putenmast signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler XVI  Lohner Putenmast signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2653,15 +2627,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme 700 kWp innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 1 Monat nach 2-maliger Mahnung",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 950-1100 kWp auf Dachflaechen der 3 Gefluegelstalle, Strasse Speckendick",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 950-1100 kWp auf Dachflaechen der 3 Gefluegelstalle, Strasse Speckendick"
   },
   {
     "vertrags_id": "vertrag:0d207c14",
     "dateiname": "Gestattungsvertrag Sonnentaler XVII Lohner Putenmast signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnentaler XVII Lohner Putenmast signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2712,15 +2685,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme 700 kWp innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 1 Monat nach 2-maliger Mahnung",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 1.900 kWp auf Dachflaechen 3 Gefluegelstalle + 2 Strohhallen, Strasse Plakkendiek",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 1.900 kWp auf Dachflaechen 3 Gefluegelstalle + 2 Strohhallen, Strasse Plakkendiek"
   },
   {
     "vertrags_id": "vertrag:c21aead8",
     "dateiname": "Gestattungsvertrag Sonnetaler XI-Investment Gemeinschaft Sigiltrastraße signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Sonnetaler XI-Investment Gemeinschaft Sigiltrastraße signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2771,15 +2743,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 1 Monat nach 2-maliger Mahnung",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage sowie deren Erweiterung",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 250-400 kWp auf Dachflaechen des Verbrauchermarktes + Nutzung Trafo",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 250-400 kWp auf Dachflaechen des Verbrauchermarktes + Nutzung Trafo"
   },
   {
     "vertrags_id": "vertrag:46e788ef",
     "dateiname": "Gestattungsvertrag Spark Heiner Spark Niedenhof GbR Nachtrag signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Spark Heiner Spark Niedenhof GbR Nachtrag signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2830,15 +2801,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtraegen",
-    "vertragsgegenstand": "Errichtung und Betrieb PV-Anlagen: 36,6 kWp (Bischofsbr. Weg) + 41,4 kWp (In den Strassen) + Erweiterung 230,82 kWp",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb PV-Anlagen: 36,6 kWp (Bischofsbr. Weg) + 41,4 kWp (In den Strassen) + Erweiterung 230,82 kWp"
   },
   {
     "vertrags_id": "vertrag:c7110a7e",
     "dateiname": "Gestattungsvertrag Untiedt Gerd Jansen Bernd signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Untiedt Gerd Jansen Bernd signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -2889,26 +2859,20 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr; Kuendigung bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 30 kWp auf Dachflaechen",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 30 kWp auf Dachflaechen"
   },
   {
     "vertrags_id": "vertrag:e45f0ca2",
     "dateiname": "Gestattungsvertrag VN Vagedes Bernhard, Guido signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag VN Vagedes Bernhard, Guido signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
       {
-        "name": "Vagedes Bernhard",
-        "typ": "Person",
-        "rolle": "Eigentümer"
-      },
-      {
-        "name": "Vagedes Guido",
-        "typ": "Person",
+        "name": "Vagedes Bernhard / Vagedes Guido (Gebaeudeigentuemer)",
+        "typ": "Firma",
         "rolle": "Eigentümer"
       },
       {
@@ -2953,15 +2917,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kuendigung bei Nichteinhaltung Inbetriebnahme innerhalb 1 Jahr",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 160 kWp auf Dachflaechen",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 160 kWp auf Dachflaechen"
   },
   {
     "vertrags_id": "vertrag:6827c7f2",
     "dateiname": "Gestattungsvertrag Wilken Wilken, Niedenhof Wilken signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag Wilken Wilken, Niedenhof Wilken signiert.pdf",
     "kategorie": "Gestattungsvertraege PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": null,
     "parteien": [
@@ -3012,8 +2975,7 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 80 kWp auf Dachflaechen",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Errichtung und Betrieb einer PV-Anlage mit ca. 80 kWp auf Dachflaechen"
   },
   {
     "vertrags_id": "vertrag:dfd69eb5",
@@ -3146,12 +3108,7 @@
         "rolle": "Wärmelieferant"
       },
       {
-        "name": "Lünswilken Josef",
-        "typ": "Person",
-        "rolle": "Abnehmer"
-      },
-      {
-        "name": "Lünswilken Sabine",
+        "name": "Lünswilken Josef u. Sabine",
         "typ": "Person",
         "rolle": "Abnehmer"
       }
@@ -4253,13 +4210,8 @@
         "rolle": "Wärmelieferant"
       },
       {
-        "name": "Wraga Iris",
-        "typ": "Person",
-        "rolle": "Abnehmer"
-      },
-      {
-        "name": "Wraga Matthias",
-        "typ": "Person",
+        "name": "Wraga Iris und Matthias",
+        "typ": "Firma",
         "rolle": "Abnehmer"
       }
     ],
@@ -4306,7 +4258,7 @@
     "dateiname": "Jahresabrechnung 2024 Heymann Alexandra.pdf",
     "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/A1/Jahresabrechnung 2024 Heymann Alexandra.pdf",
     "kategorie": "Wärmelieferverträge",
-    "vertragsart": "Sonstige",
+    "vertragsart": "Jahresabrechnung",
     "ist_nachtrag": false,
     "seitenzahl": 1,
     "parteien": [
@@ -4357,15 +4309,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Jahresabrechnung 2024 Wärmelieferung Heymann Alexandra",
-    "vertragsgegenstand": "Jahresabrechnung Wärmelieferung 2024",
-    "dokument_typ": "Jahresabrechnung"
+    "vertragsgegenstand": "Jahresabrechnung Wärmelieferung 2024"
   },
   {
     "vertrags_id": "vertrag:d2f697ab",
     "dateiname": "Jahresabrechnung 2024 Hömmken Claudia Zähler 639.pdf",
     "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/A1/Jahresabrechnung 2024 Hömmken Claudia Zähler 639.pdf",
     "kategorie": "Wärmelieferverträge",
-    "vertragsart": "Sonstige",
+    "vertragsart": "Jahresabrechnung",
     "ist_nachtrag": false,
     "seitenzahl": 1,
     "parteien": [
@@ -4416,15 +4367,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Jahresabrechnung 2024 Wärmelieferung Hömmken Claudia (Zähler 639)",
-    "vertragsgegenstand": "Jahresabrechnung Wärmelieferung 2024",
-    "dokument_typ": "Jahresabrechnung"
+    "vertragsgegenstand": "Jahresabrechnung Wärmelieferung 2024"
   },
   {
     "vertrags_id": "vertrag:1ea3b274",
     "dateiname": "Jahresabrechnung 2024 Hömmken Claudia Zähler 919.pdf",
     "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/A1/Jahresabrechnung 2024 Hömmken Claudia Zähler 919.pdf",
     "kategorie": "Wärmelieferverträge",
-    "vertragsart": "Sonstige",
+    "vertragsart": "Jahresabrechnung",
     "ist_nachtrag": false,
     "seitenzahl": 1,
     "parteien": [
@@ -4475,15 +4425,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Jahresabrechnung 2024 Wärmelieferung Hömmken Claudia (Zähler 919, Am Dorfteich 1)",
-    "vertragsgegenstand": "Jahresabrechnung Wärmelieferung 2024, Anschluss Am Dorfteich 1",
-    "dokument_typ": "Jahresabrechnung"
+    "vertragsgegenstand": "Jahresabrechnung Wärmelieferung 2024, Anschluss Am Dorfteich 1"
   },
   {
     "vertrags_id": "vertrag:0c6cf851",
     "dateiname": "Jahresabrechnung 2024 Kleene Berthold.pdf",
     "dateipfad": "Wärmelieferverträge/Bioenergie Alte Heide/A1/Jahresabrechnung 2024 Kleene Berthold.pdf",
     "kategorie": "Wärmelieferverträge",
-    "vertragsart": "Sonstige",
+    "vertragsart": "Jahresabrechnung",
     "ist_nachtrag": false,
     "seitenzahl": 1,
     "parteien": [
@@ -4534,8 +4483,7 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Jahresabrechnung 2024 Wärmelieferung Kleene Berthold",
-    "vertragsgegenstand": "Jahresabrechnung Wärmelieferung 2024",
-    "dokument_typ": "Jahresabrechnung"
+    "vertragsgegenstand": "Jahresabrechnung Wärmelieferung 2024"
   },
   {
     "vertrags_id": "vertrag:gesellschaft_wilken_wilken_niedenhof",
@@ -4852,7 +4800,7 @@
     "dateiname": "Stromliefervertrag HRN Hömmken Christof Nachtrag.pdf",
     "dateipfad": "Beispiel Dokumente/Stromlieferverträge/Stromliefervertrag HRN Hömmken Christof Nachtrag.pdf",
     "kategorie": "Beispiel Dokumente",
-    "vertragsart": "Stromliefervertrag",
+    "vertragsart": "Stromliefervertrag (Nachtrag)",
     "ist_nachtrag": true,
     "seitenzahl": 1,
     "parteien": [
@@ -5147,13 +5095,8 @@
     "seitenzahl": 7,
     "parteien": [
       {
-        "name": "Kemper Berendina",
-        "typ": "Person",
-        "rolle": "Eigentümer"
-      },
-      {
-        "name": "Nüsse Traute Johanne",
-        "typ": "Person",
+        "name": "Kemper Berendina / Nüsse Traute Johanne",
+        "typ": "Firma",
         "rolle": "Eigentümer"
       },
       {
@@ -5621,12 +5564,7 @@
         "rolle": "Vermieter"
       },
       {
-        "name": "Kleene Christine",
-        "typ": "Person",
-        "rolle": "Mieter"
-      },
-      {
-        "name": "König Henning",
+        "name": "Kleene Christine, König Henning",
         "typ": "Person",
         "rolle": "Mieter"
       }
@@ -5858,12 +5796,7 @@
         "rolle": "Vermieter"
       },
       {
-        "name": "Büsing Detlev",
-        "typ": "Person",
-        "rolle": "Mieter"
-      },
-      {
-        "name": "Büsing Petra",
+        "name": "Büsing Detlev, Büsing Petra",
         "typ": "Person",
         "rolle": "Mieter"
       }
@@ -5921,12 +5854,7 @@
         "rolle": "Vermieter"
       },
       {
-        "name": "Steineck Manfred",
-        "typ": "Person",
-        "rolle": "Mieter"
-      },
-      {
-        "name": "Mular Irena",
+        "name": "Steineck Manfred, Mular Irena",
         "typ": "Person",
         "rolle": "Mieter"
       }
@@ -6148,7 +6076,7 @@
     "dateiname": "Sonnentaler III-Andrea Niedenhof Nachtrag.pdf",
     "dateipfad": "xx Verträge gescannt/Sonnentaler III-Andrea Niedenhof Nachtrag.pdf",
     "kategorie": "xx Verträge gescannt",
-    "vertragsart": "Kaufvertrag",
+    "vertragsart": "Kaufvertrag (Nachtrag)",
     "ist_nachtrag": true,
     "seitenzahl": 1,
     "parteien": [
@@ -6206,7 +6134,7 @@
     "dateiname": "Sonnentaler VIII-Flerlage Geflügelzucht Nachtag.pdf",
     "dateipfad": "xx Verträge gescannt/Sonnentaler VIII-Flerlage Geflügelzucht Nachtag.pdf",
     "kategorie": "xx Verträge gescannt",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (Nachtrag)",
     "ist_nachtrag": true,
     "seitenzahl": 1,
     "parteien": [
@@ -6380,7 +6308,7 @@
     "dateiname": "Gestattungsvertrag  Janssen Andreas, Hans Sonnentaler IX signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag  Janssen Andreas, Hans Sonnentaler IX signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 4,
     "parteien": [
@@ -6431,15 +6359,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 190 kWp auf Dachflächen des Gebäudes in Werlte, Ölstrasse 17",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 190 kWp auf Dachflächen des Gebäudes in Werlte, Ölstrasse 17"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_niedenhof_goeken",
     "dateiname": "Gestattungsvertrag  Niedenhof Detlef Göken Gerhard signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag  Niedenhof Detlef Göken Gerhard signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 3,
     "parteien": [
@@ -6490,15 +6417,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr; Kündigungsrecht bei Zahlungsverzug > 1 Monat",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 500 bis 990 kWp auf Dachflächen der neu errichteten Rindermastställe, Gemarkung Bösel, Flur 52, Flurstück 29",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 500 bis 990 kWp auf Dachflächen der neu errichteten Rindermastställe, Gemarkung Bösel, Flur 52, Flurstück 29"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_untied_kossen",
     "dateiname": "Gestattungsvertrag  Untied Gerd Kossen Birgit signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag  Untied Gerd Kossen Birgit signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 4,
     "parteien": [
@@ -6549,15 +6475,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr; Kündigungsrecht bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 50 kWp auf Dachflächen der Gebäude (Neubau einer Remise), Gemarkung Surwold, Schleusenstrasse 82",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 50 kWp auf Dachflächen der Gebäude (Neubau einer Remise), Gemarkung Surwold, Schleusenstrasse 82"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_andrea_niedenhof_lhh_roehlertwist",
     "dateiname": "Gestattungsvertrag Andrea Niedenhof LHH Röhlertwist signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Andrea Niedenhof LHH Röhlertwist signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 6,
     "parteien": [
@@ -6608,15 +6533,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr; Kündigungsrecht bei Zahlungsverzug > 4 Wochen",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 180 kWp auf Dachflächen des neu erstellten Geflügelstalls (ca. 100 x 40m), Gemarkung Twist",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 180 kWp auf Dachflächen des neu erstellten Geflügelstalls (ca. 100 x 40m), Gemarkung Twist"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_bn_blinzenberg_bueter",
     "dateiname": "Gestattungsvertrag BN Blinzenberg Büter Wilhelm signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag BN Blinzenberg Büter Wilhelm signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 6,
     "parteien": [
@@ -6667,25 +6591,19 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr; Kündigungsrecht bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 600 bis 700 kWp auf Dachflächen des neu erstellten Geflügelstalls (ca. 130 x 40m), Gemarkung Vrees, Gehlenberger Weg 131",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 600 bis 700 kWp auf Dachflächen des neu erstellten Geflügelstalls (ca. 130 x 40m), Gemarkung Vrees, Gehlenberger Weg 131"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_kemper_nuesse_niedenhof",
     "dateiname": "Gestattungsvertrag Berendina Kemper Traute Nüsse Johanne Niedenhof Detlef signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Berendina Kemper Traute Nüsse Johanne Niedenhof Detlef signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 7,
     "parteien": [
       {
-        "name": "Kemper Berendina",
-        "typ": "Person",
-        "rolle": "Eigentümer"
-      },
-      {
-        "name": "Nüsse Traute Johanne",
+        "name": "Kemper Berendina / Nüsse Traute Johanne",
         "typ": "Person",
         "rolle": "Eigentümer"
       },
@@ -6731,15 +6649,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr; Kündigungsrecht bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 160 kWp auf Dachflächen der Maschinenhalle (ca. 22m x 65m), Gemarkung Georgsdorf, Ostende 91, Flurstück in 49828 Georgsdorf",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 160 kWp auf Dachflächen der Maschinenhalle (ca. 22m x 65m), Gemarkung Georgsdorf, Ostende 91, Flurstück in 49828 Georgsdorf"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_bioenergie_witte_moor_2",
     "dateiname": "Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert 2.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert 2.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 4,
     "parteien": [
@@ -6790,15 +6707,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr; Kündigungsrecht bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 24 kWp auf Dachflächen der Gebäude, Gemarkung Vrees Flur 27, Witte Moor, 49757 Vrees",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 24 kWp auf Dachflächen der Gebäude, Gemarkung Vrees Flur 27, Witte Moor, 49757 Vrees"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_bioenergie_witte_moor_1",
     "dateiname": "Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 4,
     "parteien": [
@@ -6849,15 +6765,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr; Kündigungsrecht bei Zahlungsverzug > 1 Monat",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage auf Dachflächen der Halle, Gemarkung Vrees, Flur 27, Flurstück 28/1, 28/2, 29/1, 29/2 und 30",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage auf Dachflächen der Halle, Gemarkung Vrees, Flur 27, Flurstück 28/1, 28/2, 29/1, 29/2 und 30"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_hrn_solar_hoemmken",
     "dateiname": "Gestattungsvertrag HRN Solar Hömmken Bernhard.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag HRN Solar Hömmken Bernhard.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 3,
     "parteien": [
@@ -6908,15 +6823,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 550 kWp auf Dachflächen des zukünftig errichteten Legehennenstalls, Gemarkung Vrees, Bischofsbriicker Weg",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 550 kWp auf Dachflächen des zukünftig errichteten Legehennenstalls, Gemarkung Vrees, Bischofsbriicker Weg"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_janssen_niedenhof",
     "dateiname": "Gestattungsvertrag Janssen Andreas Janssen Niedenhof signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Janssen Andreas Janssen Niedenhof signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 5,
     "parteien": [
@@ -6967,25 +6881,19 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 170 kWp auf Dachflächen des Gebäudes, Gemarkung Werlte, Ölstrasse 17",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 170 kWp auf Dachflächen des Gebäudes, Gemarkung Werlte, Ölstrasse 17"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_kempel_nuesse_niedenhof",
     "dateiname": "Gestattungsvertrag Kempel Berendina Nüsse Traute Nüsse Johanne Niedenhof Detlef signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Kempel Berendina Nüsse Traute Nüsse Johanne Niedenhof Detlef signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 7,
     "parteien": [
       {
-        "name": "Kemper Berendina",
-        "typ": "Person",
-        "rolle": "Eigentümer"
-      },
-      {
-        "name": "Nüsse Traute Johanne",
+        "name": "Kemper Berendina / Nüsse Traute Johanne",
         "typ": "Person",
         "rolle": "Eigentümer"
       },
@@ -7031,15 +6939,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr; Kündigungsrecht bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nummer: 1 über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 160 kWp auf Dachflächen der Maschinenhalle (ca. 22m x 65m), Gemarkung Georgsdorf, Ostende 91, Flurstück 5/6, Flur 6",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 160 kWp auf Dachflächen der Maschinenhalle (ca. 22m x 65m), Gemarkung Georgsdorf, Ostende 91, Flurstück 5/6, Flur 6"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_kirschner_niedenhof",
     "dateiname": "Gestattungsvertrag Kirschner, Niedenhof Kirschner Heinz signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Kirschner, Niedenhof Kirschner Heinz signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 5,
     "parteien": [
@@ -7090,15 +6997,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs von PV-Anlagen mit ca. 170 kWp auf Dachflächen der Gebäude, Gemarkung Sögel",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs von PV-Anlagen mit ca. 170 kWp auf Dachflächen der Gebäude, Gemarkung Sögel"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_lhh_roehlertwist_niedenhof_andrea",
     "dateiname": "Gestattungsvertrag LHH Rühlertwist Niedenhof Andrea signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag LHH Rühlertwist Niedenhof Andrea signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 6,
     "parteien": [
@@ -7149,15 +7055,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr; Kündigungsrecht bei Zahlungsverzug > 4 Wochen",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 180 kWp auf Dachflächen des neu erstellten Geflügelstalls (ca. 100 x 40m), Gemarkung Twist, Alt-Rühlertwist 76A",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 180 kWp auf Dachflächen des neu erstellten Geflügelstalls (ca. 100 x 40m), Gemarkung Twist, Alt-Rühlertwist 76A"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_nn_solar_nannen",
     "dateiname": "Gestattungsvertrag NN Solar GbR Nannen Ludger signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag NN Solar GbR Nannen Ludger signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 5,
     "parteien": [
@@ -7208,15 +7113,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nr. 1 über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 99 kWp auf Dachflächen der Halle, Gemarkung Vrees, Flur 14, Flurstück 135/6, Werlter Strasse 6",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 99 kWp auf Dachflächen der Halle, Gemarkung Vrees, Flur 14, Flurstück 135/6, Werlter Strasse 6"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_niedenhof_andrea_hollander_werner",
     "dateiname": "Gestattungsvertrag Niedenhof Andrea Hollander Werner signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Niedenhof Andrea Hollander Werner signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 4,
     "parteien": [
@@ -7267,15 +7171,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr; Kündigungsrecht bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 100 kWp auf Dachflächen der neu erstellten Gewerbehalle (ca. 25m x 50m), Gemarkung Westerholt, Im Gewerbegebiet 13, Flurstück 48/17",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 100 kWp auf Dachflächen der neu erstellten Gewerbehalle (ca. 25m x 50m), Gemarkung Westerholt, Im Gewerbegebiet 13, Flurstück 48/17"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_niedenhof_andrea_lueken",
     "dateiname": "Gestattungsvertrag Niedenhof Andrea Lüken Martin signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Niedenhof Andrea Lüken Martin signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 5,
     "parteien": [
@@ -7326,15 +7229,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr; Kündigungsrecht bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag Nummer: 1 über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 500 bis 700 kWp auf Dachflächen des neu erstellten Geflügelstalls (ca. 110 x 40m), Gemarkung Twist, Flur 17, Flurstück 8/1",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 500 bis 700 kWp auf Dachflächen des neu erstellten Geflügelstalls (ca. 110 x 40m), Gemarkung Twist, Flur 17, Flurstück 8/1"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_niedenhof_behrens_kossen",
     "dateiname": "Gestattungsvertrag Niedenhof Detlef Behrens Kossen signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Niedenhof Detlef Behrens Kossen signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 6,
     "parteien": [
@@ -7385,15 +7287,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 85 kWp auf Dachflächen, Gemarkung Surwold",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 85 kWp auf Dachflächen, Gemarkung Surwold"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_niedenhof_kroeger",
     "dateiname": "Gestattungsvertrag Niedenhof Detlef Kröger Franz signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Niedenhof Detlef Kröger Franz signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 4,
     "parteien": [
@@ -7442,15 +7343,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr; Kündigungsrecht bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage auf Dachflächen (OCR-Qualität schlecht, kWp nicht klar lesbar)",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage auf Dachflächen (OCR-Qualität schlecht, kWp nicht klar lesbar)"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_niedenhof_steenken",
     "dateiname": "Gestattungsvertrag Niedenhof Detlef Steenken Hermann signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Niedenhof Detlef Steenken Hermann signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 5,
     "parteien": [
@@ -7501,15 +7401,14 @@
     "kuendigung_ausserordentlich": "Kündigungsrecht bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 30 kWp auf Dachflächen, Gemarkung Vrees",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 30 kWp auf Dachflächen, Gemarkung Vrees"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_peters_immobilien_peters_niedenhof",
     "dateiname": "Gestattungsvertrag Peters Immobilien Peters Niedenhof signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Peters Immobilien Peters Niedenhof signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 6,
     "parteien": [
@@ -7560,15 +7459,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 117 kWp auf Dachflächen, Gemarkung Vrees",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 117 kWp auf Dachflächen, Gemarkung Vrees"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_peters_niedenhof_peters",
     "dateiname": "Gestattungsvertrag Peters Niedenhof Peters signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Peters Niedenhof Peters signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 4,
     "parteien": [
@@ -7619,15 +7517,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 53 kWp auf Dachflächen, Gemarkung Vrees",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 53 kWp auf Dachflächen, Gemarkung Vrees"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_peters_werner_sandland",
     "dateiname": "Gestattungsvertrag Peters Werner Sandland signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Peters Werner Sandland signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 5,
     "parteien": [
@@ -7678,15 +7575,14 @@
     "kuendigung_ausserordentlich": "Kündigungsrecht bei Zahlungsverzug",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 542 kWp auf Dachflächen, Vrees",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 542 kWp auf Dachflächen, Vrees"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_snw_solar_wilken_spark",
     "dateiname": "Gestattungsvertrag SNW Solar Wilken und Spark Agrar signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag SNW Solar Wilken und Spark Agrar signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 4,
     "parteien": [
@@ -7737,15 +7633,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr; Kündigungsrecht bei Zahlungsverzug",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 205 kWp auf Dachflächen, Gemarkung Vrees",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 205 kWp auf Dachflächen, Gemarkung Vrees"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_sonnentaler_hera",
     "dateiname": "Gestattungsvertrag Sonnentaler HERA Holztechnik signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler HERA Holztechnik signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 4,
     "parteien": [
@@ -7796,15 +7691,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 90 kWp auf Dachflächen, Gemarkung Vinnen",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 90 kWp auf Dachflächen, Gemarkung Vinnen"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_sonnentaler_i_wiehebrink",
     "dateiname": "Gestattungsvertrag Sonnentaler I  Wiehebrink Ernst.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler I  Wiehebrink Ernst.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 5,
     "parteien": [
@@ -7855,15 +7749,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 65 kWp auf Dachflächen, Gemarkung Garrel",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 65 kWp auf Dachflächen, Gemarkung Garrel"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_sonnentaler_i_gts_borgmann",
     "dateiname": "Gestattungsvertrag Sonnentaler I GTS Borgmann signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler I GTS Borgmann signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 5,
     "parteien": [
@@ -7912,25 +7805,19 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 100 kWp auf Dachflächen",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 100 kWp auf Dachflächen"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_sonnentaler_i_kremes",
     "dateiname": "Gestattungsvertrag Sonnentaler I Kremes Gezienus, Kiena signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler I Kremes Gezienus, Kiena signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 5,
     "parteien": [
       {
-        "name": "Kremers Gezienus",
-        "typ": "Person",
-        "rolle": "Eigentümer"
-      },
-      {
-        "name": "Kremers Kiena",
+        "name": "Kremers Gezienus und Kiena",
         "typ": "Person",
         "rolle": "Eigentümer"
       },
@@ -7976,15 +7863,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 100 kWp auf Dachflächen, Gemarkung Ihrhove",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 100 kWp auf Dachflächen, Gemarkung Ihrhove"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_sonnentaler_i_quappen_nachtrag",
     "dateiname": "Gestattungsvertrag Sonnentaler I Quappen Immobilien Nachtrag signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler I Quappen Immobilien Nachtrag signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": true,
     "seitenzahl": 6,
     "parteien": [
@@ -8035,15 +7921,14 @@
     "kuendigung_ausserordentlich": "Fristlose Kündigung bei Nichtinbetriebnahme innerhalb von 1 Jahr",
     "gerichtsstand": null,
     "vertragstitel": "Nachtrag zum Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage vom 28.08.2009",
-    "vertragsgegenstand": "Nachtrag zum Gestattungsvertrag: Änderung § 5 (Dienstbarkeit) - Vormerkung für Oldenburgische Landesbank AG erhält Rang vor beschränkter persönlicher Dienstbarkeit; PV-Anlage mit ca. 575 kWp, Gemarkung Sögel",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Nachtrag zum Gestattungsvertrag: Änderung § 5 (Dienstbarkeit) - Vormerkung für Oldenburgische Landesbank AG erhält Rang vor beschränkter persönlicher Dienstbarkeit; PV-Anlage mit ca. 575 kWp, Gemarkung Sögel"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_sonnentaler_ii_rosen",
     "dateiname": "Gestattungsvertrag Sonnentaler II Erbengemeinschaft Rosen Gerda, Ralf signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler II Erbengemeinschaft Rosen Gerda, Ralf signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 4,
     "parteien": [
@@ -8094,15 +7979,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 210 kWp auf Dachflächen, Gemarkung Werlte",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 210 kWp auf Dachflächen, Gemarkung Werlte"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_sonnentaler_iii_jungsthofel_bernhard",
     "dateiname": "Gestattungsvertrag Sonnentaler III Jungsthöfel Bernhard signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler III Jungsthöfel Bernhard signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 4,
     "parteien": [
@@ -8153,15 +8037,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 99 kWp auf Dachflächen, Gemarkung Gehlenberg",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 99 kWp auf Dachflächen, Gemarkung Gehlenberg"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_sonnentaler_iii_jungsthofel_jan",
     "dateiname": "Gestattungsvertrag Sonnentaler III Jungsthöfel Jan signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler III Jungsthöfel Jan signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 5,
     "parteien": [
@@ -8212,15 +8095,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 275 kWp auf Dachflächen, Gemarkung Gehlenberg",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 275 kWp auf Dachflächen, Gemarkung Gehlenberg"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_sonnentaler_v_bueter_helmut",
     "dateiname": "Gestattungsvertrag Sonnentaler V Büter Helmut signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Büter Helmut signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 7,
     "parteien": [
@@ -8271,25 +8153,19 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 260 bis 330 kWp auf Dachflächen, Gemarkung Esterwegen",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 260 bis 330 kWp auf Dachflächen, Gemarkung Esterwegen"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_sonnentaler_v_hoesen",
     "dateiname": "Gestattungsvertrag Sonnentaler V Hoesen Karl Heinz signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Hoesen Karl Heinz signiert.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 6,
     "parteien": [
       {
-        "name": "Hoesen Karl Heinz",
-        "typ": "Person",
-        "rolle": "Eigentümer"
-      },
-      {
-        "name": "Hoesen Hans-Jürgen",
+        "name": "Hoesen Karl Heinz / Hoesen Hans-Jürgen",
         "typ": "Person",
         "rolle": "Eigentümer"
       },
@@ -8335,15 +8211,14 @@
     "kuendigung_ausserordentlich": null,
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 1000 kWp auf Dachflächen, Gemarkung Sustrum",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 1000 kWp auf Dachflächen, Gemarkung Sustrum"
   },
   {
     "vertrags_id": "vertrag:gestattung_pv_sonnentaler_v_hollander_jakob",
     "dateiname": "Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 2.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 2.pdf",
     "kategorie": "Gestattungsverträge PV",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "ist_nachtrag": false,
     "seitenzahl": 6,
     "parteien": [
@@ -8394,8 +8269,7 @@
     "kuendigung_ausserordentlich": "Kündigungsrecht bei Zahlungsverzug > 3 Monate",
     "gerichtsstand": null,
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
-    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 190 kWp auf Dachflächen, Gemarkung Esens",
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "vertragsgegenstand": "Gestattung der Errichtung und des Betriebs einer PV-Anlage mit ca. 190 kWp auf Dachflächen, Gemarkung Esens"
   },
   {
     "vertrags_id": "vertrag:waerme_wm_bbv",
@@ -9330,7 +9204,7 @@
     "dateiname": "Wärmeliefervertrag Bioenergie Witte Moor Gemeinde Vrees Nachtrag sign.pdf",
     "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenergie Witte Moor Gemeinde Vrees Nachtrag sign.pdf",
     "kategorie": "Wärmelieferverträge",
-    "vertragsart": "Wärmeliefervertrag",
+    "vertragsart": "Wärmeliefervertrag (Nachtrag)",
     "ist_nachtrag": true,
     "seitenzahl": 1,
     "parteien": [
@@ -9446,7 +9320,7 @@
     "dateiname": "Wärmeliefervertrag Bioenergie Witte Moor Kaiser Maria Nachtrag sign.pdf",
     "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenergie Witte Moor Kaiser Maria Nachtrag sign.pdf",
     "kategorie": "Wärmelieferverträge",
-    "vertragsart": "Wärmeliefervertrag",
+    "vertragsart": "Wärmeliefervertrag (Nachtrag)",
     "ist_nachtrag": true,
     "seitenzahl": 1,
     "parteien": [
@@ -9504,7 +9378,7 @@
     "dateiname": "Wärmeliefervertrag Bioenergie Witte Moor Maschinenbau Manfred Kaiser Nachtrag sign.pdf",
     "dateipfad": "Wärmelieferverträge/Wärmeliefervertrag Bioenergie Witte Moor Maschinenbau Manfred Kaiser Nachtrag sign.pdf",
     "kategorie": "Wärmelieferverträge",
-    "vertragsart": "Wärmeliefervertrag",
+    "vertragsart": "Wärmeliefervertrag (Nachtrag)",
     "ist_nachtrag": true,
     "seitenzahl": 1,
     "parteien": [

@@ -1,0 +1,556 @@
+id;label;name;vertragsart;status;ist_nachtrag;kategorie;seitenzahl
+vertrag:7167b442;Vertrag;Betriebsführungsvertrag Marka Taler Ingenieurbüro Wintering sign;Betriebsführungsvertrag;aktiv;False;Betriebsführungsverträge;7
+dokument:betriebsf_hrungsvertrag_marka_taler_ingenieurb_ro_wintering_sign_pdf;Dokument;Betriebsführungsvertrag Marka Taler Ingenieurbüro Wintering sign.pdf;;;;;7
+vertrag:06f58ebe;Vertrag;Betriebsführungsvertrag Marka Taler WT03 sign;Betriebsführungsvertrag;aktiv;False;Betriebsführungsverträge;10
+dokument:betriebsf_hrungsvertrag_marka_taler_wt03_sign_pdf;Dokument;Betriebsführungsvertrag Marka Taler WT03 sign.pdf;;;;;10
+vertrag:c13be12b;Vertrag;Betriebsführungsvertrag Marka Taler WT04 sign;Betriebsführungsvertrag;aktiv;False;Betriebsführungsverträge;12
+dokument:betriebsf_hrungsvertrag_marka_taler_wt04_sign_pdf;Dokument;Betriebsführungsvertrag Marka Taler WT04 sign.pdf;;;;;12
+vertrag:96dd2c6f;Vertrag;Betriebsführungsvertrag Marka Taler WT05 Nachtrag;Betriebsführungsvertrag;aktiv;True;Betriebsführungsverträge;1
+dokument:betriebsf_hrungsvertrag_marka_taler_wt05_nachtrag_pdf;Dokument;Betriebsführungsvertrag Marka Taler WT05 Nachtrag.pdf;;;;;1
+vertrag:7ce5126a;Vertrag;Betriebsführungsvertrag Marka Taler WT05;Betriebsführungsvertrag;aktiv;False;Betriebsführungsverträge;11
+dokument:betriebsf_hrungsvertrag_marka_taler_wt05_pdf;Dokument;Betriebsführungsvertrag Marka Taler WT05.pdf;;;;;11
+vertrag:83f99db0;Vertrag;Betriebsführungsvertrag WT04 Marka Taler Nachtrag 2017 08 02;Betriebsführungsvertrag;aktiv;True;Betriebsführungsverträge;1
+dokument:betriebsf_hrungsvertrag_wt04_marka_taler_nachtrag_2017_08_02_pdf;Dokument;Betriebsführungsvertrag WT04 Marka Taler Nachtrag 2017 08 02.pdf;;;;;1
+vertrag:46899152;Vertrag;Direktvermarktungsvertrag e2m Beeke Wiesen Agrar sign;Direktvermarktungsvertrag;aktiv;False;Direktvermarktungsverträge;30
+dokument:direktvermarktungsvertrag_e2m_beeke_wiesen_agrar_sign_pdf;Dokument;Direktvermarktungsvertrag e2m Beeke Wiesen Agrar sign.pdf;;;;;30
+vertrag:233a2aec;Vertrag;Direkvermarktungsvertrag e2m Bioenergie Witte Moor sign;Direktvermarktungsvertrag;aktiv;False;Direktvermarktungsverträge;32
+dokument:direkvermarktungsvertrag_e2m_bioenergie_witte_moor_sign_pdf;Dokument;Direkvermarktungsvertrag e2m Bioenergie Witte Moor sign.pdf;;;;;32
+vertrag:3ec50114;Vertrag;Gesellschaftervertrag Albers Christoph Niedenhof Detlef Poelmeyer Dennis sign;Gesellschaftsvertrag;aktiv;False;Gesellschaftsverträge;3
+dokument:gesellschaftervertrag_albers_christoph_niedenhof_detlef_poelmeyer_dennis_sign_pdf;Dokument;Gesellschaftervertrag Albers Christoph Niedenhof Detlef Poelmeyer Dennis sign.pdf;;;;;3
+vertrag:a692c593;Vertrag;Gesellschaftervertrag BN Blinzenberg sign;Gesellschaftsvertrag;aktiv;False;Gesellschaftsverträge;3
+dokument:gesellschaftervertrag_bn_blinzenberg_sign_pdf;Dokument;Gesellschaftervertrag BN Blinzenberg sign.pdf;;;;;3
+vertrag:06771e5b;Vertrag;Gesellschaftervertrag HRN Solar sign;Gesellschaftsvertrag;aktiv;False;Gesellschaftsverträge;2
+dokument:gesellschaftervertrag_hrn_solar_sign_pdf;Dokument;Gesellschaftervertrag HRN Solar sign.pdf;;;;;2
+vertrag:5f7bb620;Vertrag;Gesellschaftervertrag Kirschner, Niedenhof sign;Gesellschaftsvertrag;aktiv;False;Gesellschaftsverträge;3
+dokument:gesellschaftervertrag_kirschner__niedenhof_sign_pdf;Dokument;Gesellschaftervertrag Kirschner, Niedenhof sign.pdf;;;;;3
+vertrag:3fb5d91b;Vertrag;Gesellschaftervertrag NN Solar sign;Gesellschaftsvertrag;aktiv;False;Gesellschaftsverträge;3
+dokument:gesellschaftervertrag_nn_solar_sign_pdf;Dokument;Gesellschaftervertrag NN Solar sign.pdf;;;;;3
+vertrag:60b979f5;Vertrag;Gesellschaftervertrag Niedenhof Andrea Wessendorf August sign;Gesellschaftsvertrag;aktiv;False;Gesellschaftsverträge;3
+dokument:gesellschaftervertrag_niedenhof_andrea_wessendorf_august_sign_pdf;Dokument;Gesellschaftervertrag Niedenhof Andrea Wessendorf August sign.pdf;;;;;3
+vertrag:577225e9;Vertrag;Gesellschaftervertrag Niedenhof Detlef Peters Helmut sign;Gesellschaftsvertrag;aktiv;False;Gesellschaftsverträge;3
+dokument:gesellschaftervertrag_niedenhof_detlef_peters_helmut_sign_pdf;Dokument;Gesellschaftervertrag Niedenhof Detlef Peters Helmut sign.pdf;;;;;3
+vertrag:b89cd2b4;Vertrag;Gesellschaftervertrag Niedenhof Detlef Robenek Guido sign;Gesellschaftsvertrag;aktiv;False;Gesellschaftsverträge;3
+dokument:gesellschaftervertrag_niedenhof_detlef_robenek_guido_sign_pdf;Dokument;Gesellschaftervertrag Niedenhof Detlef Robenek Guido sign.pdf;;;;;3
+vertrag:20e6bdc2;Vertrag;Gesellschaftervertrag Niedenhof Detlef Spark Heiner Wilken Bernhard sign;Gesellschaftsvertrag;aktiv;False;Gesellschaftsverträge;4
+dokument:gesellschaftervertrag_niedenhof_detlef_spark_heiner_wilken_bernhard_sign_pdf;Dokument;Gesellschaftervertrag Niedenhof Detlef Spark Heiner Wilken Bernhard sign.pdf;;;;;4
+vertrag:c37db9ab;Vertrag;Gesellschaftervertrag Sonnentaler II sign;Gesellschaftsvertrag;aktiv;False;Gesellschaftsverträge;3
+dokument:gesellschaftervertrag_sonnentaler_ii_sign_pdf;Dokument;Gesellschaftervertrag Sonnentaler II sign.pdf;;;;;3
+vertrag:7d5ec8df;Vertrag;Gesellschaftervertrag Wilken Wilken Niedenhof sign;Gesellschaftsvertrag;aktiv;False;Gesellschaftsverträge;3
+dokument:gesellschaftervertrag_wilken_wilken_niedenhof_sign_pdf;Dokument;Gesellschaftervertrag Wilken Wilken Niedenhof sign.pdf;;;;;3
+vertrag:cd6b19d7;Vertrag;Gesellschaftervertrag Witte Moor Photovoltaik sign;Gesellschaftsvertrag;aktiv;False;Gesellschaftsverträge;3
+dokument:gesellschaftervertrag_witte_moor_photovoltaik_sign_pdf;Dokument;Gesellschaftervertrag Witte Moor Photovoltaik sign.pdf;;;;;3
+vertrag:c3a09a09;Vertrag;Gestattungsvertrag  Janssen Andreas, Hans Sonnentaler IX signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag__janssen_andreas__hans_sonnentaler_ix_signiert_pdf;Dokument;Gestattungsvertrag  Janssen Andreas, Hans Sonnentaler IX signiert.pdf;;;;;4
+vertrag:f341a265;Vertrag;Gestattungsvertrag  Niedenhof Detlef Göken Gerhard signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;3
+dokument:gestattungsvertrag__niedenhof_detlef_g_ken_gerhard_signiert_pdf;Dokument;Gestattungsvertrag  Niedenhof Detlef Göken Gerhard signiert.pdf;;;;;3
+vertrag:c05fc889;Vertrag;Gestattungsvertrag  Untied Gerd Kossen Birgit signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag__untied_gerd_kossen_birgit_signiert_pdf;Dokument;Gestattungsvertrag  Untied Gerd Kossen Birgit signiert.pdf;;;;;4
+vertrag:5d8818ab;Vertrag;Gestattungsvertrag Andrea Niedenhof LHH Rühlertwist signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_andrea_niedenhof_lhh_r_hlertwist_signiert_pdf;Dokument;Gestattungsvertrag Andrea Niedenhof LHH Rühlertwist signiert.pdf;;;;;6
+vertrag:e0245ad5;Vertrag;Gestattungsvertrag BN Blinzenberg Büter Wilhelm signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_bn_blinzenberg_b_ter_wilhelm_signiert_pdf;Dokument;Gestattungsvertrag BN Blinzenberg Büter Wilhelm signiert.pdf;;;;;6
+vertrag:1ca72f74;Vertrag;Gestattungsvertrag Berendina Kemper Traute Nüsse Johanne Niedenhof Detlef signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;7
+dokument:gestattungsvertrag_berendina_kemper_traute_n_sse_johanne_niedenhof_detlef_signiert_pdf;Dokument;Gestattungsvertrag Berendina Kemper Traute Nüsse Johanne Niedenhof Detlef signiert.pdf;;;;;7
+vertrag:b0b1abb8;Vertrag;Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert 2;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_bioenergie_witte_moor_witte_moor_photovoltaik_signiert_2_pdf;Dokument;Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert 2.pdf;;;;;4
+vertrag:c8ca9d81;Vertrag;Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_bioenergie_witte_moor_witte_moor_photovoltaik_signiert_pdf;Dokument;Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert.pdf;;;;;4
+vertrag:8fa639eb;Vertrag;Gestattungsvertrag HRN Solar Hömmken Bernhard;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;3
+dokument:gestattungsvertrag_hrn_solar_h_mmken_bernhard_pdf;Dokument;Gestattungsvertrag HRN Solar Hömmken Bernhard.pdf;;;;;3
+vertrag:378a0fbd;Vertrag;Gestattungsvertrag Janssen Andreas Janssen Niedenhof signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_janssen_andreas_janssen_niedenhof_signiert_pdf;Dokument;Gestattungsvertrag Janssen Andreas Janssen Niedenhof signiert.pdf;;;;;5
+vertrag:bbe59609;Vertrag;Gestattungsvertrag Kempel Berendina Nüsse Traute Nüsse Johanne Niedenhof Detlef signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;7
+dokument:gestattungsvertrag_kempel_berendina_n_sse_traute_n_sse_johanne_niedenhof_detlef_signiert_pdf;Dokument;Gestattungsvertrag Kempel Berendina Nüsse Traute Nüsse Johanne Niedenhof Detlef signiert.pdf;;;;;7
+vertrag:b5d55c95;Vertrag;Gestattungsvertrag Kirschner, Niedenhof Kirschner Heinz signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_kirschner__niedenhof_kirschner_heinz_signiert_pdf;Dokument;Gestattungsvertrag Kirschner, Niedenhof Kirschner Heinz signiert.pdf;;;;;5
+vertrag:339e281d;Vertrag;Gestattungsvertrag LHH Rühlertwist Niedenhof Andrea signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_lhh_r_hlertwist_niedenhof_andrea_signiert_pdf;Dokument;Gestattungsvertrag LHH Rühlertwist Niedenhof Andrea signiert.pdf;;;;;6
+vertrag:adc985e4;Vertrag;Gestattungsvertrag NN Solar GbR Nannen Ludger signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_nn_solar_gbr_nannen_ludger_signiert_pdf;Dokument;Gestattungsvertrag NN Solar GbR Nannen Ludger signiert.pdf;;;;;5
+vertrag:d53535bb;Vertrag;Gestattungsvertrag Niedenhof Andrea Hollander Werner signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_niedenhof_andrea_hollander_werner_signiert_pdf;Dokument;Gestattungsvertrag Niedenhof Andrea Hollander Werner signiert.pdf;;;;;4
+vertrag:cd785ac9;Vertrag;Gestattungsvertrag Niedenhof Andrea Lüken Martin signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_niedenhof_andrea_l_ken_martin_signiert_pdf;Dokument;Gestattungsvertrag Niedenhof Andrea Lüken Martin signiert.pdf;;;;;5
+vertrag:0142424f;Vertrag;Gestattungsvertrag Niedenhof Detlef Behrens Kossen signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_niedenhof_detlef_behrens_kossen_signiert_pdf;Dokument;Gestattungsvertrag Niedenhof Detlef Behrens Kossen signiert.pdf;;;;;6
+vertrag:1abb6832;Vertrag;Gestattungsvertrag Niedenhof Detlef Kröger Franz signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_niedenhof_detlef_kr_ger_franz_signiert_pdf;Dokument;Gestattungsvertrag Niedenhof Detlef Kröger Franz signiert.pdf;;;;;4
+vertrag:25f7da5f;Vertrag;Gestattungsvertrag Niedenhof Detlef Steenken Hermann signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_niedenhof_detlef_steenken_hermann_signiert_pdf;Dokument;Gestattungsvertrag Niedenhof Detlef Steenken Hermann signiert.pdf;;;;;5
+vertrag:1963276a;Vertrag;Gestattungsvertrag Peters Immobilien Peters Niedenhof signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_peters_immobilien_peters_niedenhof_signiert_pdf;Dokument;Gestattungsvertrag Peters Immobilien Peters Niedenhof signiert.pdf;;;;;6
+vertrag:839b0a6c;Vertrag;Gestattungsvertrag Peters Niedenhof Peters signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_peters_niedenhof_peters_signiert_pdf;Dokument;Gestattungsvertrag Peters Niedenhof Peters signiert.pdf;;;;;4
+vertrag:0793bac7;Vertrag;Gestattungsvertrag Peters Werner Sandland signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_peters_werner_sandland_signiert_pdf;Dokument;Gestattungsvertrag Peters Werner Sandland signiert.pdf;;;;;5
+vertrag:5f0ae58f;Vertrag;Gestattungsvertrag SNW Solar Wilken und Spark Agrar signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_snw_solar_wilken_und_spark_agrar_signiert_pdf;Dokument;Gestattungsvertrag SNW Solar Wilken und Spark Agrar signiert.pdf;;;;;4
+vertrag:ada176ef;Vertrag;Gestattungsvertrag Sonnentaler HERA Holztechnik signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_sonnentaler_hera_holztechnik_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler HERA Holztechnik signiert.pdf;;;;;4
+vertrag:356c7261;Vertrag;Gestattungsvertrag Sonnentaler I  Wiehebrink Ernst;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_sonnentaler_i__wiehebrink_ernst_pdf;Dokument;Gestattungsvertrag Sonnentaler I  Wiehebrink Ernst.pdf;;;;;5
+vertrag:9f1a5c08;Vertrag;Gestattungsvertrag Sonnentaler I GTS Borgmann signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_sonnentaler_i_gts_borgmann_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler I GTS Borgmann signiert.pdf;;;;;5
+vertrag:704df773;Vertrag;Gestattungsvertrag Sonnentaler I Kremes Gezienus, Kiena signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_sonnentaler_i_kremes_gezienus__kiena_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler I Kremes Gezienus, Kiena signiert.pdf;;;;;5
+vertrag:262324e4;Vertrag;Gestattungsvertrag Sonnentaler I Quappen Immobilien Nachtrag signiert;Gestattungsvertrag;aktiv;True;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_sonnentaler_i_quappen_immobilien_nachtrag_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler I Quappen Immobilien Nachtrag signiert.pdf;;;;;6
+vertrag:9882a9aa;Vertrag;Gestattungsvertrag Sonnentaler II Erbengemeinschaft Rosen Gerda, Ralf signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_sonnentaler_ii_erbengemeinschaft_rosen_gerda__ralf_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler II Erbengemeinschaft Rosen Gerda, Ralf signiert.pdf;;;;;4
+vertrag:389c45fd;Vertrag;Gestattungsvertrag Sonnentaler III Jungsthöfel Bernhard signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_sonnentaler_iii_jungsth_fel_bernhard_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler III Jungsthöfel Bernhard signiert.pdf;;;;;4
+vertrag:e3499076;Vertrag;Gestattungsvertrag Sonnentaler III Jungsthöfel Jan signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_sonnentaler_iii_jungsth_fel_jan_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler III Jungsthöfel Jan signiert.pdf;;;;;5
+vertrag:e599ff89;Vertrag;Gestattungsvertrag Sonnentaler V Büter Helmut signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;7
+dokument:gestattungsvertrag_sonnentaler_v_b_ter_helmut_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler V Büter Helmut signiert.pdf;;;;;7
+vertrag:a46d5ee4;Vertrag;Gestattungsvertrag Sonnentaler V Hoesen Karl Heinz signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_sonnentaler_v_hoesen_karl_heinz_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler V Hoesen Karl Heinz signiert.pdf;;;;;6
+vertrag:8e7a18cc;Vertrag;Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 2;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_sonnentaler_v_hollander_jakob_signiert_2_pdf;Dokument;Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 2.pdf;;;;;6
+vertrag:230a5b95;Vertrag;Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 3;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_sonnentaler_v_hollander_jakob_signiert_3_pdf;Dokument;Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 3.pdf;;;;;5
+vertrag:d2d4cd38;Vertrag;Gestattungsvertrag Sonnentaler V Hollander Jakob signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_sonnentaler_v_hollander_jakob_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler V Hollander Jakob signiert.pdf;;;;;4
+vertrag:d284599b;Vertrag;Gestattungsvertrag Sonnentaler V Hollander Werner mit Nachtrag signiert;Gestattungsvertrag;aktiv;True;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_sonnentaler_v_hollander_werner_mit_nachtrag_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler V Hollander Werner mit Nachtrag signiert.pdf;;;;;4
+vertrag:b6ca9e30;Vertrag;Gestattungsvertrag Sonnentaler V Hollander Werner signiert 3;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_sonnentaler_v_hollander_werner_signiert_3_pdf;Dokument;Gestattungsvertrag Sonnentaler V Hollander Werner signiert 3.pdf;;;;;6
+vertrag:f8777306;Vertrag;Gestattungsvertrag Sonnentaler V Hollander Werner signiert 4;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_sonnentaler_v_hollander_werner_signiert_4_pdf;Dokument;Gestattungsvertrag Sonnentaler V Hollander Werner signiert 4.pdf;;;;;6
+vertrag:5b137dd1;Vertrag;Gestattungsvertrag Sonnentaler V Hollander Werner signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_sonnentaler_v_hollander_werner_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler V Hollander Werner signiert.pdf;;;;;6
+vertrag:4afcdc58;Vertrag;Gestattungsvertrag Sonnentaler V Kuiper Tjeerd;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_sonnentaler_v_kuiper_tjeerd_pdf;Dokument;Gestattungsvertrag Sonnentaler V Kuiper Tjeerd.pdf;;;;;5
+vertrag:0f4bc542;Vertrag;Gestattungsvertrag Sonnentaler V Quappen Immobilien mit Nachtrag signiert;Gestattungsvertrag;aktiv;True;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_sonnentaler_v_quappen_immobilien_mit_nachtrag_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler V Quappen Immobilien mit Nachtrag signiert.pdf;;;;;6
+vertrag:19725b77;Vertrag;Gestattungsvertrag Sonnentaler V Reulmann Andreas 2 mit Nachtrag signiert;Gestattungsvertrag;aktiv;True;Gestattungsverträge PV;7
+dokument:gestattungsvertrag_sonnentaler_v_reulmann_andreas_2_mit_nachtrag_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler V Reulmann Andreas 2 mit Nachtrag signiert.pdf;;;;;7
+vertrag:9cdb2c9a;Vertrag;Gestattungsvertrag Sonnentaler V Reulmann Andreas signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_sonnentaler_v_reulmann_andreas_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler V Reulmann Andreas signiert.pdf;;;;;4
+vertrag:ac658583;Vertrag;Gestattungsvertrag Sonnentaler V Rosen Ralf signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_sonnentaler_v_rosen_ralf_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler V Rosen Ralf signiert.pdf;;;;;4
+vertrag:296bcd10;Vertrag;Gestattungsvertrag Sonnentaler V Schnelling Bernhard signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;7
+dokument:gestattungsvertrag_sonnentaler_v_schnelling_bernhard_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler V Schnelling Bernhard signiert.pdf;;;;;7
+vertrag:4b7138cb;Vertrag;Gestattungsvertrag Sonnentaler V Schulte Albert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_sonnentaler_v_schulte_albert_pdf;Dokument;Gestattungsvertrag Sonnentaler V Schulte Albert.pdf;;;;;6
+vertrag:57bd251f;Vertrag;Gestattungsvertrag Sonnentaler V Volker&Jansen signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_sonnentaler_v_volker_jansen_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler V Volker&Jansen signiert.pdf;;;;;4
+vertrag:f66b40be;Vertrag;Gestattungsvertrag Sonnentaler VII Hollander Werner 2 mit Nachtrag signiert;Gestattungsvertrag;aktiv;True;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_sonnentaler_vii_hollander_werner_2_mit_nachtrag_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler VII Hollander Werner 2 mit Nachtrag signiert.pdf;;;;;5
+vertrag:9ac539e5;Vertrag;Gestattungsvertrag Sonnentaler VII Hollander Werner signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_sonnentaler_vii_hollander_werner_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler VII Hollander Werner signiert.pdf;;;;;5
+vertrag:9d96cce2;Vertrag;Gestattungsvertrag Sonnentaler VII Kreuzhermes Christian signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_sonnentaler_vii_kreuzhermes_christian_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler VII Kreuzhermes Christian signiert.pdf;;;;;4
+vertrag:637b0101;Vertrag;Gestattungsvertrag Sonnentaler VII Werner Hollander signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_sonnentaler_vii_werner_hollander_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler VII Werner Hollander signiert.pdf;;;;;5
+vertrag:17dee9db;Vertrag;Gestattungsvertrag Sonnentaler VIIHollander Werner signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_sonnentaler_viihollander_werner_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler VIIHollander Werner signiert.pdf;;;;;5
+vertrag:c7f29533;Vertrag;Gestattungsvertrag Sonnentaler VIII Flerlage Geflügelzucht signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_sonnentaler_viii_flerlage_gefl_gelzucht_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler VIII Flerlage Geflügelzucht signiert.pdf;;;;;4
+vertrag:ed44a272;Vertrag;Gestattungsvertrag Sonnentaler X Nutraferm Petfood;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_sonnentaler_x_nutraferm_petfood_pdf;Dokument;Gestattungsvertrag Sonnentaler X Nutraferm Petfood.pdf;;;;;5
+vertrag:e24aebf6;Vertrag;Gestattungsvertrag Sonnentaler XI Schulte Ralf;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_sonnentaler_xi_schulte_ralf_pdf;Dokument;Gestattungsvertrag Sonnentaler XI Schulte Ralf.pdf;;;;;6
+vertrag:1ccb2fae;Vertrag;Gestattungsvertrag Sonnentaler XI Wessels Richard;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_sonnentaler_xi_wessels_richard_pdf;Dokument;Gestattungsvertrag Sonnentaler XI Wessels Richard.pdf;;;;;6
+vertrag:56713d9b;Vertrag;Gestattungsvertrag Sonnentaler XII GESEVO signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_sonnentaler_xii_gesevo_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler XII GESEVO signiert.pdf;;;;;5
+vertrag:3381720f;Vertrag;Gestattungsvertrag Sonnentaler XV Paus Helmut;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;3
+dokument:gestattungsvertrag_sonnentaler_xv_paus_helmut_pdf;Dokument;Gestattungsvertrag Sonnentaler XV Paus Helmut.pdf;;;;;3
+vertrag:cc33edb3;Vertrag;Gestattungsvertrag Sonnentaler XV Schulte Albert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;3
+dokument:gestattungsvertrag_sonnentaler_xv_schulte_albert_pdf;Dokument;Gestattungsvertrag Sonnentaler XV Schulte Albert.pdf;;;;;3
+vertrag:38eb652a;Vertrag;Gestattungsvertrag Sonnentaler XVI  Lohner Putenmast signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;8
+dokument:gestattungsvertrag_sonnentaler_xvi__lohner_putenmast_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler XVI  Lohner Putenmast signiert.pdf;;;;;8
+vertrag:0d207c14;Vertrag;Gestattungsvertrag Sonnentaler XVII Lohner Putenmast signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;7
+dokument:gestattungsvertrag_sonnentaler_xvii_lohner_putenmast_signiert_pdf;Dokument;Gestattungsvertrag Sonnentaler XVII Lohner Putenmast signiert.pdf;;;;;7
+vertrag:c21aead8;Vertrag;Gestattungsvertrag Sonnetaler XI-Investment Gemeinschaft Sigiltrastraße signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_sonnetaler_xi_investment_gemeinschaft_sigiltrastra_e_signiert_pdf;Dokument;Gestattungsvertrag Sonnetaler XI-Investment Gemeinschaft Sigiltrastraße signiert.pdf;;;;;5
+vertrag:46e788ef;Vertrag;Gestattungsvertrag Spark Heiner Spark Niedenhof GbR Nachtrag signiert;Gestattungsvertrag;aktiv;True;Gestattungsverträge PV;6
+dokument:gestattungsvertrag_spark_heiner_spark_niedenhof_gbr_nachtrag_signiert_pdf;Dokument;Gestattungsvertrag Spark Heiner Spark Niedenhof GbR Nachtrag signiert.pdf;;;;;6
+vertrag:c7110a7e;Vertrag;Gestattungsvertrag Untiedt Gerd Jansen Bernd signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;5
+dokument:gestattungsvertrag_untiedt_gerd_jansen_bernd_signiert_pdf;Dokument;Gestattungsvertrag Untiedt Gerd Jansen Bernd signiert.pdf;;;;;5
+vertrag:e45f0ca2;Vertrag;Gestattungsvertrag VN Vagedes Bernhard, Guido signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;4
+dokument:gestattungsvertrag_vn_vagedes_bernhard__guido_signiert_pdf;Dokument;Gestattungsvertrag VN Vagedes Bernhard, Guido signiert.pdf;;;;;4
+vertrag:6827c7f2;Vertrag;Gestattungsvertrag Wilken Wilken, Niedenhof Wilken signiert;Gestattungsvertrag;aktiv;False;Gestattungsverträge PV;3
+dokument:gestattungsvertrag_wilken_wilken__niedenhof_wilken_signiert_pdf;Dokument;Gestattungsvertrag Wilken Wilken, Niedenhof Wilken signiert.pdf;;;;;3
+vertrag:134347a0;Vertrag;Mietvertrag Eichenbrink 6 Niedenhof Detlef Frank Julius sign;Mietvertrag;aktiv;False;Mietverträge;14
+dokument:mietvertrag_eichenbrink_6_niedenhof_detlef_frank_julius_sign_pdf;Dokument;Mietvertrag Eichenbrink 6 Niedenhof Detlef Frank Julius sign.pdf;;;;;14
+vertrag:b82fd6d3;Vertrag;Mietvertrag Eichenbrink 6 Vrees Niedenhof Detlef Malinowski Monika sign;Mietvertrag;aktiv;False;Mietverträge;14
+dokument:mietvertrag_eichenbrink_6_vrees_niedenhof_detlef_malinowski_monika_sign_pdf;Dokument;Mietvertrag Eichenbrink 6 Vrees Niedenhof Detlef Malinowski Monika sign.pdf;;;;;14
+vertrag:b309eeac;Vertrag;Mietvertrag Eichenbrink 6 Vrees Niedenhof Detlef Munk Lukas sign;Mietvertrag;aktiv;False;Mietverträge;14
+dokument:mietvertrag_eichenbrink_6_vrees_niedenhof_detlef_munk_lukas_sign_pdf;Dokument;Mietvertrag Eichenbrink 6 Vrees Niedenhof Detlef Munk Lukas sign.pdf;;;;;14
+vertrag:7c8a5412;Vertrag;Mietvertrag Eichenbrink 6 Vrees Niedenhof Detlef Walder Julia sign;Mietvertrag;aktiv;False;Mietverträge;14
+dokument:mietvertrag_eichenbrink_6_vrees_niedenhof_detlef_walder_julia_sign_pdf;Dokument;Mietvertrag Eichenbrink 6 Vrees Niedenhof Detlef Walder Julia sign.pdf;;;;;14
+vertrag:f95df103;Vertrag;Mietvertrag Niedenhof Detlef Alali Zakaria Eichenbrink 6 sign;Mietvertrag;aktiv;False;Mietverträge;10
+dokument:mietvertrag_niedenhof_detlef_alali_zakaria_eichenbrink_6_sign_pdf;Dokument;Mietvertrag Niedenhof Detlef Alali Zakaria Eichenbrink 6 sign.pdf;;;;;10
+vertrag:c7fdbbc1;Vertrag;Mietvertrag Raiffeisenstraße 5 Niedenhof Detlef Kleene Christine König Henning sign;Mietvertrag;aktiv;False;Mietverträge;4
+dokument:mietvertrag_raiffeisenstra_e_5_niedenhof_detlef_kleene_christine_k_nig_henning_sign_pdf;Dokument;Mietvertrag Raiffeisenstraße 5 Niedenhof Detlef Kleene Christine König Henning sign.pdf;;;;;4
+vertrag:61f0070b;Vertrag;Mietvertrag Müller Str 24 WE 5 Niedenhof Detlef Kerkhoff Laureen sign;Mietvertrag;aktiv;False;Mietverträge;12
+dokument:mietvertrag_m_ller_str_24_we_5_niedenhof_detlef_kerkhoff_laureen_sign_pdf;Dokument;Mietvertrag Müller Str 24 WE 5 Niedenhof Detlef Kerkhoff Laureen sign.pdf;;;;;12
+vertrag:058a6d66;Vertrag;Mietvertrag Von Müller Str 24 1 OGL Lewin Heiko sign;Mietvertrag;aktiv;False;Mietverträge;4
+dokument:mietvertrag_von_m_ller_str_24_1_ogl_lewin_heiko_sign_pdf;Dokument;Mietvertrag Von Müller Str 24 1 OGL Lewin Heiko sign.pdf;;;;;4
+vertrag:addaa079;Vertrag;Mietvertrag Von Müller Str 24 1 OGL Niedenhof Detlef Harms Daniela sign;Mietvertrag;aktiv;False;Mietverträge;8
+dokument:mietvertrag_von_m_ller_str_24_1_ogl_niedenhof_detlef_harms_daniela_sign_pdf;Dokument;Mietvertrag Von Müller Str 24 1 OGL Niedenhof Detlef Harms Daniela sign.pdf;;;;;8
+vertrag:c18dea77;Vertrag;Mietvertrag Von Müller Str 24 Erdgeschoss Meinerling Gisela Büsing Petra Detlev sign;Mietvertrag;aktiv;False;Mietverträge;12
+dokument:mietvertrag_von_m_ller_str_24_erdgeschoss_meinerling_gisela_b_sing_petra_detlev_sign_pdf;Dokument;Mietvertrag Von Müller Str 24 Erdgeschoss Meinerling Gisela Büsing Petra Detlev sign.pdf;;;;;12
+vertrag:6e5f1317;Vertrag;Mietvertrag Von Müller Str 24 Oldenburg Niedenhof Andrea Steineck Manfred sign;Mietvertrag;aktiv;False;Mietverträge;5
+dokument:mietvertrag_von_m_ller_str_24_oldenburg_niedenhof_andrea_steineck_manfred_sign_pdf;Dokument;Mietvertrag Von Müller Str 24 Oldenburg Niedenhof Andrea Steineck Manfred sign.pdf;;;;;5
+vertrag:bec404f2;Vertrag;Nutzungsvertrag Arenberg- Meppen Taler 8.1;Nutzungsvertrag;aktiv;False;Nutzungsverträge;38
+dokument:nutzungsvertrag_arenberg__meppen_taler_8_1_pdf;Dokument;Nutzungsvertrag Arenberg- Meppen Taler 8.1.pdf;;;;;38
+vertrag:0516aa57;Vertrag;Nutzungsvertrag Kronlage Marcus WT07-1 sign;Nutzungsvertrag;aktiv;False;Nutzungsverträge;25
+dokument:nutzungsvertrag_kronlage_marcus_wt07_1_sign_pdf;Dokument;Nutzungsvertrag Kronlage Marcus WT07-1 sign.pdf;;;;;25
+vertrag:b10e4242;Vertrag;Nutzungsvertrag Marka Taler Kemper Berendina Traute Johanne Nüsse sign;Nutzungsvertrag;aktiv;False;Nutzungsverträge;7
+dokument:nutzungsvertrag_marka_taler_kemper_berendina_traute_johanne_n_sse_sign_pdf;Dokument;Nutzungsvertrag Marka Taler Kemper Berendina Traute Johanne Nüsse sign.pdf;;;;;7
+vertrag:a29464f0;Vertrag;Nutzungsvertrag Sonnetaler 11 Sandmann Christof sign;Nutzungsvertrag;aktiv;False;Nutzungsverträge;4
+dokument:nutzungsvertrag_sonnetaler_11_sandmann_christof_sign_pdf;Dokument;Nutzungsvertrag Sonnetaler 11 Sandmann Christof sign.pdf;;;;;4
+vertrag:15395793;Vertrag;Nutzungsvertrag WT03 Hempen Ulrich sign;Nutzungsvertrag;aktiv;False;Nutzungsverträge;32
+dokument:nutzungsvertrag_wt03_hempen_ulrich_sign_pdf;Dokument;Nutzungsvertrag WT03 Hempen Ulrich sign.pdf;;;;;32
+vertrag:9d9ecc45;Vertrag;Stromliefervertrag Bioenegie Witte Moor SNW Solar signiert;Stromliefervertrag;aktiv;False;Stromlieferverträge;4
+dokument:stromliefervertrag_bioenegie_witte_moor_snw_solar_signiert_pdf;Dokument;Stromliefervertrag Bioenegie Witte Moor SNW Solar signiert.pdf;;;;;4
+vertrag:1bfa262e;Vertrag;Stromliefervertrag Büterei BN Blinzenberg sign;Stromliefervertrag;aktiv;False;Stromlieferverträge;4
+dokument:stromliefervertrag_b_terei_bn_blinzenberg_sign_pdf;Dokument;Stromliefervertrag Büterei BN Blinzenberg sign.pdf;;;;;4
+vertrag:1aab23e2;Vertrag;Stromliefervertrag Edeka Sögel Sonnentaler 11 sign;Stromliefervertrag;aktiv;False;Stromlieferverträge;4
+dokument:stromliefervertrag_edeka_s_gel_sonnentaler_11_sign_pdf;Dokument;Stromliefervertrag Edeka Sögel Sonnentaler 11 sign.pdf;;;;;4
+vertrag:d3b63828;Vertrag;Stromliefervertrag HRN Hömmken Christof Nachtrag;Stromliefervertrag;aktiv;True;Stromlieferverträge;1
+dokument:stromliefervertrag_hrn_h_mmken_christof_nachtrag_pdf;Dokument;Stromliefervertrag HRN Hömmken Christof Nachtrag.pdf;;;;;1
+vertrag:f7250726;Vertrag;Stromliefervertrag HRN Hömmken Christoph signiert;Stromliefervertrag;aktiv;False;Stromlieferverträge;4
+dokument:stromliefervertrag_hrn_h_mmken_christoph_signiert_pdf;Dokument;Stromliefervertrag HRN Hömmken Christoph signiert.pdf;;;;;4
+vertrag:c994e789;Vertrag;Stromliefervertrag Hoesen Karl Heinz Sonnentaler 05 sign;Stromliefervertrag;aktiv;False;Stromlieferverträge;4
+dokument:stromliefervertrag_hoesen_karl_heinz_sonnentaler_05_sign_pdf;Dokument;Stromliefervertrag Hoesen Karl Heinz Sonnentaler 05 sign.pdf;;;;;4
+vertrag:48898a57;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor BBV sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;7
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_bbv_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor BBV sign.pdf;;;;;7
+vertrag:5e391b8d;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Biowärme Vrees sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;6
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_biow_rme_vrees_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Biowärme Vrees sign.pdf;;;;;6
+vertrag:c1e201ad;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Deters Ewald sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;6
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_deters_ewald_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Deters Ewald sign.pdf;;;;;6
+vertrag:5c6a5a8e;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Hümmlinger Volksbank sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;7
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_h_mmlinger_volksbank_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Hümmlinger Volksbank sign.pdf;;;;;7
+vertrag:628b2643;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Kaiser Maria sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;7
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_kaiser_maria_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Kaiser Maria sign.pdf;;;;;7
+vertrag:ef58b4a3;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Kleene Peter sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;7
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_kleene_peter_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Kleene Peter sign.pdf;;;;;7
+vertrag:e32c9e44;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Maschinenbau Manfred Kaiser sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;7
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_maschinenbau_manfred_kaiser_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Maschinenbau Manfred Kaiser sign.pdf;;;;;7
+vertrag:6d70a357;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Nannen Ludger 2009 sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;8
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_nannen_ludger_2009_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Nannen Ludger 2009 sign.pdf;;;;;8
+vertrag:f94b69a9;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Nannen Ludger 2011 sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;7
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_nannen_ludger_2011_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Nannen Ludger 2011 sign.pdf;;;;;7
+vertrag:811513d6;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Niedenhof Detlef;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;4
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_niedenhof_detlef_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Niedenhof Detlef.pdf;;;;;4
+vertrag:3841e1fe;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Pünther Bernahard sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;7
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_p_nther_bernahard_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Pünther Bernahard sign.pdf;;;;;7
+vertrag:b776e219;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Scholübbers Stefan sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;8
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_schol_bbers_stefan_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Scholübbers Stefan sign.pdf;;;;;8
+vertrag:562a9f66;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Steenken Hermann sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;8
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_steenken_hermann_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Steenken Hermann sign.pdf;;;;;8
+vertrag:f66f0270;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Suhl Hans sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;8
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_suhl_hans_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Suhl Hans sign.pdf;;;;;8
+vertrag:db61f585;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Wilken Bernhardt sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;7
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_wilken_bernhardt_sign_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Wilken Bernhardt sign.pdf;;;;;7
+vertrag:eb94163c;Vertrag;Wärmeliefervertrag Bioenenergie Witte Moor Wilken Spark;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;4
+dokument:w_rmeliefervertrag_bioenenergie_witte_moor_wilken_spark_pdf;Dokument;Wärmeliefervertrag Bioenenergie Witte Moor Wilken Spark.pdf;;;;;4
+vertrag:9d27f41a;Vertrag;Wärmeliefervertrag Bioenergie Witte Moor Gemeinde Vrees Nachtrag sign;Wärmeliefervertrag;aktiv;True;Wärmelieferverträge;1
+dokument:w_rmeliefervertrag_bioenergie_witte_moor_gemeinde_vrees_nachtrag_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Witte Moor Gemeinde Vrees Nachtrag sign.pdf;;;;;1
+vertrag:e51ac33d;Vertrag;Wärmeliefervertrag Bioenergie Witte Moor Gemeinde Vrees sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;6
+dokument:w_rmeliefervertrag_bioenergie_witte_moor_gemeinde_vrees_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Witte Moor Gemeinde Vrees sign.pdf;;;;;6
+vertrag:fa42aa8f;Vertrag;Wärmeliefervertrag Bioenergie Witte Moor Kaiser Maria Nachtrag sign;Wärmeliefervertrag;aktiv;True;Wärmelieferverträge;1
+dokument:w_rmeliefervertrag_bioenergie_witte_moor_kaiser_maria_nachtrag_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Witte Moor Kaiser Maria Nachtrag sign.pdf;;;;;1
+vertrag:56b6dd32;Vertrag;Wärmeliefervertrag Bioenergie Witte Moor Maschinenbau Manfred Kaiser Nachtrag sign;Wärmeliefervertrag;aktiv;True;Wärmelieferverträge;1
+dokument:w_rmeliefervertrag_bioenergie_witte_moor_maschinenbau_manfred_kaiser_nachtrag_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Witte Moor Maschinenbau Manfred Kaiser Nachtrag sign.pdf;;;;;1
+vertrag:4ecfd1ff;Vertrag;Wärmeliefervertrag Bioenergie Witte Moor Samtgemeinde Werlte sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;6
+dokument:w_rmeliefervertrag_bioenergie_witte_moor_samtgemeinde_werlte_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Witte Moor Samtgemeinde Werlte sign.pdf;;;;;6
+vertrag:65e70956;Vertrag;Wärmeliefervertrag Niedenhof Detlef Dedden Jürgen sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;6
+dokument:w_rmeliefervertrag_niedenhof_detlef_dedden_j_rgen_sign_pdf;Dokument;Wärmeliefervertrag Niedenhof Detlef Dedden Jürgen sign.pdf;;;;;6
+vertrag:8eaec18b;Vertrag;Wärmeliefervertrag Niedenhof Detlef Gerdes Michael;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_niedenhof_detlef_gerdes_michael_pdf;Dokument;Wärmeliefervertrag Niedenhof Detlef Gerdes Michael.pdf;;;;;3
+vertrag:48d0cb4e;Vertrag;Wärmeliefervertrag Niedenhof Detlef Niedenhof Norbert;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_niedenhof_detlef_niedenhof_norbert_pdf;Dokument;Wärmeliefervertrag Niedenhof Detlef Niedenhof Norbert.pdf;;;;;3
+vertrag:47dd5719;Vertrag;Wärmeliefervertrag Niedenhof Detlef Porten Stephan sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;6
+dokument:w_rmeliefervertrag_niedenhof_detlef_porten_stephan_sign_pdf;Dokument;Wärmeliefervertrag Niedenhof Detlef Porten Stephan sign.pdf;;;;;6
+vertrag:5dcc87db;Vertrag;Wärmeliefervertrag Niedenhof Detlef Rode Thomas sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;6
+dokument:w_rmeliefervertrag_niedenhof_detlef_rode_thomas_sign_pdf;Dokument;Wärmeliefervertrag Niedenhof Detlef Rode Thomas sign.pdf;;;;;6
+vertrag:3c0449f2;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide BG Hömmken sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_bg_h_mmken_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide BG Hömmken sign.pdf;;;;;3
+vertrag:e0e7e3ef;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Beckmann Arnold sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_beckmann_arnold_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Beckmann Arnold sign.pdf;;;;;3
+vertrag:ee8dceef;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Berg Marco sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_berg_marco_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Berg Marco sign.pdf;;;;;3
+vertrag:a7afdd76;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Büter Berthold sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_b_ter_berthold_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Büter Berthold sign.pdf;;;;;3
+vertrag:192fc557;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Büter Ernst sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_b_ter_ernst_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Büter Ernst sign.pdf;;;;;3
+vertrag:f5233dfe;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Büter Ralph sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_b_ter_ralph_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Büter Ralph sign.pdf;;;;;3
+vertrag:1749528d;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Dedden Franz sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_dedden_franz_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Dedden Franz sign.pdf;;;;;3
+vertrag:35ba5631;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Dedden Paul sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_dedden_paul_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Dedden Paul sign.pdf;;;;;3
+vertrag:6dae14fc;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Dinklage Wilhelm sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_dinklage_wilhelm_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Dinklage Wilhelm sign.pdf;;;;;3
+vertrag:422ffcab;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Elbers Josef sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_elbers_josef_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Elbers Josef sign.pdf;;;;;3
+vertrag:9bad559b;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Elbers Paul sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_elbers_paul_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Elbers Paul sign.pdf;;;;;3
+vertrag:cd1b3e02;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Ficker Friedrich;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_ficker_friedrich_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Ficker Friedrich.pdf;;;;;3
+vertrag:9a80037b;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Fleer Thien Wilfried sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_fleer_thien_wilfried_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Fleer Thien Wilfried sign.pdf;;;;;3
+vertrag:1beb832e;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Fortwengel Christoph sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_fortwengel_christoph_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Fortwengel Christoph sign.pdf;;;;;3
+vertrag:127373a8;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Hausfeld Rainer sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;4
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_hausfeld_rainer_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Hausfeld Rainer sign.pdf;;;;;4
+vertrag:8262f613;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Hemker Nadine sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;4
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_hemker_nadine_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Hemker Nadine sign.pdf;;;;;4
+vertrag:3d2a070b;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Heymann Alexandra sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;4
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_heymann_alexandra_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Heymann Alexandra sign.pdf;;;;;4
+vertrag:a3c1b94d;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Heymann Willi sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_heymann_willi_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Heymann Willi sign.pdf;;;;;3
+vertrag:382d0882;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Hogeback Andreas sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_hogeback_andreas_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Hogeback Andreas sign.pdf;;;;;3
+vertrag:158d108e;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Hömmken Andreas sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_h_mmken_andreas_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Hömmken Andreas sign.pdf;;;;;3
+vertrag:34e2184c;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Hömmken Bernhard sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_h_mmken_bernhard_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Hömmken Bernhard sign.pdf;;;;;3
+vertrag:f94a3cfa;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Hömmken Claudia sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_h_mmken_claudia_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Hömmken Claudia sign.pdf;;;;;3
+vertrag:c97e0fc0;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Jansen Gerd sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_jansen_gerd_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Jansen Gerd sign.pdf;;;;;3
+vertrag:34d2f2ea;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Khreis Mohammed sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_khreis_mohammed_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Khreis Mohammed sign.pdf;;;;;3
+vertrag:a18a012c;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Kleene Berthold sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_kleene_berthold_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Kleene Berthold sign.pdf;;;;;3
+vertrag:dfd69eb5;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Lübke sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_l_bke_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Lübke sign.pdf;;;;;3
+vertrag:9ac81db3;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Lünswilken Josef Am Sportplatz 4 sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_l_nswilken_josef_am_sportplatz_4_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Lünswilken Josef Am Sportplatz 4 sign.pdf;;;;;3
+vertrag:e7a0d933;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Lünswilken Josef Am Sportplatz 6 sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_l_nswilken_josef_am_sportplatz_6_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Lünswilken Josef Am Sportplatz 6 sign.pdf;;;;;3
+vertrag:93aaa20b;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Menke Bernd sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_menke_bernd_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Menke Bernd sign.pdf;;;;;3
+vertrag:75b2e827;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Oldemanns Heinz In den Gärten 2 Peheimer Straße 2 sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_oldemanns_heinz_in_den_g_rten_2_peheimer_stra_e_2_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Oldemanns Heinz In den Gärten 2 Peheimer Straße 2 sign.pdf;;;;;3
+vertrag:7b44b33f;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Peters Heinz sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_peters_heinz_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Peters Heinz sign.pdf;;;;;3
+vertrag:fa1c9938;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Peters Herbert sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_peters_herbert_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Peters Herbert sign.pdf;;;;;3
+vertrag:826202ff;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Plaggenborg Dora sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_plaggenborg_dora_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Plaggenborg Dora sign.pdf;;;;;3
+vertrag:3dfa0171;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Plaggenborg Martin sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_plaggenborg_martin_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Plaggenborg Martin sign.pdf;;;;;3
+vertrag:dd5d420c;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Puls Josef sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_puls_josef_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Puls Josef sign.pdf;;;;;3
+vertrag:334090d2;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Rawe Berthhold sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_rawe_berthhold_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Rawe Berthhold sign.pdf;;;;;3
+vertrag:c9c2d4ad;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 10 sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_rieken_gerd_hoher_sand_10_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 10 sign.pdf;;;;;3
+vertrag:7e7ebcfd;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 2 sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_rieken_gerd_hoher_sand_2_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 2 sign.pdf;;;;;3
+vertrag:4b57f244;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 4 sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_rieken_gerd_hoher_sand_4_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 4 sign.pdf;;;;;3
+vertrag:f399fda6;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 6 sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_rieken_gerd_hoher_sand_6_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Rieken Gerd Hoher Sand 6 sign.pdf;;;;;3
+vertrag:1536a764;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Schmidt Jens Willi sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_schmidt_jens_willi_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Schmidt Jens Willi sign.pdf;;;;;3
+vertrag:bcac2b17;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Schweers Erwin sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_schweers_erwin_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Schweers Erwin sign.pdf;;;;;3
+vertrag:df62dcd6;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Unverfehrt Heinz sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_unverfehrt_heinz_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Unverfehrt Heinz sign.pdf;;;;;3
+vertrag:9c91ab18;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Wessels Bernhard sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_wessels_bernhard_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Wessels Bernhard sign.pdf;;;;;3
+vertrag:ec907dfa;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Wevering Wilma sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_wevering_wilma_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Wevering Wilma sign.pdf;;;;;3
+vertrag:d54ec62a;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Wilhelm Schmidt sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_wilhelm_schmidt_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Wilhelm Schmidt sign.pdf;;;;;3
+vertrag:267ca384;Vertrag;Wärmeliefervertrag Bioenergie Alte Heide Wraga Iris Matthias sign;Wärmeliefervertrag;aktiv;False;Wärmelieferverträge;3
+dokument:w_rmeliefervertrag_bioenergie_alte_heide_wraga_iris_matthias_sign_pdf;Dokument;Wärmeliefervertrag Bioenergie Alte Heide Wraga Iris Matthias sign.pdf;;;;;3
+vertrag:7cf75d9b;Vertrag;Jahresabrechnung 2024 Heymann Alexandra;Jahresabrechnung;aktiv;False;Wärmelieferverträge;1
+dokument:jahresabrechnung_2024_heymann_alexandra_pdf;Dokument;Jahresabrechnung 2024 Heymann Alexandra.pdf;;;;;1
+vertrag:d2f697ab;Vertrag;Jahresabrechnung 2024 Hömmken Claudia Zähler 639;Jahresabrechnung;aktiv;False;Wärmelieferverträge;1
+dokument:jahresabrechnung_2024_h_mmken_claudia_z_hler_639_pdf;Dokument;Jahresabrechnung 2024 Hömmken Claudia Zähler 639.pdf;;;;;1
+vertrag:1ea3b274;Vertrag;Jahresabrechnung 2024 Hömmken Claudia Zähler 919;Jahresabrechnung;aktiv;False;Wärmelieferverträge;1
+dokument:jahresabrechnung_2024_h_mmken_claudia_z_hler_919_pdf;Dokument;Jahresabrechnung 2024 Hömmken Claudia Zähler 919.pdf;;;;;1
+vertrag:0c6cf851;Vertrag;Jahresabrechnung 2024 Kleene Berthold;Jahresabrechnung;aktiv;False;Wärmelieferverträge;1
+dokument:jahresabrechnung_2024_kleene_berthold_pdf;Dokument;Jahresabrechnung 2024 Kleene Berthold.pdf;;;;;1
+vertrag:1beadd86;Vertrag;Detlef Niedenhof-Dieter Elbers Kaufvertrag der EN GbR;Kaufvertrag;aktiv;False;xx Verträge gescannt;8
+dokument:detlef_niedenhof_dieter_elbers_kaufvertrag_der_en_gbr_pdf;Dokument;Detlef Niedenhof-Dieter Elbers Kaufvertrag der EN GbR.pdf;;;;;8
+vertrag:8e5f9161;Vertrag;Detlef Niedenhof-Uwe Kebschull Kaufvertrag;Kaufvertrag;aktiv;False;xx Verträge gescannt;8
+dokument:detlef_niedenhof_uwe_kebschull_kaufvertrag_pdf;Dokument;Detlef Niedenhof-Uwe Kebschull Kaufvertrag.pdf;;;;;8
+vertrag:ff520fd4;Vertrag;Kemper&Nüsse-Detlef Niedenhof;Sonstiger Vertrag;aktiv;False;xx Verträge gescannt;5
+dokument:kemper_n_sse_detlef_niedenhof_pdf;Dokument;Kemper&Nüsse-Detlef Niedenhof.pdf;;;;;5
+vertrag:d52cd619;Vertrag;Sonnentaler III-Andrea Niedenhof Nachtrag;Nachtrag;aktiv;True;xx Verträge gescannt;1
+dokument:sonnentaler_iii_andrea_niedenhof_nachtrag_pdf;Dokument;Sonnentaler III-Andrea Niedenhof Nachtrag.pdf;;;;;1
+vertrag:2e26efbc;Vertrag;Sonnentaler VIII-Flerlage Geflügelzucht Nachtag;Sonstiger Vertrag;aktiv;False;xx Verträge gescannt;1
+dokument:sonnentaler_viii_flerlage_gefl_gelzucht_nachtag_pdf;Dokument;Sonnentaler VIII-Flerlage Geflügelzucht Nachtag.pdf;;;;;1
+vertrag:683e0152;Vertrag;Stadtweke Wesel-Marka Taler Kaufvertrag;Kaufvertrag;aktiv;False;xx Verträge gescannt;11
+dokument:stadtweke_wesel_marka_taler_kaufvertrag_pdf;Dokument;Stadtweke Wesel-Marka Taler Kaufvertrag.pdf;;;;;11
+vertrag:775cedd4;Vertrag;Unterpachtvertrag Franz Untied-Detlef Niedenhof;Pachtvertrag;aktiv;False;xx Verträge gescannt;3
+dokument:unterpachtvertrag_franz_untied_detlef_niedenhof_pdf;Dokument;Unterpachtvertrag Franz Untied-Detlef Niedenhof.pdf;;;;;3
+firma:marka_taler;Firma;Marka Taler;;;;;
+firma:taler_gmbh;Firma;Taler GmbH;;;;;
+firma:e2m;Firma;e2m;;;;;
+firma:bioenergie_witte_moor;Firma;Bioenergie Witte Moor;;;;;
+firma:bioenenergie_witte_moor;Firma;Bioenenergie Witte Moor;;;;;
+firma:bioenergie_alte_heide;Firma;Bioenergie Alte Heide;;;;;
+firma:beeke_wiesen_agrar;Firma;Beeke Wiesen Agrar;;;;;
+firma:hrn_solar;Firma;HRN Solar;;;;;
+firma:nn_solar;Firma;NN Solar;;;;;
+firma:bn_blinzenberg;Firma;BN Blinzenberg;;;;;
+firma:snw_solar;Firma;SNW Solar;;;;;
+firma:vn;Firma;VN;;;;;
+firma:peters_immobilien;Firma;Peters Immobilien;;;;;
+firma:edeka;Firma;Edeka;;;;;
+firma:hera_holztechnik;Firma;HERA Holztechnik;;;;;
+firma:gesevo;Firma;GESEVO;;;;;
+firma:lohner_putenmast;Firma;Lohner Putenmast;;;;;
+firma:nutraferm_petfood;Firma;Nutraferm Petfood;;;;;
+firma:gts_borgmann;Firma;GTS Borgmann;;;;;
+firma:quappen_immobilien;Firma;Quappen Immobilien;;;;;
+firma:ingenieurb_ro_wintering;Firma;Ingenieurbüro Wintering;;;;;
+firma:biow_rme_vrees;Firma;Biowärme Vrees;;;;;
+firma:h_mmlinger_volksbank;Firma;Hümmlinger Volksbank;;;;;
+firma:maschinenbau_manfred_kaiser;Firma;Maschinenbau Manfred Kaiser;;;;;
+firma:samtgemeinde_werlte;Firma;Samtgemeinde Werlte;;;;;
+firma:gemeinde_vrees;Firma;Gemeinde Vrees;;;;;
+firma:bbv;Firma;BBV;;;;;
+firma:flerlage_gefl_gelzucht;Firma;Flerlage Geflügelzucht;;;;;
+firma:b_terei;Firma;Büterei;;;;;
+firma:stadtwerke_wesel;Firma;Stadtwerke Wesel;;;;;
+firma:lhh_r_hlertwist;Firma;LHH Rühlertwist;;;;;
+firma:wilken_und_spark_agrar;Firma;Wilken und Spark Agrar;;;;;
+firma:investment_gemeinschaft_sigiltrastra_e;Firma;Investment Gemeinschaft Sigiltrastraße;;;;;
+projekt:immobilie_eichenbrink_6_vrees;Projekt;Immobilie Eichenbrink 6 Vrees;;;;;
+projekt:sonnentaler_viii;Projekt;Sonnentaler VIII;;;;;
+projekt:immobilie_oldenburg_vrees;Projekt;Immobilie Oldenburg/Vrees;;;;;
+projekt:sonnentaler_x;Projekt;Sonnentaler X;;;;;
+projekt:windpark_wt05;Projekt;Windpark WT05;;;;;
+projekt:blinzenberg;Projekt;Blinzenberg;;;;;
+projekt:windpark_wt04;Projekt;Windpark WT04;;;;;
+projekt:windpark_wt03;Projekt;Windpark WT03;;;;;
+projekt:alte_heide;Projekt;Alte Heide;;;;;
+projekt:sonnentaler_iii;Projekt;Sonnentaler III;;;;;
+projekt:sonnentaler_ii;Projekt;Sonnentaler II;;;;;
+projekt:beeke_wiesen;Projekt;Beeke Wiesen;;;;;
+projekt:windpark_wt07;Projekt;Windpark WT07;;;;;
+projekt:sonnentaler_vii;Projekt;Sonnentaler VII;;;;;
+projekt:sonnentaler_xi;Projekt;Sonnentaler XI;;;;;
+projekt:sonnentaler_i;Projekt;Sonnentaler I;;;;;
+projekt:sonnentaler_xv;Projekt;Sonnentaler XV;;;;;
+projekt:sonnentaler_v;Projekt;Sonnentaler V;;;;;
+projekt:witte_moor;Projekt;Witte Moor;;;;;
+projekt:sonnentaler_xii;Projekt;Sonnentaler XII;;;;;
+person:beckmann_arnold;Person;Beckmann Arnold;;;;;
+person:kaiser_maria;Person;Kaiser Maria;;;;;
+person:oldemanns_heinz;Person;Oldemanns Heinz;;;;;
+person:peters_heinz;Person;Peters Heinz;;;;;
+person:wilken_bernhard;Person;Wilken Bernhard;;;;;
+person:hempen_ulrich;Person;Hempen Ulrich;;;;;
+person:spark_heiner;Person;Spark Heiner;;;;;
+person:dedden_j_rgen;Person;Dedden Jürgen;;;;;
+person:ficker_friedrich;Person;Ficker Friedrich;;;;;
+person:dinklage_wilhelm;Person;Dinklage Wilhelm;;;;;
+person:l_nswilken_josef;Person;Lünswilken Josef;;;;;
+person:munk_lukas;Person;Munk Lukas;;;;;
+person:schol_bbers_stefan;Person;Scholübbers Stefan;;;;;
+person:albers_christoph;Person;Albers Christoph;;;;;
+person:kossen_birgit;Person;Kossen Birgit;;;;;
+person:poelmeyer_dennis;Person;Poelmeyer Dennis;;;;;
+person:niedenhof_andrea;Person;Niedenhof Andrea;;;;;
+person:unverfehrt_heinz;Person;Unverfehrt Heinz;;;;;
+person:n_sse_johanne;Person;Nüsse Johanne;;;;;
+person:b_ter_wilhelm;Person;Büter Wilhelm;;;;;
+person:kemper_berendina;Person;Kemper Berendina;;;;;
+person:deters_ewald;Person;Deters Ewald;;;;;
+person:niedenhof_detlef;Person;Niedenhof Detlef;;;;;
+person:janssen_andreas;Person;Janssen Andreas;;;;;
+person:plaggenborg_dora;Person;Plaggenborg Dora;;;;;
+person:jungsth_fel_bernhard;Person;Jungsthöfel Bernhard;;;;;
+person:niedenhof_norbert;Person;Niedenhof Norbert;;;;;
+person:khreis_mohammed;Person;Khreis Mohammed;;;;;
+person:jungsth_fel_jan;Person;Jungsthöfel Jan;;;;;
+person:wevering_wilma;Person;Wevering Wilma;;;;;
+person:wessendorf_august;Person;Wessendorf August;;;;;
+person:kleene_christine;Person;Kleene Christine;;;;;
+person:plaggenborg_martin;Person;Plaggenborg Martin;;;;;
+person:h_mmken_christoph;Person;Hömmken Christoph;;;;;
+person:walder_julia;Person;Walder Julia;;;;;
+person:puls_josef;Person;Puls Josef;;;;;
+person:kleene_peter;Person;Kleene Peter;;;;;
+person:wessels_richard;Person;Wessels Richard;;;;;
+person:fleer_thien_wilfried;Person;Fleer Thien Wilfried;;;;;
+person:gerdes_michael;Person;Gerdes Michael;;;;;
+person:rosen_ralf;Person;Rosen Ralf;;;;;
+person:b_ter_helmut;Person;Büter Helmut;;;;;
+person:schweers_erwin;Person;Schweers Erwin;;;;;
+person:kuiper_tjeerd;Person;Kuiper Tjeerd;;;;;
+person:b_ter_berthold;Person;Büter Berthold;;;;;
+person:kerkhoff_laureen;Person;Kerkhoff Laureen;;;;;
+person:wilhelm_schmidt;Person;Wilhelm Schmidt;;;;;
+person:kreuzhermes_christian;Person;Kreuzhermes Christian;;;;;
+person:kirschner;Person;Kirschner;;;;;
+person:k_nig_henning;Person;König Henning;;;;;
+person:meinerling_gisela;Person;Meinerling Gisela;;;;;
+person:heymann_willi;Person;Heymann Willi;;;;;
+person:wilken_spark;Person;Wilken Spark;;;;;
+person:untiedt_gerd;Person;Untiedt Gerd;;;;;
+person:vagedes_bernhard;Person;Vagedes Bernhard;;;;;
+person:harms_daniela;Person;Harms Daniela;;;;;
+person:dieter_elbers;Person;Dieter Elbers;;;;;
+person:h_mmken_bernhard;Person;Hömmken Bernhard;;;;;
+person:b_ter_ralph;Person;Büter Ralph;;;;;
+person:steineck_manfred;Person;Steineck Manfred;;;;;
+person:elbers_josef;Person;Elbers Josef;;;;;
+person:nannen_ludger;Person;Nannen Ludger;;;;;
+person:g_ken_gerhard;Person;Göken Gerhard;;;;;
+person:rieken_gerd;Person;Rieken Gerd;;;;;
+person:peters_herbert;Person;Peters Herbert;;;;;
+person:paus_helmut;Person;Paus Helmut;;;;;
+person:steenken_hermann;Person;Steenken Hermann;;;;;
+person:b_ter_ernst;Person;Büter Ernst;;;;;
+person:alali_zakaria;Person;Alali Zakaria;;;;;
+person:kronlage_marcus;Person;Kronlage Marcus;;;;;
+person:behrens;Person;Behrens;;;;;
+person:andrea_niedenhof;Person;Andrea Niedenhof;;;;;
+person:hoesen_karl_heinz;Person;Hoesen Karl Heinz;;;;;
+person:rode_thomas;Person;Rode Thomas;;;;;
+person:jansen_gerd;Person;Jansen Gerd;;;;;
+person:hausfeld_rainer;Person;Hausfeld Rainer;;;;;
+person:johannes_jansen;Person;Johannes Jansen;;;;;
+person:berg_marco;Person;Berg Marco;;;;;
+person:malinowski_monika;Person;Malinowski Monika;;;;;
+person:schulte_ralf;Person;Schulte Ralf;;;;;
+person:peters_werner;Person;Peters Werner;;;;;
+person:sandmann_christof;Person;Sandmann Christof;;;;;
+person:hollander_jakob;Person;Hollander Jakob;;;;;
+person:lewin_heiko;Person;Lewin Heiko;;;;;
+person:wraga_iris;Person;Wraga Iris;;;;;
+person:kremes_gezienus;Person;Kremes Gezienus;;;;;
+person:b_sing_petra;Person;Büsing Petra;;;;;
+person:dedden_paul;Person;Dedden Paul;;;;;
+person:porten_stephan;Person;Porten Stephan;;;;;
+person:peters_helmut;Person;Peters Helmut;;;;;
+person:hogeback_andreas;Person;Hogeback Andreas;;;;;
+person:menke_bernd;Person;Menke Bernd;;;;;
+person:hollander_werner;Person;Hollander Werner;;;;;
+person:h_mmken_andreas;Person;Hömmken Andreas;;;;;
+person:elbers_paul;Person;Elbers Paul;;;;;
+person:detlef_niedenhof;Person;Detlef Niedenhof;;;;;
+person:suhl_hans;Person;Suhl Hans;;;;;
+person:h_mmken_claudia;Person;Hömmken Claudia;;;;;
+person:schulte_albert;Person;Schulte Albert;;;;;
+person:untied_gerd;Person;Untied Gerd;;;;;
+person:n_sse_traute;Person;Nüsse Traute;;;;;
+person:hemker_nadine;Person;Hemker Nadine;;;;;
+person:l_ken_martin;Person;Lüken Martin;;;;;
+person:l_bke;Person;Lübke;;;;;
+person:wiehebrink_ernst;Person;Wiehebrink Ernst;;;;;
+person:kleene_berthold;Person;Kleene Berthold;;;;;
+person:frank_julius;Person;Frank Julius;;;;;
+person:schmidt_jens_willi;Person;Schmidt Jens Willi;;;;;
+person:wessels_bernhard;Person;Wessels Bernhard;;;;;
+person:reulmann_andreas;Person;Reulmann Andreas;;;;;
+person:robenek_guido;Person;Robenek Guido;;;;;
+person:kr_ger_franz;Person;Kröger Franz;;;;;
+person:dedden_franz;Person;Dedden Franz;;;;;
+person:heymann_alexandra;Person;Heymann Alexandra;;;;;
+person:fortwengel_christoph;Person;Fortwengel Christoph;;;;;
+person:schnelling_bernhard;Person;Schnelling Bernhard;;;;;

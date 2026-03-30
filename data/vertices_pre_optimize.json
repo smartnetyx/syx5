@@ -39,21 +39,7 @@
   {
     "id": "standort:windpark_werlte",
     "label": "Projekt",
-    "name": "Windpark Werlte",
-    "projekt_id": "P0138",
-    "display_name": "P0138 - WT 04 WEA Meiners Werlte 3050 kW",
-    "standort_original": "Windpark Werlte",
-    "projektbereich": "WIND",
-    "beschreibung": "WEA Meiners",
-    "leistung_kwp": 3050.0,
-    "abrechnung_evu": "Monatlich",
-    "soll_erzeugung": "Ja",
-    "erzeugung_datum": "2000-01-01 00:00:00",
-    "soll_direktvermarktung": "Ja",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "ort": "Windpark Werlte"
+    "name": "Windpark Werlte"
   },
   {
     "id": "vertrag:bf_wt03_01",
@@ -88,21 +74,7 @@
   {
     "id": "standort:windpark_b_rger",
     "label": "Projekt",
-    "name": "Windpark Börger",
-    "projekt_id": "P0137",
-    "display_name": "P0137 - WT 03 WEA Hempen Börger 6100 kW",
-    "standort_original": "Windpark Börger",
-    "projektbereich": "WIND",
-    "beschreibung": "WEA Hempen",
-    "leistung_kwp": 6100.0,
-    "abrechnung_evu": "Monatlich",
-    "soll_erzeugung": "Ja",
-    "erzeugung_datum": "2000-01-01 00:00:00",
-    "soll_direktvermarktung": "Ja",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "ort": "Windpark Börger"
+    "name": "Windpark Börger"
   },
   {
     "id": "vertrag:bf_wt04_01",
@@ -250,11 +222,7 @@
   {
     "id": "standort:werlte",
     "label": "Projekt",
-    "name": "Werlte",
-    "projekt_id": "P9001",
-    "display_name": "P9001 - Werlte",
-    "standort_original": "Werlte",
-    "ort": "Werlte"
+    "name": "Werlte"
   },
   {
     "id": "malo:50364097475",
@@ -319,22 +287,7 @@
   {
     "id": "standort:vrees",
     "label": "Projekt",
-    "name": "Vrees",
-    "projekt_id": "P0031",
-    "display_name": "P0031 - BN Blinzenberg PV-Anlage Gehlenberger Weg 131 Vrees 660,14 kWp",
-    "standort_original": "Vrees",
-    "projektbereich": "PV",
-    "beschreibung": "PV-Anlage",
-    "leistung_kwp": 660.14,
-    "abrechnung_evu": "Monatlich",
-    "vcom_id": "1CNBZ",
-    "soll_erzeugung": "Ja",
-    "erzeugung_datum": "2016-08-01 00:00:00",
-    "soll_direktvermarktung": "Ja",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "ort": "Vrees"
+    "name": "Vrees"
   },
   {
     "id": "malo:50364098572",
@@ -436,12 +389,7 @@
   {
     "id": "standort:49757_vrees_gehlenberger_weg",
     "label": "Projekt",
-    "name": "49757 Vrees, Gehlenberger Weg",
-    "projekt_id": "P9002",
-    "display_name": "P9002 - 49757 Vrees, Gehlenberger Weg",
-    "standort_original": "49757 Vrees, Gehlenberger Weg",
-    "plz": "49757",
-    "ort": "Vrees"
+    "name": "49757 Vrees, Gehlenberger Weg"
   },
   {
     "id": "vertrag:gv_hrn_solar",
@@ -483,12 +431,7 @@
   {
     "id": "standort:49757_vrees_bischofsbr_cker_weg",
     "label": "Projekt",
-    "name": "49757 Vrees, Bischofsbrücker Weg",
-    "projekt_id": "P9003",
-    "display_name": "P9003 - 49757 Vrees, Bischofsbrücker Weg",
-    "standort_original": "49757 Vrees, Bischofsbrücker Weg",
-    "plz": "49757",
-    "ort": "Vrees"
+    "name": "49757 Vrees, Bischofsbrücker Weg"
   },
   {
     "id": "vertrag:gv_peters_immo",
@@ -553,12 +496,7 @@
   {
     "id": "standort:f_rstenweg_11_26901_lorup",
     "label": "Projekt",
-    "name": "Fürstenweg 11, 26901 Lorup",
-    "projekt_id": "P9004",
-    "display_name": "P9004 - Fürstenweg 11, 26901 Lorup",
-    "standort_original": "Fürstenweg 11, 26901 Lorup",
-    "plz": "26901",
-    "ort": "Fürstenweg"
+    "name": "Fürstenweg 11, 26901 Lorup"
   },
   {
     "id": "vertrag:gv_rob_nied",
@@ -616,22 +554,7 @@
   {
     "id": "standort:s_gel_hof_renschen",
     "label": "Projekt",
-    "name": "Sögel, Hof Renschen",
-    "projekt_id": "P0037",
-    "display_name": "P0037 - Kirschner Niedenhof PV-Anlage Hof Renschen 3a Sögel 163,8 kWp",
-    "standort_original": "Sögel, Hof Renschen",
-    "projektbereich": "PV",
-    "beschreibung": "PV-Anlage",
-    "leistung_kwp": 163.8,
-    "abrechnung_evu": "Monatlich",
-    "vcom_id": "GZMDP",
-    "soll_erzeugung": "Ja",
-    "erzeugung_datum": "2010-07-28 00:00:00",
-    "soll_direktvermarktung": "Ja",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "ort": "Sögel"
+    "name": "Sögel, Hof Renschen"
   },
   {
     "id": "vertrag:gv_nn_solar",
@@ -666,12 +589,7 @@
   {
     "id": "standort:49757_vrees_werlter_strasse_6",
     "label": "Projekt",
-    "name": "49757 Vrees, Werlter Strasse 6",
-    "projekt_id": "P9005",
-    "display_name": "P9005 - 49757 Vrees, Werlter Strasse 6",
-    "standort_original": "49757 Vrees, Werlter Strasse 6",
-    "plz": "49757",
-    "ort": "Vrees"
+    "name": "49757 Vrees, Werlter Strasse 6"
   },
   {
     "id": "vertrag:gv_wess_nied",
@@ -713,12 +631,7 @@
   {
     "id": "standort:s_dstrasse_13_26901_rastdorf",
     "label": "Projekt",
-    "name": "Südstrasse 13, 26901 Rastdorf",
-    "projekt_id": "P9006",
-    "display_name": "P9006 - Südstrasse 13, 26901 Rastdorf",
-    "standort_original": "Südstrasse 13, 26901 Rastdorf",
-    "plz": "26901",
-    "ort": "Südstrasse"
+    "name": "Südstrasse 13, 26901 Rastdorf"
   },
   {
     "id": "vertrag:gv_snw_gbr",
@@ -753,12 +666,7 @@
   {
     "id": "standort:49757_vrees_gro_er_esch",
     "label": "Projekt",
-    "name": "49757 Vrees, Großer Esch",
-    "projekt_id": "P9007",
-    "display_name": "P9007 - 49757 Vrees, Großer Esch",
-    "standort_original": "49757 Vrees, Großer Esch",
-    "plz": "49757",
-    "ort": "Vrees"
+    "name": "49757 Vrees, Großer Esch"
   },
   {
     "id": "vertrag:gv_sonntaler2",
@@ -793,17 +701,13 @@
   {
     "id": "standort:vrees_gewerbegebiet_peheimer_stra_e",
     "label": "Projekt",
-    "name": "Vrees, Gewerbegebiet, Peheimer Straße",
-    "projekt_id": "P9008",
-    "display_name": "P9008 - Vrees, Gewerbegebiet, Peheimer Straße",
-    "standort_original": "Vrees, Gewerbegebiet, Peheimer Straße",
-    "ort": "Vrees"
+    "name": "Vrees, Gewerbegebiet, Peheimer Straße"
   },
   {
     "id": "vertrag:230a5b95",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 3",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -813,8 +717,7 @@
     "datum_gefunden": "2012-12-15",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_hollander_jakob_signiert_3",
@@ -840,18 +743,13 @@
   {
     "id": "standort:esens_seilerstrasse_26427_esens",
     "label": "Projekt",
-    "name": "Esens, Seilerstrasse, 26427 Esens",
-    "projekt_id": "P9009",
-    "display_name": "P9009 - Esens, Seilerstrasse, 26427 Esens",
-    "standort_original": "Esens, Seilerstrasse, 26427 Esens",
-    "plz": "26427",
-    "ort": "Esens"
+    "name": "Esens, Seilerstrasse, 26427 Esens"
   },
   {
     "id": "vertrag:d2d4cd38",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Hollander Jakob signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -861,8 +759,7 @@
     "datum_gefunden": "2012-12-15",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage - Vertrag Nr. 1",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_hollander_jakob_signiert",
@@ -881,18 +778,13 @@
   {
     "id": "standort:esens_flur_15_flurstuecke_9_69_9_67_9_70",
     "label": "Projekt",
-    "name": "Esens, Flur 15, Flurstuecke 9/69, 9/67, 9/70",
-    "projekt_id": "P9010",
-    "display_name": "P9010 - Esens, Flur 15, Flurstuecke 9/69, 9/67, 9/70",
-    "standort_original": "Esens, Flur 15, Flurstuecke 9/69, 9/67, 9/70",
-    "flur": "15",
-    "ort": "Esens"
+    "name": "Esens, Flur 15, Flurstuecke 9/69, 9/67, 9/70"
   },
   {
     "id": "vertrag:d284599b",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Hollander Werner mit Nachtrag signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -902,8 +794,7 @@
     "datum_gefunden": "2011-08-08",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_hollander_werner_mit_nachtr",
@@ -922,20 +813,13 @@
   {
     "id": "standort:26553_dornum_gewerbestrasse_gemarkung_schwittersum_flur_1_fl",
     "label": "Projekt",
-    "name": "26553 Dornum, Gewerbestrasse, Gemarkung Schwittersum, Flur 1, Flurstueck 79/24",
-    "projekt_id": "P9011",
-    "display_name": "P9011 - 26553 Dornum, Gewerbestrasse, Gemarkung Schwittersum, Flur 1, Flurstueck 79/24",
-    "standort_original": "26553 Dornum, Gewerbestrasse, Gemarkung Schwittersum, Flur 1, Flurstueck 79/24",
-    "plz": "26553",
-    "gemarkung": "Schwittersum",
-    "flur": "1",
-    "ort": "Dornum"
+    "name": "26553 Dornum, Gewerbestrasse, Gemarkung Schwittersum, Flur 1, Flurstueck 79/24"
   },
   {
     "id": "vertrag:b6ca9e30",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Hollander Werner signiert 3",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -945,8 +829,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_hollander_werner_signiert_3",
@@ -958,20 +841,13 @@
   {
     "id": "standort:26556_westerholt_terheider_weg_8_gemarkung_westerholt_flur_7",
     "label": "Projekt",
-    "name": "26556 Westerholt, Terheider Weg 8, Gemarkung Westerholt, Flur 7, Flurstueck 134/56",
-    "projekt_id": "P9012",
-    "display_name": "P9012 - 26556 Westerholt, Terheider Weg 8, Gemarkung Westerholt, Flur 7, Flurstueck 134/56",
-    "standort_original": "26556 Westerholt, Terheider Weg 8, Gemarkung Westerholt, Flur 7, Flurstueck 134/56",
-    "plz": "26556",
-    "gemarkung": "Westerholt",
-    "flur": "7",
-    "ort": "Westerholt"
+    "name": "26556 Westerholt, Terheider Weg 8, Gemarkung Westerholt, Flur 7, Flurstueck 134/56"
   },
   {
     "id": "vertrag:f8777306",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Hollander Werner signiert 4",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -981,8 +857,7 @@
     "datum_gefunden": "2012-03-01",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_hollander_werner_signiert_4",
@@ -995,7 +870,7 @@
     "id": "vertrag:5b137dd1",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Hollander Werner signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1005,8 +880,7 @@
     "datum_gefunden": "2011-08-08",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_hollander_werner_signiert",
@@ -1019,7 +893,7 @@
     "id": "vertrag:4afcdc58",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Kuiper Tjeerd",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1029,8 +903,7 @@
     "datum_gefunden": "2011",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_kuiper_tjeerd",
@@ -1049,19 +922,13 @@
   {
     "id": "standort:mitling_mark_markerstr_21b_gemarkung_mitling_mark_flur_5_flu",
     "label": "Projekt",
-    "name": "Mitling-Mark, Markerstr. 21b, Gemarkung Mitling-Mark, Flur 5, Flurstueck 49/1",
-    "projekt_id": "P9013",
-    "display_name": "P9013 - Mitling-Mark, Markerstr. 21b, Gemarkung Mitling-Mark, Flur 5, Flurstueck 49/1",
-    "standort_original": "Mitling-Mark, Markerstr. 21b, Gemarkung Mitling-Mark, Flur 5, Flurstueck 49/1",
-    "gemarkung": "Mitling-Mark",
-    "flur": "5",
-    "ort": "Mitling-Mark"
+    "name": "Mitling-Mark, Markerstr. 21b, Gemarkung Mitling-Mark, Flur 5, Flurstueck 49/1"
   },
   {
     "id": "vertrag:0f4bc542",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Quappen Immobilien mit Nachtrag signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1071,8 +938,7 @@
     "datum_gefunden": "2009-08-28",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_quappen_immobilien_mit_nach",
@@ -1091,20 +957,13 @@
   {
     "id": "standort:soegel_industriestr_4_6_49751_soegel_gemarkung_soegel_flur_1",
     "label": "Projekt",
-    "name": "Soegel, Industriestr. 4+6, 49751 Soegel, Gemarkung Soegel, Flur 14, Flurstueck 1/41",
-    "projekt_id": "P9014",
-    "display_name": "P9014 - Soegel, Industriestr. 4+6, 49751 Soegel, Gemarkung Soegel, Flur 14, Flurstueck 1/41",
-    "standort_original": "Soegel, Industriestr. 4+6, 49751 Soegel, Gemarkung Soegel, Flur 14, Flurstueck 1/41",
-    "plz": "49751",
-    "gemarkung": "Soegel",
-    "flur": "14",
-    "ort": "Soegel"
+    "name": "Soegel, Industriestr. 4+6, 49751 Soegel, Gemarkung Soegel, Flur 14, Flurstueck 1/41"
   },
   {
     "id": "vertrag:19725b77",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Reulmann Andreas 2 mit Nachtrag signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1114,8 +973,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage sowie deren Erweiterung mit Nachtrag",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_reulmann_andreas_2_mit_nach",
@@ -1134,19 +992,13 @@
   {
     "id": "standort:haren_an_der_autobahn_gemarkung_wesuwe_flur_75_flurstueck_37",
     "label": "Projekt",
-    "name": "Haren, An der Autobahn, Gemarkung Wesuwe, Flur 75, Flurstueck 37/5",
-    "projekt_id": "P9015",
-    "display_name": "P9015 - Haren, An der Autobahn, Gemarkung Wesuwe, Flur 75, Flurstueck 37/5",
-    "standort_original": "Haren, An der Autobahn, Gemarkung Wesuwe, Flur 75, Flurstueck 37/5",
-    "gemarkung": "Wesuwe",
-    "flur": "75",
-    "ort": "Haren"
+    "name": "Haren, An der Autobahn, Gemarkung Wesuwe, Flur 75, Flurstueck 37/5"
   },
   {
     "id": "vertrag:9cdb2c9a",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Reulmann Andreas signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1156,8 +1008,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_reulmann_andreas_signiert",
@@ -1176,19 +1027,13 @@
   {
     "id": "standort:gleesen_gemarkung_gleesen_flur_26_flurstueck_35",
     "label": "Projekt",
-    "name": "Gleesen, Gemarkung Gleesen, Flur 26, Flurstueck 35",
-    "projekt_id": "P9016",
-    "display_name": "P9016 - Gleesen, Gemarkung Gleesen, Flur 26, Flurstueck 35",
-    "standort_original": "Gleesen, Gemarkung Gleesen, Flur 26, Flurstueck 35",
-    "gemarkung": "Gleesen",
-    "flur": "26",
-    "ort": "Gleesen"
+    "name": "Gleesen, Gemarkung Gleesen, Flur 26, Flurstueck 35"
   },
   {
     "id": "vertrag:ac658583",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Rosen Ralf signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1198,8 +1043,7 @@
     "datum_gefunden": "2010-04-29",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_rosen_ralf_signiert",
@@ -1218,20 +1062,13 @@
   {
     "id": "standort:werlte_bohrstrasse_49757_werlte_gemarkung_werlte_flur_7_flur",
     "label": "Projekt",
-    "name": "Werlte, Bohrstrasse, 49757 Werlte, Gemarkung Werlte, Flur 7, Flurstueck 63/23 und 62/5",
-    "projekt_id": "P9017",
-    "display_name": "P9017 - Werlte, Bohrstrasse, 49757 Werlte, Gemarkung Werlte, Flur 7, Flurstueck 63/23 und 62/5",
-    "standort_original": "Werlte, Bohrstrasse, 49757 Werlte, Gemarkung Werlte, Flur 7, Flurstueck 63/23 und 62/5",
-    "plz": "49757",
-    "gemarkung": "Werlte",
-    "flur": "7",
-    "ort": "Werlte"
+    "name": "Werlte, Bohrstrasse, 49757 Werlte, Gemarkung Werlte, Flur 7, Flurstueck 63/23 und 62/5"
   },
   {
     "id": "vertrag:296bcd10",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Schnelling Bernhard signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1241,8 +1078,7 @@
     "datum_gefunden": "2017-05-23",
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_schnelling_bernhard_signier",
@@ -1261,19 +1097,13 @@
   {
     "id": "standort:bernte_gemarkung_bernte_flur_8",
     "label": "Projekt",
-    "name": "Bernte, Gemarkung Bernte, Flur 8",
-    "projekt_id": "P9018",
-    "display_name": "P9018 - Bernte, Gemarkung Bernte, Flur 8",
-    "standort_original": "Bernte, Gemarkung Bernte, Flur 8",
-    "gemarkung": "Bernte",
-    "flur": "8",
-    "ort": "Bernte"
+    "name": "Bernte, Gemarkung Bernte, Flur 8"
   },
   {
     "id": "vertrag:4b7138cb",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Schulte Albert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1283,8 +1113,7 @@
     "datum_gefunden": "2022-02-03",
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_schulte_albert",
@@ -1303,19 +1132,13 @@
   {
     "id": "standort:haseluenne_gemarkung_apeldorn_flur_7_flurstueck_185_5",
     "label": "Projekt",
-    "name": "Haseluenne, Gemarkung Apeldorn, Flur 7, Flurstueck 185/5",
-    "projekt_id": "P9019",
-    "display_name": "P9019 - Haseluenne, Gemarkung Apeldorn, Flur 7, Flurstueck 185/5",
-    "standort_original": "Haseluenne, Gemarkung Apeldorn, Flur 7, Flurstueck 185/5",
-    "gemarkung": "Apeldorn",
-    "flur": "7",
-    "ort": "Haseluenne"
+    "name": "Haseluenne, Gemarkung Apeldorn, Flur 7, Flurstueck 185/5"
   },
   {
     "id": "vertrag:57bd251f",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Volker&Jansen signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1325,8 +1148,7 @@
     "datum_gefunden": "2017-07-20",
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_volker_jansen_signiert",
@@ -1345,18 +1167,13 @@
   {
     "id": "standort:blomberg_an_der_eiche_2a_gemarkung_blomberg",
     "label": "Projekt",
-    "name": "Blomberg, An der Eiche 2a, Gemarkung Blomberg",
-    "projekt_id": "P9020",
-    "display_name": "P9020 - Blomberg, An der Eiche 2a, Gemarkung Blomberg",
-    "standort_original": "Blomberg, An der Eiche 2a, Gemarkung Blomberg",
-    "gemarkung": "Blomberg",
-    "ort": "Blomberg"
+    "name": "Blomberg, An der Eiche 2a, Gemarkung Blomberg"
   },
   {
     "id": "vertrag:f66b40be",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler VII Hollander Werner 2 mit Nachtrag signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1366,8 +1183,7 @@
     "datum_gefunden": "2011-08-08",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_vii_hollander_werner_2_mit_na",
@@ -1386,18 +1202,13 @@
   {
     "id": "standort:26556_westerholt_holtkamp_6",
     "label": "Projekt",
-    "name": "26556 Westerholt, Holtkamp 6",
-    "projekt_id": "P9021",
-    "display_name": "P9021 - 26556 Westerholt, Holtkamp 6",
-    "standort_original": "26556 Westerholt, Holtkamp 6",
-    "plz": "26556",
-    "ort": "Westerholt"
+    "name": "26556 Westerholt, Holtkamp 6"
   },
   {
     "id": "vertrag:9ac539e5",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler VII Hollander Werner signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1407,8 +1218,7 @@
     "datum_gefunden": "2011-10-13",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_vii_hollander_werner_signiert",
@@ -1420,17 +1230,13 @@
   {
     "id": "standort:dornum_roggenstede_fulkumer_weg_16",
     "label": "Projekt",
-    "name": "Dornum-Roggenstede, Fulkumer Weg 16",
-    "projekt_id": "P9022",
-    "display_name": "P9022 - Dornum-Roggenstede, Fulkumer Weg 16",
-    "standort_original": "Dornum-Roggenstede, Fulkumer Weg 16",
-    "ort": "Dornum-Roggenstede"
+    "name": "Dornum-Roggenstede, Fulkumer Weg 16"
   },
   {
     "id": "vertrag:9d96cce2",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler VII Kreuzhermes Christian signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1440,8 +1246,7 @@
     "datum_gefunden": "2013",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_vii_kreuzhermes_christian_sig",
@@ -1460,19 +1265,13 @@
   {
     "id": "standort:lorup_gloemmel_1b_gemarkung_lorup_flur_38_flurstueck_7",
     "label": "Projekt",
-    "name": "Lorup, Gloemmel 1b, Gemarkung Lorup, Flur 38, Flurstueck 7",
-    "projekt_id": "P9023",
-    "display_name": "P9023 - Lorup, Gloemmel 1b, Gemarkung Lorup, Flur 38, Flurstueck 7",
-    "standort_original": "Lorup, Gloemmel 1b, Gemarkung Lorup, Flur 38, Flurstueck 7",
-    "gemarkung": "Lorup",
-    "flur": "38",
-    "ort": "Lorup"
+    "name": "Lorup, Gloemmel 1b, Gemarkung Lorup, Flur 38, Flurstueck 7"
   },
   {
     "id": "vertrag:637b0101",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler VII Werner Hollander signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1482,8 +1281,7 @@
     "datum_gefunden": "2011-10-13",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_vii_werner_hollander_signiert",
@@ -1495,18 +1293,13 @@
   {
     "id": "standort:26532_grossheide_gewerbestrasse_18",
     "label": "Projekt",
-    "name": "26532 Grossheide, Gewerbestrasse 18",
-    "projekt_id": "P9024",
-    "display_name": "P9024 - 26532 Grossheide, Gewerbestrasse 18",
-    "standort_original": "26532 Grossheide, Gewerbestrasse 18",
-    "plz": "26532",
-    "ort": "Grossheide"
+    "name": "26532 Grossheide, Gewerbestrasse 18"
   },
   {
     "id": "vertrag:17dee9db",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler VIIHollander Werner signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1516,8 +1309,7 @@
     "datum_gefunden": "2011-08-08",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtrag",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_viihollander_werner_signiert",
@@ -1529,18 +1321,13 @@
   {
     "id": "standort:26556_westerholt_holtkamp_1",
     "label": "Projekt",
-    "name": "26556 Westerholt, Holtkamp 1",
-    "projekt_id": "P9025",
-    "display_name": "P9025 - 26556 Westerholt, Holtkamp 1",
-    "standort_original": "26556 Westerholt, Holtkamp 1",
-    "plz": "26556",
-    "ort": "Westerholt"
+    "name": "26556 Westerholt, Holtkamp 1"
   },
   {
     "id": "vertrag:c7f29533",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler VIII Flerlage Geflügelzucht signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1550,8 +1337,7 @@
     "datum_gefunden": "2011-12-15",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage Nr. 1",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_viii_flerlage_gefl_gelzucht_s",
@@ -1577,19 +1363,13 @@
   {
     "id": "standort:werlte_wehm_gemarkung_werlte_wehm_flur_10_flurstueck_44_4",
     "label": "Projekt",
-    "name": "Werlte/Wehm, Gemarkung Werlte/Wehm, Flur 10, Flurstueck 44-4",
-    "projekt_id": "P9026",
-    "display_name": "P9026 - Werlte/Wehm, Gemarkung Werlte/Wehm, Flur 10, Flurstueck 44-4",
-    "standort_original": "Werlte/Wehm, Gemarkung Werlte/Wehm, Flur 10, Flurstueck 44-4",
-    "gemarkung": "Werlte/Wehm",
-    "flur": "10",
-    "ort": "Werlte/Wehm"
+    "name": "Werlte/Wehm, Gemarkung Werlte/Wehm, Flur 10, Flurstueck 44-4"
   },
   {
     "id": "vertrag:ed44a272",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler X Nutraferm Petfood",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1599,8 +1379,7 @@
     "datum_gefunden": "2013-06-11",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_x_nutraferm_petfood",
@@ -1626,19 +1405,13 @@
   {
     "id": "standort:vechta_gruenenmoor_26_gemarkung_vechta_flur_21_flurstueck_66",
     "label": "Projekt",
-    "name": "Vechta, Gruenenmoor 26, Gemarkung Vechta, Flur 21, Flurstueck 66/5",
-    "projekt_id": "P9027",
-    "display_name": "P9027 - Vechta, Gruenenmoor 26, Gemarkung Vechta, Flur 21, Flurstueck 66/5",
-    "standort_original": "Vechta, Gruenenmoor 26, Gemarkung Vechta, Flur 21, Flurstueck 66/5",
-    "gemarkung": "Vechta",
-    "flur": "21",
-    "ort": "Vechta"
+    "name": "Vechta, Gruenenmoor 26, Gemarkung Vechta, Flur 21, Flurstueck 66/5"
   },
   {
     "id": "vertrag:e24aebf6",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler XI Schulte Ralf",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1648,8 +1421,7 @@
     "datum_gefunden": "2017-07-15",
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_xi_schulte_ralf",
@@ -1675,19 +1447,13 @@
   {
     "id": "standort:haseluenne_gemarkung_luehden_flur_13_flurstueck_9_80",
     "label": "Projekt",
-    "name": "Haseluenne, Gemarkung Luehden, Flur 13, Flurstueck 9/80",
-    "projekt_id": "P9028",
-    "display_name": "P9028 - Haseluenne, Gemarkung Luehden, Flur 13, Flurstueck 9/80",
-    "standort_original": "Haseluenne, Gemarkung Luehden, Flur 13, Flurstueck 9/80",
-    "gemarkung": "Luehden",
-    "flur": "13",
-    "ort": "Haseluenne"
+    "name": "Haseluenne, Gemarkung Luehden, Flur 13, Flurstueck 9/80"
   },
   {
     "id": "vertrag:1ccb2fae",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler XI Wessels Richard",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1697,8 +1463,7 @@
     "datum_gefunden": "2019-02-01",
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_xi_wessels_richard",
@@ -1717,19 +1482,13 @@
   {
     "id": "standort:holte_huelskamp_19_gemarkung_holte_lastrup_flur_15_flurstuec",
     "label": "Projekt",
-    "name": "Holte, Huelskamp 19, Gemarkung Holte-Lastrup, Flur 15, Flurstueck 27/1",
-    "projekt_id": "P9029",
-    "display_name": "P9029 - Holte, Huelskamp 19, Gemarkung Holte-Lastrup, Flur 15, Flurstueck 27/1",
-    "standort_original": "Holte, Huelskamp 19, Gemarkung Holte-Lastrup, Flur 15, Flurstueck 27/1",
-    "gemarkung": "Holte-Lastrup",
-    "flur": "15",
-    "ort": "Holte"
+    "name": "Holte, Huelskamp 19, Gemarkung Holte-Lastrup, Flur 15, Flurstueck 27/1"
   },
   {
     "id": "vertrag:56713d9b",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler XII GESEVO signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1739,8 +1498,7 @@
     "datum_gefunden": "2018",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage - Vertrag Nr. 1",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_xii_gesevo_signiert",
@@ -1766,19 +1524,13 @@
   {
     "id": "standort:cloppenburg_emstek_suedallee_11_gemarkung_emstek_flur_14_flu",
     "label": "Projekt",
-    "name": "Cloppenburg/Emstek, Suedallee 11, Gemarkung Emstek, Flur 14, Flurstuecke 16/51, 16/61, 16/62",
-    "projekt_id": "P9030",
-    "display_name": "P9030 - Cloppenburg/Emstek, Suedallee 11, Gemarkung Emstek, Flur 14, Flurstuecke 16/51, 16/61, 16/62",
-    "standort_original": "Cloppenburg/Emstek, Suedallee 11, Gemarkung Emstek, Flur 14, Flurstuecke 16/51, 16/61, 16/62",
-    "gemarkung": "Emstek",
-    "flur": "14",
-    "ort": "Cloppenburg/Emstek"
+    "name": "Cloppenburg/Emstek, Suedallee 11, Gemarkung Emstek, Flur 14, Flurstuecke 16/51, 16/61, 16/62"
   },
   {
     "id": "vertrag:3381720f",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler XV Paus Helmut",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1788,8 +1540,7 @@
     "datum_gefunden": "2018-03-07",
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_xv_paus_helmut",
@@ -1815,19 +1566,13 @@
   {
     "id": "standort:freren_bardelstrasse_2_gemarkung_freren_flur_43_flurstueck_2",
     "label": "Projekt",
-    "name": "Freren, Bardelstrasse 2, Gemarkung Freren, Flur 43, Flurstueck 28/1",
-    "projekt_id": "P9031",
-    "display_name": "P9031 - Freren, Bardelstrasse 2, Gemarkung Freren, Flur 43, Flurstueck 28/1",
-    "standort_original": "Freren, Bardelstrasse 2, Gemarkung Freren, Flur 43, Flurstueck 28/1",
-    "gemarkung": "Freren",
-    "flur": "43",
-    "ort": "Freren"
+    "name": "Freren, Bardelstrasse 2, Gemarkung Freren, Flur 43, Flurstueck 28/1"
   },
   {
     "id": "vertrag:cc33edb3",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler XV Schulte Albert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1837,8 +1582,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_xv_schulte_albert",
@@ -1850,17 +1594,13 @@
   {
     "id": "standort:haseluenne_neubau_haehnchenstalle",
     "label": "Projekt",
-    "name": "Haseluenne, Neubau Haehnchenstalle",
-    "projekt_id": "P9032",
-    "display_name": "P9032 - Haseluenne, Neubau Haehnchenstalle",
-    "standort_original": "Haseluenne, Neubau Haehnchenstalle",
-    "ort": "Haseluenne"
+    "name": "Haseluenne, Neubau Haehnchenstalle"
   },
   {
     "id": "vertrag:38eb652a",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler XVI  Lohner Putenmast signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1870,8 +1610,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_xvi_lohner_putenmast_signiert",
@@ -1897,19 +1636,13 @@
   {
     "id": "standort:wietmarschen_speckendick_gemarkung_wietmarschen_flur_5_flurs",
     "label": "Projekt",
-    "name": "Wietmarschen, Speckendick, Gemarkung Wietmarschen, Flur 5, Flurstueck 27/1",
-    "projekt_id": "P9033",
-    "display_name": "P9033 - Wietmarschen, Speckendick, Gemarkung Wietmarschen, Flur 5, Flurstueck 27/1",
-    "standort_original": "Wietmarschen, Speckendick, Gemarkung Wietmarschen, Flur 5, Flurstueck 27/1",
-    "gemarkung": "Wietmarschen",
-    "flur": "5",
-    "ort": "Wietmarschen"
+    "name": "Wietmarschen, Speckendick, Gemarkung Wietmarschen, Flur 5, Flurstueck 27/1"
   },
   {
     "id": "vertrag:0d207c14",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler XVII Lohner Putenmast signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1919,8 +1652,7 @@
     "datum_gefunden": "2018-10-16",
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_xvii_lohner_putenmast_signier",
@@ -1939,19 +1671,13 @@
   {
     "id": "standort:wietmarschen_plakkendiek_gemarkung_wietmarschen_flur_5_flurs",
     "label": "Projekt",
-    "name": "Wietmarschen, Plakkendiek, Gemarkung Wietmarschen, Flur 5, Flurstuecke 4/1, 5/1, 6/1",
-    "projekt_id": "P9034",
-    "display_name": "P9034 - Wietmarschen, Plakkendiek, Gemarkung Wietmarschen, Flur 5, Flurstuecke 4/1, 5/1, 6/1",
-    "standort_original": "Wietmarschen, Plakkendiek, Gemarkung Wietmarschen, Flur 5, Flurstuecke 4/1, 5/1, 6/1",
-    "gemarkung": "Wietmarschen",
-    "flur": "5",
-    "ort": "Wietmarschen"
+    "name": "Wietmarschen, Plakkendiek, Gemarkung Wietmarschen, Flur 5, Flurstuecke 4/1, 5/1, 6/1"
   },
   {
     "id": "vertrag:c21aead8",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnetaler XI-Investment Gemeinschaft Sigiltrastraße signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -1961,8 +1687,7 @@
     "datum_gefunden": "2020",
     "vertragstitel": "Gestattungsvertrag Nr. 1 ueber die Errichtung und den Betrieb einer Photovoltaikanlage sowie deren Erweiterung",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnetaler_xi_investment_gemeinschaft_sig",
@@ -1981,19 +1706,13 @@
   {
     "id": "standort:soegel_sigiltrastrasse_gemarkung_soegel_flur_13",
     "label": "Projekt",
-    "name": "Soegel, Sigiltrastrasse, Gemarkung Soegel, Flur 13",
-    "projekt_id": "P9035",
-    "display_name": "P9035 - Soegel, Sigiltrastrasse, Gemarkung Soegel, Flur 13",
-    "standort_original": "Soegel, Sigiltrastrasse, Gemarkung Soegel, Flur 13",
-    "gemarkung": "Soegel",
-    "flur": "13",
-    "ort": "Soegel"
+    "name": "Soegel, Sigiltrastrasse, Gemarkung Soegel, Flur 13"
   },
   {
     "id": "vertrag:46e788ef",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Spark Heiner Spark Niedenhof GbR Nachtrag signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -2003,8 +1722,7 @@
     "datum_gefunden": "2011-10-20",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage mit Nachtraegen",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_spark_heiner_spark_niedenhof_gbr_nachtrag",
@@ -2023,18 +1741,13 @@
   {
     "id": "standort:vrees_bischofsbr_weg_flur_5_flurst_21_6_in_den_strassen_flur",
     "label": "Projekt",
-    "name": "Vrees, Bischofsbr. Weg (Flur 5, Flurst. 21/6) + In den Strassen (Flur 14, Flurst. 35/4)",
-    "projekt_id": "P9036",
-    "display_name": "P9036 - Vrees, Bischofsbr. Weg (Flur 5, Flurst. 21/6) + In den Strassen (Flur 14, Flurst. 35/4)",
-    "standort_original": "Vrees, Bischofsbr. Weg (Flur 5, Flurst. 21/6) + In den Strassen (Flur 14, Flurst. 35/4)",
-    "flur": "5",
-    "ort": "Vrees"
+    "name": "Vrees, Bischofsbr. Weg (Flur 5, Flurst. 21/6) + In den Strassen (Flur 14, Flurst. 35/4)"
   },
   {
     "id": "vertrag:c7110a7e",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Untiedt Gerd Jansen Bernd signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -2044,8 +1757,7 @@
     "datum_gefunden": "2009",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_untiedt_gerd_jansen_bernd_signiert",
@@ -2071,20 +1783,13 @@
   {
     "id": "standort:middels_westerloog_alter_heerweg_2_3_26607_gemarkung_middels",
     "label": "Projekt",
-    "name": "Middels-Westerloog, Alter Heerweg 2-3, 26607, Gemarkung Middels-Westerloog, Flur 11, Flurstueck 65 tlw.",
-    "projekt_id": "P9037",
-    "display_name": "P9037 - Middels-Westerloog, Alter Heerweg 2-3, 26607, Gemarkung Middels-Westerloog, Flur 11, Flurstueck 65 tlw.",
-    "standort_original": "Middels-Westerloog, Alter Heerweg 2-3, 26607, Gemarkung Middels-Westerloog, Flur 11, Flurstueck 65 tlw.",
-    "plz": "26607",
-    "gemarkung": "Middels-Westerloog",
-    "flur": "11",
-    "ort": "Middels-Westerloog"
+    "name": "Middels-Westerloog, Alter Heerweg 2-3, 26607, Gemarkung Middels-Westerloog, Flur 11, Flurstueck 65 tlw."
   },
   {
     "id": "vertrag:e45f0ca2",
     "label": "Vertrag",
     "name": "Gestattungsvertrag VN Vagedes Bernhard, Guido signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -2094,8 +1799,7 @@
     "datum_gefunden": "2013-06-11",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_vn_vagedes_bernhard_guido_signiert",
@@ -2103,6 +1807,13 @@
     "name": "Gestattungsvertrag VN Vagedes Bernhard, Guido signiert.pdf",
     "dateipfad": "Gestattungsvertraege PV/Gestattungsvertrag VN Vagedes Bernhard, Guido signiert.pdf",
     "seitenzahl": null
+  },
+  {
+    "id": "firma:vagedes_bernhard_vagedes_guido_gebaeudeigentuemer",
+    "label": "Firma",
+    "name": "Vagedes Bernhard / Vagedes Guido (Gebaeudeigentuemer)",
+    "rechtsform": "Privatpersonen",
+    "adresse": "Sprakeler Strasse 55, 49757 Soegel"
   },
   {
     "id": "firma:vn_gbr",
@@ -2114,30 +1825,13 @@
   {
     "id": "standort:soegel_sprakeler_strasse_55_gemarkung_soegel_flur_66_flurstu",
     "label": "Projekt",
-    "name": "Soegel, Sprakeler Strasse 55, Gemarkung Soegel, Flur 66, Flurstueck 62+64",
-    "projekt_id": "P0126",
-    "display_name": "P0126 - VN PV-Anlage Sprakeler Str 55 Sögel 158,84 kWp",
-    "standort_original": "Soegel, Sprakeler Strasse 55, Gemarkung Soegel, Flur 66, Flurstueck 62+64",
-    "projektbereich": "PV",
-    "beschreibung": "PV-Anlage",
-    "leistung_kwp": 158.84,
-    "abrechnung_evu": "Monatlich",
-    "vcom_id": "YBR78",
-    "soll_erzeugung": "Ja",
-    "erzeugung_datum": "2013-08-29 00:00:00",
-    "soll_direktvermarktung": "Ja",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "gemarkung": "Soegel",
-    "flur": "66",
-    "ort": "Soegel"
+    "name": "Soegel, Sprakeler Strasse 55, Gemarkung Soegel, Flur 66, Flurstueck 62+64"
   },
   {
     "id": "vertrag:6827c7f2",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Wilken Wilken, Niedenhof Wilken signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsvertraege PV",
@@ -2147,8 +1841,7 @@
     "datum_gefunden": "2029-12-31",
     "vertragstitel": "Gestattungsvertrag ueber die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": "2029-12-31",
-    "datum_ende_jahr": 2029,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": 2029
   },
   {
     "id": "dokument:gestattungsvertrag_wilken_wilken_niedenhof_wilken_signiert",
@@ -2174,25 +1867,7 @@
   {
     "id": "standort:vrees_linderner_strasse_49757_vrees_gemarkung_vrees_flur_27_",
     "label": "Projekt",
-    "name": "Vrees, Linderner Strasse, 49757 Vrees, Gemarkung Vrees, Flur 27, Flurstueck 63/3, 61 und 64",
-    "projekt_id": "P0128",
-    "display_name": "P0128 - Wilken Wilken Niedenhof Untiedt PV-Anlage Bei der Mühle 1 Vrees 76,86 kWp",
-    "standort_original": "Vrees, Linderner Strasse, 49757 Vrees, Gemarkung Vrees, Flur 27, Flurstueck 63/3, 61 und 64",
-    "projektbereich": "PV",
-    "beschreibung": "PV-Anlage",
-    "leistung_kwp": 76.86,
-    "abrechnung_evu": "Jährlich",
-    "vcom_id": "YBHUN",
-    "soll_erzeugung": "Ja",
-    "erzeugung_datum": "2010-07-14 00:00:00",
-    "soll_direktvermarktung": "Nein",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "plz": "49757",
-    "gemarkung": "Vrees",
-    "flur": "27",
-    "ort": "Vrees"
+    "name": "Vrees, Linderner Strasse, 49757 Vrees, Gemarkung Vrees, Flur 27, Flurstueck 63/3, 61 und 64"
   },
   {
     "id": "vertrag:dfd69eb5",
@@ -2276,6 +1951,13 @@
     "vertragstitel": "Wärmelieferungsvertrag Biogas Büter und Heymann / Lünswilken Josef (Am Sportplatz 6)",
     "datum_ende": null,
     "datum_ende_jahr": null
+  },
+  {
+    "id": "person:l_nswilken_josef_u_sabine",
+    "label": "Person",
+    "name": "Lünswilken Josef u. Sabine",
+    "rechtsform": null,
+    "adresse": "Am Sportplatz 6, 49757 Vrees"
   },
   {
     "id": "vertrag:93aaa20b",
@@ -2425,8 +2107,7 @@
     "label": "Firma",
     "name": "Plaggenborg Dora",
     "rechtsform": null,
-    "adresse": "Am Dorfteich, 49757 Vrees",
-    "ist_natuerliche_person": true
+    "adresse": "Am Dorfteich, 49757 Vrees"
   },
   {
     "id": "vertrag:3dfa0171",
@@ -2456,8 +2137,7 @@
     "label": "Firma",
     "name": "Plaggenborg Martin",
     "rechtsform": null,
-    "adresse": "49757 Vrees",
-    "ist_natuerliche_person": true
+    "adresse": "49757 Vrees"
   },
   {
     "id": "vertrag:dd5d420c",
@@ -2801,10 +2481,17 @@
     "seitenzahl": 2
   },
   {
+    "id": "firma:wraga_iris_und_matthias",
+    "label": "Firma",
+    "name": "Wraga Iris und Matthias",
+    "rechtsform": null,
+    "adresse": "Poststraße 3, 49757 Vrees"
+  },
+  {
     "id": "vertrag:7cf75d9b",
     "label": "Vertrag",
     "name": "Jahresabrechnung 2024 Heymann Alexandra",
-    "vertragsart": "Sonstige",
+    "vertragsart": "Jahresabrechnung",
     "status": "abgerechnet",
     "ist_nachtrag": false,
     "kategorie": "Wärmelieferverträge",
@@ -2814,8 +2501,7 @@
     "datum_gefunden": "2025-01-17",
     "vertragstitel": "Jahresabrechnung 2024 Wärmelieferung Heymann Alexandra",
     "datum_ende": "2024-12-31",
-    "datum_ende_jahr": 2024,
-    "dokument_typ": "Jahresabrechnung"
+    "datum_ende_jahr": 2024
   },
   {
     "id": "dokument:jahresabrechnung_2024_heymann_alexandra",
@@ -2835,7 +2521,7 @@
     "id": "vertrag:d2f697ab",
     "label": "Vertrag",
     "name": "Jahresabrechnung 2024 Hömmken Claudia Zähler 639",
-    "vertragsart": "Sonstige",
+    "vertragsart": "Jahresabrechnung",
     "status": "abgerechnet",
     "ist_nachtrag": false,
     "kategorie": "Wärmelieferverträge",
@@ -2845,8 +2531,7 @@
     "datum_gefunden": "2025-01-16",
     "vertragstitel": "Jahresabrechnung 2024 Wärmelieferung Hömmken Claudia (Zähler 639)",
     "datum_ende": "2024-12-31",
-    "datum_ende_jahr": 2024,
-    "dokument_typ": "Jahresabrechnung"
+    "datum_ende_jahr": 2024
   },
   {
     "id": "dokument:jahresabrechnung_2024_h_mmken_claudia_z_hler_639",
@@ -2866,7 +2551,7 @@
     "id": "vertrag:1ea3b274",
     "label": "Vertrag",
     "name": "Jahresabrechnung 2024 Hömmken Claudia Zähler 919",
-    "vertragsart": "Sonstige",
+    "vertragsart": "Jahresabrechnung",
     "status": "abgerechnet",
     "ist_nachtrag": false,
     "kategorie": "Wärmelieferverträge",
@@ -2876,8 +2561,7 @@
     "datum_gefunden": "2025-01-16",
     "vertragstitel": "Jahresabrechnung 2024 Wärmelieferung Hömmken Claudia (Zähler 919, Am Dorfteich 1)",
     "datum_ende": "2024-12-31",
-    "datum_ende_jahr": 2024,
-    "dokument_typ": "Jahresabrechnung"
+    "datum_ende_jahr": 2024
   },
   {
     "id": "dokument:jahresabrechnung_2024_h_mmken_claudia_z_hler_919",
@@ -2890,7 +2574,7 @@
     "id": "vertrag:0c6cf851",
     "label": "Vertrag",
     "name": "Jahresabrechnung 2024 Kleene Berthold",
-    "vertragsart": "Sonstige",
+    "vertragsart": "Jahresabrechnung",
     "status": "abgerechnet",
     "ist_nachtrag": false,
     "kategorie": "Wärmelieferverträge",
@@ -2900,8 +2584,7 @@
     "datum_gefunden": "2025-01-16",
     "vertragstitel": "Jahresabrechnung 2024 Wärmelieferung Kleene Berthold",
     "datum_ende": "2024-12-31",
-    "datum_ende_jahr": 2024,
-    "dokument_typ": "Jahresabrechnung"
+    "datum_ende_jahr": 2024
   },
   {
     "id": "dokument:jahresabrechnung_2024_kleene_berthold",
@@ -3091,17 +2774,13 @@
   {
     "id": "standort:s_gel",
     "label": "Projekt",
-    "name": "Sögel",
-    "projekt_id": "P9038",
-    "display_name": "P9038 - Sögel",
-    "standort_original": "Sögel",
-    "ort": "Sögel"
+    "name": "Sögel"
   },
   {
     "id": "vertrag:strom_hoemmken_nachtrag",
     "label": "Vertrag",
     "name": "Stromliefervertrag HRN Hömmken Christof Nachtrag",
-    "vertragsart": "Stromliefervertrag",
+    "vertragsart": "Stromliefervertrag (Nachtrag)",
     "status": "aktiv",
     "ist_nachtrag": true,
     "kategorie": "Beispiel Dokumente",
@@ -3183,11 +2862,7 @@
   {
     "id": "standort:sustrum",
     "label": "Projekt",
-    "name": "Sustrum",
-    "projekt_id": "P9039",
-    "display_name": "P9039 - Sustrum",
-    "standort_original": "Sustrum",
-    "ort": "Sustrum"
+    "name": "Sustrum"
   },
   {
     "id": "vertrag:nutzung_arenberg_meppen",
@@ -3229,20 +2904,7 @@
   {
     "id": "standort:windpark_vrees_eleonorenwald",
     "label": "Projekt",
-    "name": "Windpark Vrees / Eleonorenwald",
-    "projekt_id": "P0349",
-    "display_name": "P0349 - TalerWind8.1 Gesellschaft",
-    "standort_original": "Windpark Vrees / Eleonorenwald",
-    "projektbereich": "WIND",
-    "beschreibung": "Gesellschaft",
-    "abrechnung_evu": "Nein",
-    "soll_erzeugung": "Nein",
-    "erzeugung_datum": "2000-01-01 00:00:00",
-    "soll_direktvermarktung": "Nein",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "ort": "Windpark Vrees"
+    "name": "Windpark Vrees / Eleonorenwald"
   },
   {
     "id": "vertrag:nutzung_kronlage",
@@ -3272,8 +2934,7 @@
     "label": "Firma",
     "name": "Kronlage Marcus",
     "rechtsform": "natürliche Person",
-    "adresse": "Heinrichstraße 6, 26909 Neulehe",
-    "ist_natuerliche_person": true
+    "adresse": "Heinrichstraße 6, 26909 Neulehe"
   },
   {
     "id": "firma:windtaler_07_1_gmbh_co_kg",
@@ -3285,20 +2946,7 @@
   {
     "id": "standort:windpark_neulehe",
     "label": "Projekt",
-    "name": "Windpark Neulehe",
-    "projekt_id": "P0339",
-    "display_name": "P0339 - WT 07-1 WEA Kampling Kronlage Neulehe",
-    "standort_original": "Windpark Neulehe",
-    "projektbereich": "WIND",
-    "beschreibung": "WEA Kampling Kronlage",
-    "abrechnung_evu": "Nein",
-    "soll_erzeugung": "Nein",
-    "erzeugung_datum": "2000-01-01 00:00:00",
-    "soll_direktvermarktung": "Nein",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "ort": "Windpark Neulehe"
+    "name": "Windpark Neulehe"
   },
   {
     "id": "vertrag:nutzung_marka_kemper_nuesse",
@@ -3328,17 +2976,12 @@
     "label": "Firma",
     "name": "Kemper Berendina / Nüsse Traute Johanne",
     "rechtsform": "natürliche Personen (GbR: Kemper & Nüsse GbR)",
-    "adresse": "Kemper: Am Kanal 14, 49828 Georgsdorf / Nüsse: Buchenstraße 8, 49828 Georgsdorf",
-    "ist_natuerliche_person": true
+    "adresse": "Kemper: Am Kanal 14, 49828 Georgsdorf / Nüsse: Buchenstraße 8, 49828 Georgsdorf"
   },
   {
     "id": "standort:georgsdorf_ostende_91",
     "label": "Projekt",
-    "name": "Georgsdorf, Ostende 91",
-    "projekt_id": "P9040",
-    "display_name": "P9040 - Georgsdorf, Ostende 91",
-    "standort_original": "Georgsdorf, Ostende 91",
-    "ort": "Georgsdorf"
+    "name": "Georgsdorf, Ostende 91"
   },
   {
     "id": "vertrag:nutzung_sandmann_sonnentaler",
@@ -3373,11 +3016,7 @@
   {
     "id": "standort:l_hden",
     "label": "Projekt",
-    "name": "Lähden",
-    "projekt_id": "P9041",
-    "display_name": "P9041 - Lähden",
-    "standort_original": "Lähden",
-    "ort": "Lähden"
+    "name": "Lähden"
   },
   {
     "id": "vertrag:nutzung_hempen",
@@ -3442,12 +3081,7 @@
   {
     "id": "standort:eichenbrink_6_49757_vrees",
     "label": "Projekt",
-    "name": "Eichenbrink 6, 49757 Vrees",
-    "projekt_id": "P9042",
-    "display_name": "P9042 - Eichenbrink 6, 49757 Vrees",
-    "standort_original": "Eichenbrink 6, 49757 Vrees",
-    "plz": "49757",
-    "ort": "Eichenbrink"
+    "name": "Eichenbrink 6, 49757 Vrees"
   },
   {
     "id": "vertrag:miet_eichenbrink6_malinowski",
@@ -3593,14 +3227,16 @@
     "seitenzahl": 4
   },
   {
+    "id": "person:kleene_christine_k_nig_henning",
+    "label": "Person",
+    "name": "Kleene Christine, König Henning",
+    "rechtsform": "Privatperson",
+    "adresse": "Bürgerstraße 32, 26123 Oldenburg"
+  },
+  {
     "id": "standort:raiffeisenstra_e_5_49757_vrees",
     "label": "Projekt",
-    "name": "Raiffeisenstraße 5, 49757 Vrees",
-    "projekt_id": "P9043",
-    "display_name": "P9043 - Raiffeisenstraße 5, 49757 Vrees",
-    "standort_original": "Raiffeisenstraße 5, 49757 Vrees",
-    "plz": "49757",
-    "ort": "Raiffeisenstraße"
+    "name": "Raiffeisenstraße 5, 49757 Vrees"
   },
   {
     "id": "vertrag:miet_vonmueller24_we5_kerkhoff",
@@ -3635,12 +3271,7 @@
   {
     "id": "standort:von_m_ller_stra_e_24_26123_oldenburg",
     "label": "Projekt",
-    "name": "Von-Müller-Straße 24, 26123 Oldenburg",
-    "projekt_id": "P9044",
-    "display_name": "P9044 - Von-Müller-Straße 24, 26123 Oldenburg",
-    "standort_original": "Von-Müller-Straße 24, 26123 Oldenburg",
-    "plz": "26123",
-    "ort": "Von-Müller-Straße"
+    "name": "Von-Müller-Straße 24, 26123 Oldenburg"
   },
   {
     "id": "vertrag:miet_vonmueller24_1ogl_lewin",
@@ -3733,6 +3364,13 @@
     "adresse": "Von-Müller-Str. 24, 26123 Oldenburg"
   },
   {
+    "id": "person:b_sing_detlev_b_sing_petra",
+    "label": "Person",
+    "name": "Büsing Detlev, Büsing Petra",
+    "rechtsform": "Privatperson",
+    "adresse": "Nadorster Straße 314, 26125 Oldenburg"
+  },
+  {
     "id": "vertrag:miet_vonmueller24_egr_steineck",
     "label": "Vertrag",
     "name": "Mietvertrag Von Müller Str 24 Oldenburg Niedenhof Andrea Steineck Manfred sign",
@@ -3754,6 +3392,13 @@
     "name": "Mietvertrag Von Müller Str 24 Oldenburg Niedenhof Andrea Steineck Manfred sign.pdf",
     "dateipfad": "Mietverträge/Von Müller Str 24 OL/Mietvertrag Von Müller Str 24 Oldenburg Niedenhof Andrea Steineck Manfred sign.pdf",
     "seitenzahl": 5
+  },
+  {
+    "id": "person:steineck_manfred_mular_irena",
+    "label": "Person",
+    "name": "Steineck Manfred, Mular Irena",
+    "rechtsform": "Privatperson",
+    "adresse": "Ellernstraße 37, 27751 Delmenhorst"
   },
   {
     "id": "vertrag:sonstig_kaufvertrag_en_gbr",
@@ -3813,8 +3458,7 @@
     "label": "Firma",
     "name": "Niedenhof Detlef",
     "rechtsform": "Privatperson / Inh. Sonnen Taler III",
-    "adresse": "Dosenweg 9, 49757 Vrees",
-    "ist_natuerliche_person": true
+    "adresse": "Dosenweg 9, 49757 Vrees"
   },
   {
     "id": "person:kebschull_uwe",
@@ -3857,7 +3501,7 @@
     "id": "vertrag:sonstig_nachtrag_sonnentaler_iii_andrea",
     "label": "Vertrag",
     "name": "Sonnentaler III-Andrea Niedenhof Nachtrag",
-    "vertragsart": "Kaufvertrag",
+    "vertragsart": "Kaufvertrag (Nachtrag)",
     "status": "aktiv",
     "ist_nachtrag": true,
     "kategorie": "xx Verträge gescannt",
@@ -3887,7 +3531,7 @@
     "id": "vertrag:sonstig_nachtrag_sonnentaler_viii_flerlage",
     "label": "Vertrag",
     "name": "Sonnentaler VIII-Flerlage Geflügelzucht Nachtag",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (Nachtrag)",
     "status": "aktiv",
     "ist_nachtrag": true,
     "kategorie": "xx Verträge gescannt",
@@ -3909,11 +3553,7 @@
   {
     "id": "standort:werlte_wehm",
     "label": "Projekt",
-    "name": "Werlte-Wehm",
-    "projekt_id": "P9045",
-    "display_name": "P9045 - Werlte-Wehm",
-    "standort_original": "Werlte-Wehm",
-    "ort": "Werlte-Wehm"
+    "name": "Werlte-Wehm"
   },
   {
     "id": "vertrag:sonstig_kaufvertrag_stadtwerke_wesel",
@@ -3948,11 +3588,7 @@
   {
     "id": "standort:wesel_emmericher_stra_e_11_29",
     "label": "Projekt",
-    "name": "Wesel, Emmericher Straße 11-29",
-    "projekt_id": "P9046",
-    "display_name": "P9046 - Wesel, Emmericher Straße 11-29",
-    "standort_original": "Wesel, Emmericher Straße 11-29",
-    "ort": "Wesel"
+    "name": "Wesel, Emmericher Straße 11-29"
   },
   {
     "id": "vertrag:sonstig_unterpacht_untiedt",
@@ -3987,19 +3623,13 @@
   {
     "id": "standort:vrees_gemarkung_vrees_flur_29_flurst_ck_11_6",
     "label": "Projekt",
-    "name": "Vrees, Gemarkung Vrees Flur 29 Flurstück 11/6",
-    "projekt_id": "P9047",
-    "display_name": "P9047 - Vrees, Gemarkung Vrees Flur 29 Flurstück 11/6",
-    "standort_original": "Vrees, Gemarkung Vrees Flur 29 Flurstück 11/6",
-    "gemarkung": "Vrees Flur 29 Flurstück 11/6",
-    "flur": "29",
-    "ort": "Vrees"
+    "name": "Vrees, Gemarkung Vrees Flur 29 Flurstück 11/6"
   },
   {
     "id": "vertrag:gestattung_pv_janssen_sonnentaler_ix",
     "label": "Vertrag",
     "name": "Gestattungsvertrag  Janssen Andreas, Hans Sonnentaler IX signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4009,8 +3639,7 @@
     "datum_gefunden": "2012-09-05",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_janssen_andreas_hans_sonnentaler_ix_signi",
@@ -4036,11 +3665,7 @@
   {
     "id": "standort:werlte_lstrasse_17",
     "label": "Projekt",
-    "name": "Werlte, Ölstrasse 17",
-    "projekt_id": "P9048",
-    "display_name": "P9048 - Werlte, Ölstrasse 17",
-    "standort_original": "Werlte, Ölstrasse 17",
-    "ort": "Werlte"
+    "name": "Werlte, Ölstrasse 17"
   },
   {
     "id": "anlage:pv_werlte_lstrasse_17_190",
@@ -4054,7 +3679,7 @@
     "id": "vertrag:gestattung_pv_niedenhof_goeken",
     "label": "Vertrag",
     "name": "Gestattungsvertrag  Niedenhof Detlef Göken Gerhard signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4064,8 +3689,7 @@
     "datum_gefunden": "2016-07-28",
     "vertragstitel": "Gestattungsvertrag Nr. 1 über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_niedenhof_detlef_g_ken_gerhard_signiert",
@@ -4084,13 +3708,7 @@
   {
     "id": "standort:b_sel_th_ler_strasse_11_gemarkung_b_sel_flur_52_flurst_ck_29",
     "label": "Projekt",
-    "name": "Bösel, Thüler Strasse 11, Gemarkung Bösel Flur 52 Flurstück 29",
-    "projekt_id": "P9049",
-    "display_name": "P9049 - Bösel, Thüler Strasse 11, Gemarkung Bösel Flur 52 Flurstück 29",
-    "standort_original": "Bösel, Thüler Strasse 11, Gemarkung Bösel Flur 52 Flurstück 29",
-    "gemarkung": "Bösel Flur 52 Flurstück 29",
-    "flur": "52",
-    "ort": "Bösel"
+    "name": "Bösel, Thüler Strasse 11, Gemarkung Bösel Flur 52 Flurstück 29"
   },
   {
     "id": "anlage:pv_b_sel_th_ler_strasse_11_gema_990",
@@ -4104,7 +3722,7 @@
     "id": "vertrag:gestattung_pv_untied_kossen",
     "label": "Vertrag",
     "name": "Gestattungsvertrag  Untied Gerd Kossen Birgit signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4114,8 +3732,7 @@
     "datum_gefunden": "2013-03-08",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_untied_gerd_kossen_birgit_signiert",
@@ -4134,11 +3751,7 @@
   {
     "id": "standort:surwold_schleusenstra_e_82",
     "label": "Projekt",
-    "name": "Surwold, Schleusenstraße 82",
-    "projekt_id": "P9050",
-    "display_name": "P9050 - Surwold, Schleusenstraße 82",
-    "standort_original": "Surwold, Schleusenstraße 82",
-    "ort": "Surwold"
+    "name": "Surwold, Schleusenstraße 82"
   },
   {
     "id": "anlage:pv_surwold_schleusenstra_e_82_50",
@@ -4152,7 +3765,7 @@
     "id": "vertrag:gestattung_pv_andrea_niedenhof_lhh_roehlertwist",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Andrea Niedenhof LHH Röhlertwist signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4162,8 +3775,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_andrea_niedenhof_lhh_r_hlertwist_signiert",
@@ -4177,17 +3789,12 @@
     "label": "Firma",
     "name": "LHH Rühlertwist",
     "rechtsform": "Unternehmen",
-    "adresse": "Alt-Rühlertwist 76 A, 49767 Twist",
-    "ist_natuerliche_person": true
+    "adresse": "Alt-Rühlertwist 76 A, 49767 Twist"
   },
   {
     "id": "standort:twist_alt_r_hlertwist_76_a",
     "label": "Projekt",
-    "name": "Twist, Alt-Rühlertwist 76 A",
-    "projekt_id": "P9051",
-    "display_name": "P9051 - Twist, Alt-Rühlertwist 76 A",
-    "standort_original": "Twist, Alt-Rühlertwist 76 A",
-    "ort": "Twist"
+    "name": "Twist, Alt-Rühlertwist 76 A"
   },
   {
     "id": "anlage:pv_twist_alt_r_hlertwist_76_a_180",
@@ -4201,7 +3808,7 @@
     "id": "vertrag:gestattung_pv_bn_blinzenberg_bueter",
     "label": "Vertrag",
     "name": "Gestattungsvertrag BN Blinzenberg Büter Wilhelm signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4211,8 +3818,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_bn_blinzenberg_b_ter_wilhelm_signiert",
@@ -4224,22 +3830,7 @@
   {
     "id": "standort:vrees_gehlenberger_weg_131",
     "label": "Projekt",
-    "name": "Vrees, Gehlenberger Weg 131",
-    "projekt_id": "P0031",
-    "display_name": "P0031 - BN Blinzenberg PV-Anlage Gehlenberger Weg 131 Vrees 660,14 kWp",
-    "standort_original": "Vrees, Gehlenberger Weg 131",
-    "projektbereich": "PV",
-    "beschreibung": "PV-Anlage",
-    "leistung_kwp": 660.14,
-    "abrechnung_evu": "Monatlich",
-    "vcom_id": "1CNBZ",
-    "soll_erzeugung": "Ja",
-    "erzeugung_datum": "2016-08-01 00:00:00",
-    "soll_direktvermarktung": "Ja",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "ort": "Vrees"
+    "name": "Vrees, Gehlenberger Weg 131"
   },
   {
     "id": "anlage:pv_vrees_gehlenberger_weg_131_700",
@@ -4253,7 +3844,7 @@
     "id": "vertrag:gestattung_pv_kemper_nuesse_niedenhof",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Berendina Kemper Traute Nüsse Johanne Niedenhof Detlef signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4263,8 +3854,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_berendina_kemper_traute_n_sse_johanne_nie",
@@ -4272,6 +3862,13 @@
     "name": "Gestattungsvertrag Berendina Kemper Traute Nüsse Johanne Niedenhof Detlef signiert.pdf",
     "dateipfad": "Gestattungsverträge PV/Gestattungsvertrag Berendina Kemper Traute Nüsse Johanne Niedenhof Detlef signiert.pdf",
     "seitenzahl": 7
+  },
+  {
+    "id": "person:kemper_berendina_n_sse_traute_johanne",
+    "label": "Person",
+    "name": "Kemper Berendina / Nüsse Traute Johanne",
+    "rechtsform": "Privatpersonen",
+    "adresse": "Am Kanal 14 / Buchenstrasse 8, 49828 Georgsdorf"
   },
   {
     "id": "anlage:pv_georgsdorf_ostende_91_160",
@@ -4285,7 +3882,7 @@
     "id": "vertrag:gestattung_pv_bioenergie_witte_moor_2",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert 2",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4295,8 +3892,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_bioenergie_witte_moor_witte_moor_photovol",
@@ -4315,23 +3911,7 @@
   {
     "id": "standort:vrees_witte_moor_flur_27",
     "label": "Projekt",
-    "name": "Vrees, Witte Moor, Flur 27",
-    "projekt_id": "P0210",
-    "display_name": "P0210 - Witte Moor Photovoltaik PV-Anlage Witte Moor 999 Vrees 22,56 kWp",
-    "standort_original": "Vrees, Witte Moor, Flur 27",
-    "projektbereich": "PV",
-    "beschreibung": "PV-Anlage",
-    "leistung_kwp": 22.56,
-    "abrechnung_evu": "Monatlich",
-    "vcom_id": "3EGGB",
-    "soll_erzeugung": "Ja",
-    "erzeugung_datum": "2010-04-21 00:00:00",
-    "soll_direktvermarktung": "Nein",
-    "direktvermarktung_datum": "2010-04-21 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2010-04-21 00:00:00",
-    "flur": "27",
-    "ort": "Vrees"
+    "name": "Vrees, Witte Moor, Flur 27"
   },
   {
     "id": "anlage:pv_vrees_witte_moor_flur_27_24",
@@ -4345,7 +3925,7 @@
     "id": "vertrag:gestattung_pv_bioenergie_witte_moor_1",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Bioenergie Witte Moor Witte Moor Photovoltaik signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4355,14 +3935,13 @@
     "datum_gefunden": "2017-07-18",
     "vertragstitel": "Gestattungsvertrag Nr. 1 über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "vertrag:gestattung_pv_hrn_solar_hoemmken",
     "label": "Vertrag",
     "name": "Gestattungsvertrag HRN Solar Hömmken Bernhard",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4372,8 +3951,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag Nr. 1 über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_hrn_solar_h_mmken_bernhard",
@@ -4392,22 +3970,7 @@
   {
     "id": "standort:vrees_bischofsbr_weg",
     "label": "Projekt",
-    "name": "Vrees, Bischofsbr. Weg",
-    "projekt_id": "P0035",
-    "display_name": "P0035 - HRN Solar PV-Anlage Bischofsbrücker Weg 100 Vrees 455,7 kWp",
-    "standort_original": "Vrees, Bischofsbr. Weg",
-    "projektbereich": "PV",
-    "beschreibung": "PV-Anlage",
-    "leistung_kwp": 455.7,
-    "abrechnung_evu": "Monatlich",
-    "vcom_id": "EUZ1V",
-    "soll_erzeugung": "Ja",
-    "erzeugung_datum": "2020-08-24 00:00:00",
-    "soll_direktvermarktung": "Ja",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "ort": "Vrees"
+    "name": "Vrees, Bischofsbr. Weg"
   },
   {
     "id": "anlage:pv_vrees_bischofsbr_weg_550",
@@ -4421,7 +3984,7 @@
     "id": "vertrag:gestattung_pv_janssen_niedenhof",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Janssen Andreas Janssen Niedenhof signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4431,8 +3994,7 @@
     "datum_gefunden": "2012-09-05",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_janssen_andreas_janssen_niedenhof_signier",
@@ -4467,7 +4029,7 @@
     "id": "vertrag:gestattung_pv_kempel_nuesse_niedenhof",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Kempel Berendina Nüsse Traute Nüsse Johanne Niedenhof Detlef signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4477,8 +4039,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag Nummer: 1 über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_kempel_berendina_n_sse_traute_n_sse_johan",
@@ -4491,7 +4052,7 @@
     "id": "vertrag:gestattung_pv_kirschner_niedenhof",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Kirschner, Niedenhof Kirschner Heinz signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4501,8 +4062,7 @@
     "datum_gefunden": "2009-12-18",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_kirschner_niedenhof_kirschner_heinz_signi",
@@ -4530,7 +4090,7 @@
     "id": "vertrag:gestattung_pv_lhh_roehlertwist_niedenhof_andrea",
     "label": "Vertrag",
     "name": "Gestattungsvertrag LHH Rühlertwist Niedenhof Andrea signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4540,8 +4100,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_lhh_r_hlertwist_niedenhof_andrea_signiert",
@@ -4553,11 +4112,7 @@
   {
     "id": "standort:twist_alt_r_hlertwist_76a",
     "label": "Projekt",
-    "name": "Twist, Alt-Rühlertwist 76A",
-    "projekt_id": "P9052",
-    "display_name": "P9052 - Twist, Alt-Rühlertwist 76A",
-    "standort_original": "Twist, Alt-Rühlertwist 76A",
-    "ort": "Twist"
+    "name": "Twist, Alt-Rühlertwist 76A"
   },
   {
     "id": "anlage:pv_twist_alt_r_hlertwist_76a_180",
@@ -4571,7 +4126,7 @@
     "id": "vertrag:gestattung_pv_nn_solar_nannen",
     "label": "Vertrag",
     "name": "Gestattungsvertrag NN Solar GbR Nannen Ludger signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4581,8 +4136,7 @@
     "datum_gefunden": "2019-06-01",
     "vertragstitel": "Gestattungsvertrag Nr. 1 über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_nn_solar_gbr_nannen_ludger_signiert",
@@ -4601,22 +4155,7 @@
   {
     "id": "standort:vrees_werlter_stra_e_6",
     "label": "Projekt",
-    "name": "Vrees, Werlter Straße 6",
-    "projekt_id": "P0067",
-    "display_name": "P0067 - NN Solar PV-Anlage Werlter Str 8 Vrees 87,72 kWp",
-    "standort_original": "Vrees, Werlter Straße 6",
-    "projektbereich": "PV",
-    "beschreibung": "PV-Anlage",
-    "leistung_kwp": 87.72,
-    "abrechnung_evu": "Jährlich",
-    "vcom_id": "LG4L7",
-    "soll_erzeugung": "Ja",
-    "erzeugung_datum": "2020-07-10 00:00:00",
-    "soll_direktvermarktung": "Nein",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "ort": "Vrees"
+    "name": "Vrees, Werlter Straße 6"
   },
   {
     "id": "anlage:pv_vrees_werlter_stra_e_6_99",
@@ -4630,7 +4169,7 @@
     "id": "vertrag:gestattung_pv_niedenhof_andrea_hollander_werner",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Niedenhof Andrea Hollander Werner signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4640,8 +4179,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_niedenhof_andrea_hollander_werner_signier",
@@ -4653,11 +4191,7 @@
   {
     "id": "standort:westerholt_im_gewerbegebiet_13",
     "label": "Projekt",
-    "name": "Westerholt, Im Gewerbegebiet 13",
-    "projekt_id": "P9053",
-    "display_name": "P9053 - Westerholt, Im Gewerbegebiet 13",
-    "standort_original": "Westerholt, Im Gewerbegebiet 13",
-    "ort": "Westerholt"
+    "name": "Westerholt, Im Gewerbegebiet 13"
   },
   {
     "id": "anlage:pv_westerholt_im_gewerbegebiet_1_100",
@@ -4671,7 +4205,7 @@
     "id": "vertrag:gestattung_pv_niedenhof_andrea_lueken",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Niedenhof Andrea Lüken Martin signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4681,8 +4215,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag Nummer: 1 über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_niedenhof_andrea_l_ken_martin_signiert",
@@ -4701,11 +4234,7 @@
   {
     "id": "standort:twist_an_der_wieke_76_a",
     "label": "Projekt",
-    "name": "Twist, An der Wieke 76 A",
-    "projekt_id": "P9054",
-    "display_name": "P9054 - Twist, An der Wieke 76 A",
-    "standort_original": "Twist, An der Wieke 76 A",
-    "ort": "Twist"
+    "name": "Twist, An der Wieke 76 A"
   },
   {
     "id": "anlage:pv_twist_an_der_wieke_76_a_700",
@@ -4719,7 +4248,7 @@
     "id": "vertrag:gestattung_pv_niedenhof_behrens_kossen",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Niedenhof Detlef Behrens Kossen signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4729,8 +4258,7 @@
     "datum_gefunden": "2012-02-28",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_niedenhof_detlef_behrens_kossen_signiert",
@@ -4765,7 +4293,7 @@
     "id": "vertrag:gestattung_pv_niedenhof_kroeger",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Niedenhof Detlef Kröger Franz signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4775,8 +4303,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_niedenhof_detlef_kr_ger_franz_signiert",
@@ -4796,7 +4323,7 @@
     "id": "vertrag:gestattung_pv_niedenhof_steenken",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Niedenhof Detlef Steenken Hermann signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4806,8 +4333,7 @@
     "datum_gefunden": "2011-05-23",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_niedenhof_detlef_steenken_hermann_signier",
@@ -4835,7 +4361,7 @@
     "id": "vertrag:gestattung_pv_peters_immobilien_peters_niedenhof",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Peters Immobilien Peters Niedenhof signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4845,8 +4371,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_peters_immobilien_peters_niedenhof_signie",
@@ -4881,7 +4406,7 @@
     "id": "vertrag:gestattung_pv_peters_niedenhof_peters",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Peters Niedenhof Peters signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4891,8 +4416,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_peters_niedenhof_peters_signiert",
@@ -4920,7 +4444,7 @@
     "id": "vertrag:gestattung_pv_peters_werner_sandland",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Peters Werner Sandland signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4930,8 +4454,7 @@
     "datum_gefunden": "2011-07-28",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_peters_werner_sandland_signiert",
@@ -4957,22 +4480,7 @@
   {
     "id": "standort:vrees_gehlenberger_weg_39",
     "label": "Projekt",
-    "name": "Vrees, Gehlenberger Weg 39",
-    "projekt_id": "P0073",
-    "display_name": "P0073 - Sandland PV-Anlage GWG Peheimer Str Vrees 549,9 kWp",
-    "standort_original": "Vrees, Gehlenberger Weg 39",
-    "projektbereich": "PV",
-    "beschreibung": "PV-Anlage",
-    "leistung_kwp": 549.9,
-    "abrechnung_evu": "Monatlich",
-    "vcom_id": "PE37A",
-    "soll_erzeugung": "Ja",
-    "erzeugung_datum": "2011-12-29 00:00:00",
-    "soll_direktvermarktung": "Ja",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "ort": "Vrees"
+    "name": "Vrees, Gehlenberger Weg 39"
   },
   {
     "id": "anlage:pv_vrees_gehlenberger_weg_39_542",
@@ -4986,7 +4494,7 @@
     "id": "vertrag:gestattung_pv_snw_solar_wilken_spark",
     "label": "Vertrag",
     "name": "Gestattungsvertrag SNW Solar Wilken und Spark Agrar signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -4996,8 +4504,7 @@
     "datum_gefunden": "2016-12-01",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_snw_solar_wilken_und_spark_agrar_signiert",
@@ -5016,22 +4523,7 @@
   {
     "id": "standort:vrees_linderner_strasse_23",
     "label": "Projekt",
-    "name": "Vrees, Linderner Strasse 23",
-    "projekt_id": "P0079",
-    "display_name": "P0079 - SNW Solar PV-Anlage Witte Moor 999 Vrees 205,4 kWp",
-    "standort_original": "Vrees, Linderner Strasse 23",
-    "projektbereich": "PV",
-    "beschreibung": "PV-Anlage",
-    "leistung_kwp": 205.4,
-    "abrechnung_evu": "Monatlich",
-    "vcom_id": "56NN8",
-    "soll_erzeugung": "Ja",
-    "erzeugung_datum": "2017-05-19 00:00:00",
-    "soll_direktvermarktung": "Ja",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "ort": "Vrees"
+    "name": "Vrees, Linderner Strasse 23"
   },
   {
     "id": "anlage:pv_vrees_linderner_strasse_23_205",
@@ -5045,7 +4537,7 @@
     "id": "vertrag:gestattung_pv_sonnentaler_hera",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler HERA Holztechnik signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -5055,8 +4547,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_hera_holztechnik_signiert",
@@ -5070,8 +4561,7 @@
     "label": "Firma",
     "name": "HERA Holztechnik",
     "rechtsform": "Unternehmen",
-    "adresse": "Vinnen",
-    "ist_natuerliche_person": true
+    "adresse": "Vinnen"
   },
   {
     "id": "firma:sonnentaler",
@@ -5083,11 +4573,7 @@
   {
     "id": "standort:vinnen",
     "label": "Projekt",
-    "name": "Vinnen",
-    "projekt_id": "P9055",
-    "display_name": "P9055 - Vinnen",
-    "standort_original": "Vinnen",
-    "ort": "Vinnen"
+    "name": "Vinnen"
   },
   {
     "id": "anlage:pv_vinnen_90",
@@ -5101,7 +4587,7 @@
     "id": "vertrag:gestattung_pv_sonnentaler_i_wiehebrink",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler I  Wiehebrink Ernst",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -5111,8 +4597,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_i_wiehebrink_ernst",
@@ -5138,11 +4623,7 @@
   {
     "id": "standort:garrel_garreler_str_21",
     "label": "Projekt",
-    "name": "Garrel, Garreler Str. 21",
-    "projekt_id": "P9056",
-    "display_name": "P9056 - Garrel, Garreler Str. 21",
-    "standort_original": "Garrel, Garreler Str. 21",
-    "ort": "Garrel"
+    "name": "Garrel, Garreler Str. 21"
   },
   {
     "id": "anlage:pv_garrel_garreler_str_21_65",
@@ -5156,7 +4637,7 @@
     "id": "vertrag:gestattung_pv_sonnentaler_i_gts_borgmann",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler I GTS Borgmann signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -5166,8 +4647,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_i_gts_borgmann_signiert",
@@ -5181,8 +4661,7 @@
     "label": "Firma",
     "name": "Borgmann (GTS)",
     "rechtsform": "Unternehmen",
-    "adresse": null,
-    "ist_natuerliche_person": true
+    "adresse": null
   },
   {
     "id": "firma:sonnentaler_01_gmbh_co_kg",
@@ -5203,7 +4682,7 @@
     "id": "vertrag:gestattung_pv_sonnentaler_i_kremes",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler I Kremes Gezienus, Kiena signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -5213,8 +4692,7 @@
     "datum_gefunden": "2011-12-12",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_i_kremes_gezienus_kiena_signi",
@@ -5224,13 +4702,16 @@
     "seitenzahl": 5
   },
   {
+    "id": "person:kremers_gezienus_und_kiena",
+    "label": "Person",
+    "name": "Kremers Gezienus und Kiena",
+    "rechtsform": "Privatpersonen",
+    "adresse": "Großwolderstr. 106, 26810 Westoverledingen"
+  },
+  {
     "id": "standort:westoverledingen_ihrhove",
     "label": "Projekt",
-    "name": "Westoverledingen / Ihrhove",
-    "projekt_id": "P9057",
-    "display_name": "P9057 - Westoverledingen / Ihrhove",
-    "standort_original": "Westoverledingen / Ihrhove",
-    "ort": "Westoverledingen /"
+    "name": "Westoverledingen / Ihrhove"
   },
   {
     "id": "anlage:pv_westoverledingen_ihrhove_100",
@@ -5244,7 +4725,7 @@
     "id": "vertrag:gestattung_pv_sonnentaler_i_quappen_nachtrag",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler I Quappen Immobilien Nachtrag signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": true,
     "kategorie": "Gestattungsverträge PV",
@@ -5254,8 +4735,7 @@
     "datum_gefunden": "2009-09-25",
     "vertragstitel": "Nachtrag zum Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage vom 28.08.2009",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_i_quappen_immobilien_nachtrag",
@@ -5276,7 +4756,7 @@
     "id": "vertrag:gestattung_pv_sonnentaler_ii_rosen",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler II Erbengemeinschaft Rosen Gerda, Ralf signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -5286,8 +4766,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_ii_erbengemeinschaft_rosen_ge",
@@ -5313,22 +4792,7 @@
   {
     "id": "standort:werlte_schmiedestra_e_6",
     "label": "Projekt",
-    "name": "Werlte, Schmiedestraße 6",
-    "projekt_id": "P0080",
-    "display_name": "P0080 - Sonnentaler 02 PV-Anlage GWG Peheimer Str 8 Vrees 95,92 kWp",
-    "standort_original": "Werlte, Schmiedestraße 6",
-    "projektbereich": "PV",
-    "beschreibung": "PV-Anlage",
-    "leistung_kwp": 95.92,
-    "abrechnung_evu": "Monatlich",
-    "vcom_id": "LKT7Y",
-    "soll_erzeugung": "Ja",
-    "erzeugung_datum": "2009-01-28 00:00:00",
-    "soll_direktvermarktung": "Ja",
-    "direktvermarktung_datum": "2000-01-01 00:00:00",
-    "soll_redispatch": "Nein",
-    "redispatch_datum": "2000-01-01 00:00:00",
-    "ort": "Werlte"
+    "name": "Werlte, Schmiedestraße 6"
   },
   {
     "id": "anlage:pv_werlte_schmiedestra_e_6_210",
@@ -5342,7 +4806,7 @@
     "id": "vertrag:gestattung_pv_sonnentaler_iii_jungsthofel_bernhard",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler III Jungsthöfel Bernhard signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -5352,8 +4816,7 @@
     "datum_gefunden": "2010-04-22",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_iii_jungsth_fel_bernhard_sign",
@@ -5372,11 +4835,7 @@
   {
     "id": "standort:gehlenberg",
     "label": "Projekt",
-    "name": "Gehlenberg",
-    "projekt_id": "P9058",
-    "display_name": "P9058 - Gehlenberg",
-    "standort_original": "Gehlenberg",
-    "ort": "Gehlenberg"
+    "name": "Gehlenberg"
   },
   {
     "id": "anlage:pv_gehlenberg_99",
@@ -5390,7 +4849,7 @@
     "id": "vertrag:gestattung_pv_sonnentaler_iii_jungsthofel_jan",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler III Jungsthöfel Jan signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -5400,8 +4859,7 @@
     "datum_gefunden": "2010-04-21",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_iii_jungsth_fel_jan_signiert",
@@ -5429,7 +4887,7 @@
     "id": "vertrag:gestattung_pv_sonnentaler_v_bueter_helmut",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Büter Helmut signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -5439,8 +4897,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_b_ter_helmut_signiert",
@@ -5459,11 +4916,7 @@
   {
     "id": "standort:esterwegen_heidbr_cker_str_9a",
     "label": "Projekt",
-    "name": "Esterwegen, Heidbrücker Str. 9A",
-    "projekt_id": "P9059",
-    "display_name": "P9059 - Esterwegen, Heidbrücker Str. 9A",
-    "standort_original": "Esterwegen, Heidbrücker Str. 9A",
-    "ort": "Esterwegen"
+    "name": "Esterwegen, Heidbrücker Str. 9A"
   },
   {
     "id": "anlage:pv_esterwegen_heidbr_cker_str_9_330",
@@ -5477,7 +4930,7 @@
     "id": "vertrag:gestattung_pv_sonnentaler_v_hoesen",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Hoesen Karl Heinz signiert",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -5487,8 +4940,7 @@
     "datum_gefunden": "",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_hoesen_karl_heinz_signiert",
@@ -5498,13 +4950,16 @@
     "seitenzahl": 6
   },
   {
+    "id": "person:hoesen_karl_heinz_hoesen_hans_j_rgen",
+    "label": "Person",
+    "name": "Hoesen Karl Heinz / Hoesen Hans-Jürgen",
+    "rechtsform": "Privatpersonen",
+    "adresse": "Hauptstr 18a, Sustrum"
+  },
+  {
     "id": "standort:sustrum_hauptstr_18a",
     "label": "Projekt",
-    "name": "Sustrum, Hauptstr 18a",
-    "projekt_id": "P9060",
-    "display_name": "P9060 - Sustrum, Hauptstr 18a",
-    "standort_original": "Sustrum, Hauptstr 18a",
-    "ort": "Sustrum"
+    "name": "Sustrum, Hauptstr 18a"
   },
   {
     "id": "anlage:pv_sustrum_hauptstr_18a_1000",
@@ -5518,7 +4973,7 @@
     "id": "vertrag:gestattung_pv_sonnentaler_v_hollander_jakob",
     "label": "Vertrag",
     "name": "Gestattungsvertrag Sonnentaler V Hollander Jakob signiert 2",
-    "vertragsart": "Gestattungsvertrag",
+    "vertragsart": "Gestattungsvertrag (PV-Dachanlage)",
     "status": "aktiv",
     "ist_nachtrag": false,
     "kategorie": "Gestattungsverträge PV",
@@ -5528,8 +4983,7 @@
     "datum_gefunden": "2011-12-22",
     "vertragstitel": "Gestattungsvertrag über die Errichtung und den Betrieb einer Photovoltaikanlage",
     "datum_ende": null,
-    "datum_ende_jahr": null,
-    "vertragsart_subtyp": "PV-Dachanlage"
+    "datum_ende_jahr": null
   },
   {
     "id": "dokument:gestattungsvertrag_sonnentaler_v_hollander_jakob_signiert_2",
@@ -5541,11 +4995,7 @@
   {
     "id": "standort:esens_seilerstra_e_20",
     "label": "Projekt",
-    "name": "Esens, Seilerstraße 20",
-    "projekt_id": "P9061",
-    "display_name": "P9061 - Esens, Seilerstraße 20",
-    "standort_original": "Esens, Seilerstraße 20",
-    "ort": "Esens"
+    "name": "Esens, Seilerstraße 20"
   },
   {
     "id": "anlage:pv_esens_seilerstra_e_20_190",
@@ -5837,11 +5287,7 @@
   {
     "id": "standort:vrees_schwimmbad_vrees",
     "label": "Projekt",
-    "name": "Vrees (Schwimmbad Vrees)",
-    "projekt_id": "P9062",
-    "display_name": "P9062 - Vrees (Schwimmbad Vrees)",
-    "standort_original": "Vrees (Schwimmbad Vrees)",
-    "ort": "Vrees"
+    "name": "Vrees (Schwimmbad Vrees)"
   },
   {
     "id": "vertrag:waerme_wm_puenther_bernhard",
@@ -6006,7 +5452,7 @@
     "id": "vertrag:waerme_wm_gemeinde_vrees_nachtrag",
     "label": "Vertrag",
     "name": "Wärmeliefervertrag Bioenergie Witte Moor Gemeinde Vrees Nachtrag sign",
-    "vertragsart": "Wärmeliefervertrag",
+    "vertragsart": "Wärmeliefervertrag (Nachtrag)",
     "status": "aktiv",
     "ist_nachtrag": true,
     "kategorie": "Wärmelieferverträge",
@@ -6059,7 +5505,7 @@
     "id": "vertrag:waerme_wm_kaiser_maria_nachtrag",
     "label": "Vertrag",
     "name": "Wärmeliefervertrag Bioenergie Witte Moor Kaiser Maria Nachtrag sign",
-    "vertragsart": "Wärmeliefervertrag",
+    "vertragsart": "Wärmeliefervertrag (Nachtrag)",
     "status": "aktiv",
     "ist_nachtrag": true,
     "kategorie": "Wärmelieferverträge",
@@ -6082,7 +5528,7 @@
     "id": "vertrag:waerme_wm_maschinenbau_kaiser_nachtrag",
     "label": "Vertrag",
     "name": "Wärmeliefervertrag Bioenergie Witte Moor Maschinenbau Manfred Kaiser Nachtrag sign",
-    "vertragsart": "Wärmeliefervertrag",
+    "vertragsart": "Wärmeliefervertrag (Nachtrag)",
     "status": "aktiv",
     "ist_nachtrag": true,
     "kategorie": "Wärmelieferverträge",
@@ -6549,8 +5995,7 @@
     "label": "Firma",
     "name": "Dinklage Wilhelm",
     "rechtsform": "Privatperson",
-    "adresse": "Hoher Sand 13, 49757 Vrees",
-    "ist_natuerliche_person": true
+    "adresse": "Hoher Sand 13, 49757 Vrees"
   },
   {
     "id": "vertrag:waerme_alteheide_elbers_josef",
@@ -6980,131 +6425,5 @@
     "name": "Khreis Mohammed",
     "rechtsform": "Privatperson",
     "adresse": "Hoher Sand 4, 49757 Vrees"
-  },
-  {
-    "id": "person:büsing_detlev",
-    "label": "Person",
-    "name": "Büsing Detlev",
-    "rechtsform": "Privatperson",
-    "adresse": "Nadorster Straße 314, 26125 Oldenburg"
-  },
-  {
-    "id": "person:büsing_petra",
-    "label": "Person",
-    "name": "Büsing Petra",
-    "rechtsform": "Privatperson",
-    "adresse": "Nadorster Straße 314, 26125 Oldenburg"
-  },
-  {
-    "id": "person:hoesen_karl_heinz",
-    "label": "Person",
-    "name": "Hoesen Karl Heinz",
-    "rechtsform": "Privatpersonen",
-    "adresse": "Hauptstr 18a, Sustrum"
-  },
-  {
-    "id": "person:hoesen_hans_jürgen",
-    "label": "Person",
-    "name": "Hoesen Hans-Jürgen",
-    "rechtsform": "Privatpersonen",
-    "adresse": "Hauptstr 18a, Sustrum"
-  },
-  {
-    "id": "person:kemper_berendina",
-    "label": "Person",
-    "name": "Kemper Berendina",
-    "rechtsform": "Privatpersonen",
-    "adresse": "Am Kanal 14 / Buchenstrasse 8, 49828 Georgsdorf"
-  },
-  {
-    "id": "person:nüsse_traute_johanne",
-    "label": "Person",
-    "name": "Nüsse Traute Johanne",
-    "rechtsform": "Privatpersonen",
-    "adresse": "Am Kanal 14 / Buchenstrasse 8, 49828 Georgsdorf"
-  },
-  {
-    "id": "person:kremers_gezienus",
-    "label": "Person",
-    "name": "Kremers Gezienus",
-    "rechtsform": "Privatpersonen",
-    "adresse": "Großwolderstr. 106, 26810 Westoverledingen"
-  },
-  {
-    "id": "person:kremers_kiena",
-    "label": "Person",
-    "name": "Kremers Kiena",
-    "rechtsform": "Privatpersonen",
-    "adresse": "Großwolderstr. 106, 26810 Westoverledingen"
-  },
-  {
-    "id": "person:kleene_christine",
-    "label": "Person",
-    "name": "Kleene Christine",
-    "rechtsform": "Privatperson",
-    "adresse": "Bürgerstraße 32, 26123 Oldenburg"
-  },
-  {
-    "id": "person:könig_henning",
-    "label": "Person",
-    "name": "König Henning",
-    "rechtsform": "Privatperson",
-    "adresse": "Bürgerstraße 32, 26123 Oldenburg"
-  },
-  {
-    "id": "person:steineck_manfred",
-    "label": "Person",
-    "name": "Steineck Manfred",
-    "rechtsform": "Privatperson",
-    "adresse": "Ellernstraße 37, 27751 Delmenhorst"
-  },
-  {
-    "id": "person:mular_irena",
-    "label": "Person",
-    "name": "Mular Irena",
-    "rechtsform": "Privatperson",
-    "adresse": "Ellernstraße 37, 27751 Delmenhorst"
-  },
-  {
-    "id": "person:lünswilken_josef",
-    "label": "Person",
-    "name": "Lünswilken Josef",
-    "rechtsform": null,
-    "adresse": "Am Sportplatz 6, 49757 Vrees"
-  },
-  {
-    "id": "person:lünswilken_sabine",
-    "label": "Person",
-    "name": "Lünswilken Sabine",
-    "rechtsform": null,
-    "adresse": "Am Sportplatz 6, 49757 Vrees"
-  },
-  {
-    "id": "person:vagedes_bernhard",
-    "label": "Person",
-    "name": "Vagedes Bernhard",
-    "ist_natuerliche_person": true,
-    "adresse": "Sprakeler Strasse 55, 49757 Soegel"
-  },
-  {
-    "id": "person:vagedes_guido",
-    "label": "Person",
-    "name": "Vagedes Guido",
-    "ist_natuerliche_person": true,
-    "adresse": "Sprakeler Strasse 55, 49757 Soegel"
-  },
-  {
-    "id": "person:wraga_iris",
-    "label": "Person",
-    "name": "Wraga Iris",
-    "ist_natuerliche_person": true,
-    "adresse": "Poststraße 3, 49757 Vrees"
-  },
-  {
-    "id": "person:wraga_matthias",
-    "label": "Person",
-    "name": "Wraga Matthias",
-    "ist_natuerliche_person": true,
-    "adresse": "Poststraße 3, 49757 Vrees"
   }
 ]

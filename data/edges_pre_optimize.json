@@ -1173,6 +1173,12 @@
     "dokument_typ": "Original"
   },
   {
+    "src": "firma:vagedes_bernhard_vagedes_guido_gebaeudeigentuemer",
+    "dst": "vertrag:e45f0ca2",
+    "relationship": "PARTEI_VON",
+    "rolle": "Eigentümer"
+  },
+  {
     "src": "firma:vn_gbr",
     "dst": "vertrag:e45f0ca2",
     "relationship": "PARTEI_VON",
@@ -1263,6 +1269,12 @@
     "dst": "vertrag:e7a0d933",
     "relationship": "PARTEI_VON",
     "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "person:l_nswilken_josef_u_sabine",
+    "dst": "vertrag:e7a0d933",
+    "relationship": "PARTEI_VON",
+    "rolle": "Abnehmer"
   },
   {
     "src": "vertrag:e7a0d933",
@@ -1694,6 +1706,12 @@
     "dst": "vertrag:267ca384",
     "relationship": "PARTEI_VON",
     "rolle": "Wärmelieferant"
+  },
+  {
+    "src": "firma:wraga_iris_und_matthias",
+    "dst": "vertrag:267ca384",
+    "relationship": "PARTEI_VON",
+    "rolle": "Abnehmer"
   },
   {
     "src": "vertrag:267ca384",
@@ -2243,6 +2261,12 @@
     "rolle": "Vermieter"
   },
   {
+    "src": "person:kleene_christine_k_nig_henning",
+    "dst": "vertrag:miet_raiffeisenstr5_kleene_koenig",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
     "src": "vertrag:miet_raiffeisenstr5_kleene_koenig",
     "dst": "standort:raiffeisenstra_e_5_49757_vrees",
     "relationship": "HAT_STANDORT"
@@ -2329,6 +2353,12 @@
     "rolle": "Vermieter"
   },
   {
+    "src": "person:b_sing_detlev_b_sing_petra",
+    "dst": "vertrag:miet_vonmueller24_eg_buesing",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
+  },
+  {
     "src": "vertrag:miet_vonmueller24_eg_buesing",
     "dst": "standort:von_m_ller_stra_e_24_26123_oldenburg",
     "relationship": "HAT_STANDORT"
@@ -2344,6 +2374,12 @@
     "dst": "vertrag:miet_vonmueller24_egr_steineck",
     "relationship": "PARTEI_VON",
     "rolle": "Vermieter"
+  },
+  {
+    "src": "person:steineck_manfred_mular_irena",
+    "dst": "vertrag:miet_vonmueller24_egr_steineck",
+    "relationship": "PARTEI_VON",
+    "rolle": "Mieter"
   },
   {
     "src": "vertrag:miet_vonmueller24_egr_steineck",
@@ -2663,6 +2699,12 @@
     "dokument_typ": "Original"
   },
   {
+    "src": "person:kemper_berendina_n_sse_traute_johanne",
+    "dst": "vertrag:gestattung_pv_kemper_nuesse_niedenhof",
+    "relationship": "PARTEI_VON",
+    "rolle": "Eigentümer"
+  },
+  {
     "src": "person:niedenhof_detlef",
     "dst": "vertrag:gestattung_pv_kemper_nuesse_niedenhof",
     "relationship": "PARTEI_VON",
@@ -2790,6 +2832,12 @@
     "dst": "dokument:gestattungsvertrag_kempel_berendina_n_sse_traute_n_sse_johan",
     "relationship": "HAT_DOKUMENT",
     "dokument_typ": "Original"
+  },
+  {
+    "src": "person:kemper_berendina_n_sse_traute_johanne",
+    "dst": "vertrag:gestattung_pv_kempel_nuesse_niedenhof",
+    "relationship": "PARTEI_VON",
+    "rolle": "Eigentümer"
   },
   {
     "src": "person:niedenhof_detlef",
@@ -3219,6 +3267,12 @@
     "dokument_typ": "Original"
   },
   {
+    "src": "person:kremers_gezienus_und_kiena",
+    "dst": "vertrag:gestattung_pv_sonnentaler_i_kremes",
+    "relationship": "PARTEI_VON",
+    "rolle": "Eigentümer"
+  },
+  {
     "src": "firma:sonnentaler_01_gmbh_co_kg",
     "dst": "vertrag:gestattung_pv_sonnentaler_i_kremes",
     "relationship": "PARTEI_VON",
@@ -3379,6 +3433,12 @@
     "dst": "dokument:gestattungsvertrag_sonnentaler_v_hoesen_karl_heinz_signiert",
     "relationship": "HAT_DOKUMENT",
     "dokument_typ": "Original"
+  },
+  {
+    "src": "person:hoesen_karl_heinz_hoesen_hans_j_rgen",
+    "dst": "vertrag:gestattung_pv_sonnentaler_v_hoesen",
+    "relationship": "PARTEI_VON",
+    "rolle": "Eigentümer"
   },
   {
     "src": "firma:sonnentaler_v_gmbh_co_kg",
@@ -4588,125 +4648,5 @@
     "src": "vertrag:waerme_alteheide_khreis_mohammed",
     "dst": "standort:vrees",
     "relationship": "HAT_STANDORT"
-  },
-  {
-    "src": "person:vagedes_bernhard",
-    "dst": "vertrag:e45f0ca2",
-    "relationship": "PARTEI_VON",
-    "rolle": "Eigentümer"
-  },
-  {
-    "src": "person:vagedes_guido",
-    "dst": "vertrag:e45f0ca2",
-    "relationship": "PARTEI_VON",
-    "rolle": "Eigentümer"
-  },
-  {
-    "src": "person:lünswilken_josef",
-    "dst": "vertrag:e7a0d933",
-    "relationship": "PARTEI_VON",
-    "rolle": "Abnehmer"
-  },
-  {
-    "src": "person:lünswilken_sabine",
-    "dst": "vertrag:e7a0d933",
-    "relationship": "PARTEI_VON",
-    "rolle": "Abnehmer"
-  },
-  {
-    "src": "person:wraga_iris",
-    "dst": "vertrag:267ca384",
-    "relationship": "PARTEI_VON",
-    "rolle": "Abnehmer"
-  },
-  {
-    "src": "person:wraga_matthias",
-    "dst": "vertrag:267ca384",
-    "relationship": "PARTEI_VON",
-    "rolle": "Abnehmer"
-  },
-  {
-    "src": "person:kleene_christine",
-    "dst": "vertrag:miet_raiffeisenstr5_kleene_koenig",
-    "relationship": "PARTEI_VON",
-    "rolle": "Mieter"
-  },
-  {
-    "src": "person:könig_henning",
-    "dst": "vertrag:miet_raiffeisenstr5_kleene_koenig",
-    "relationship": "PARTEI_VON",
-    "rolle": "Mieter"
-  },
-  {
-    "src": "person:büsing_detlev",
-    "dst": "vertrag:miet_vonmueller24_eg_buesing",
-    "relationship": "PARTEI_VON",
-    "rolle": "Mieter"
-  },
-  {
-    "src": "person:büsing_petra",
-    "dst": "vertrag:miet_vonmueller24_eg_buesing",
-    "relationship": "PARTEI_VON",
-    "rolle": "Mieter"
-  },
-  {
-    "src": "person:steineck_manfred",
-    "dst": "vertrag:miet_vonmueller24_egr_steineck",
-    "relationship": "PARTEI_VON",
-    "rolle": "Mieter"
-  },
-  {
-    "src": "person:mular_irena",
-    "dst": "vertrag:miet_vonmueller24_egr_steineck",
-    "relationship": "PARTEI_VON",
-    "rolle": "Mieter"
-  },
-  {
-    "src": "person:kemper_berendina",
-    "dst": "vertrag:gestattung_pv_kemper_nuesse_niedenhof",
-    "relationship": "PARTEI_VON",
-    "rolle": "Eigentümer"
-  },
-  {
-    "src": "person:nüsse_traute_johanne",
-    "dst": "vertrag:gestattung_pv_kemper_nuesse_niedenhof",
-    "relationship": "PARTEI_VON",
-    "rolle": "Eigentümer"
-  },
-  {
-    "src": "person:kemper_berendina",
-    "dst": "vertrag:gestattung_pv_kempel_nuesse_niedenhof",
-    "relationship": "PARTEI_VON",
-    "rolle": "Eigentümer"
-  },
-  {
-    "src": "person:nüsse_traute_johanne",
-    "dst": "vertrag:gestattung_pv_kempel_nuesse_niedenhof",
-    "relationship": "PARTEI_VON",
-    "rolle": "Eigentümer"
-  },
-  {
-    "src": "person:kremers_gezienus",
-    "dst": "vertrag:gestattung_pv_sonnentaler_i_kremes",
-    "relationship": "PARTEI_VON",
-    "rolle": "Eigentümer"
-  },
-  {
-    "src": "person:kremers_kiena",
-    "dst": "vertrag:gestattung_pv_sonnentaler_i_kremes",
-    "relationship": "PARTEI_VON",
-    "rolle": "Eigentümer"
-  },
-  {
-    "src": "person:hoesen_karl_heinz",
-    "dst": "vertrag:gestattung_pv_sonnentaler_v_hoesen",
-    "relationship": "PARTEI_VON",
-    "rolle": "Eigentümer"
-  },
-  {
-    "src": "person:hoesen_hans_jürgen",
-    "dst": "vertrag:gestattung_pv_sonnentaler_v_hoesen",
-    "relationship": "PARTEI_VON",
-    "rolle": "Eigentümer"
   }
 ]

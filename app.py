@@ -250,6 +250,22 @@ div[data-baseweb="tab-border"] { display: none !important; }
 [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] h2 .icon,
 [data-testid="stSidebar"] [data-testid="stMarkdownContainer"] h4 .icon { display: none !important; }
 
+/* Multiselect Tags/Chips: kleiner, flacher, breiter — mehr Text sichtbar */
+[data-testid="stSidebar"] [data-baseweb="tag"] {
+    max-width: 100% !important;
+    height: auto !important;
+    padding: 1px 6px !important;
+    margin: 1px 2px !important;
+}
+[data-testid="stSidebar"] [data-baseweb="tag"] span {
+    font-size: 11px !important;
+    line-height: 1.3 !important;
+    max-width: none !important;
+    overflow: visible !important;
+    text-overflow: unset !important;
+    white-space: normal !important;
+}
+
 /* Dropdown/Select styling */
 [data-baseweb="select"] > div {
     background-color: #F5F5F5 !important;
@@ -402,9 +418,9 @@ def get_vertragsart_list(contracts):
 
 @st.cache_data
 def get_projekte_list(vertices):
-    """Get unique list of Projekte"""
+    """Get unique list of Projekte (uses display_name if available from optimize_graph.py)"""
     projekte = [v for v in vertices if v.get('label') == 'Projekt']
-    return sorted([p.get('name', p['id']) for p in projekte])
+    return sorted([p.get('display_name', p.get('name', p['id'])) for p in projekte])
 
 def filter_contracts(contracts, vertices, edges, firmen_filter, projekt_filter, vertragsart_filter, personen_filter,
                      standort_filter=None, rolle_filter=None, nachtrag_filter=None, seiten_range=None):
@@ -424,7 +440,9 @@ def filter_contracts(contracts, vertices, edges, firmen_filter, projekt_filter, 
 
     if projekt_filter:
         projekt_nodes = [v['id'] for v in vertices
-                        if v.get('label') == 'Projekt' and v.get('name') in projekt_filter]
+                        if v.get('label') == 'Projekt' and (
+                            v.get('display_name') in projekt_filter
+                            or v.get('name') in projekt_filter)]
         contract_ids_with_projekt = set()
         for edge in edges:
             if edge['dst'] in projekt_nodes and 'vertrag:' in edge['src']:
@@ -494,7 +512,9 @@ def filter_graph_by_criteria(G, vertices, edges, firmen_filter, vertragsart_filt
 
     if projekt_filter:
         projekt_nodes = [v['id'] for v in vertices
-                        if v.get('label') == 'Projekt' and v.get('name') in projekt_filter]
+                        if v.get('label') == 'Projekt' and (
+                            v.get('display_name') in projekt_filter
+                            or v.get('name') in projekt_filter)]
         contracts_with_projekten = set()
         for contract in contracts_filtered:
             for edge in edges:
@@ -564,7 +584,11 @@ def create_pyvis_graph(G, spring_length=180, gravity=-8000, central_gravity=0.10
         node_data = G.nodes[node]
         label = node_data.get('label', 'Unbekannt')
         color = NODE_COLORS.get(label, {'background': '#E5E5E5', 'border': '#C0C0C0'})
-        name = node_data.get('name', node)[:50]
+        # Use display_name for Projekt nodes (shows P-number), otherwise name
+        if label == 'Projekt' and node_data.get('display_name'):
+            name = node_data['display_name'][:50]
+        else:
+            name = node_data.get('name', node)[:50]
 
         # Build rich tooltip based on node type
         tooltip_lines = [f"[{label}] {node_data.get('name', node)}"]
@@ -572,7 +596,10 @@ def create_pyvis_graph(G, spring_length=180, gravity=-8000, central_gravity=0.10
         if label == 'Vertrag':
             meta = contract_meta.get(node, {})
             if node_data.get('vertragsart'):
-                tooltip_lines.append(f"Vertragsart: {node_data['vertragsart']}")
+                art_str = node_data['vertragsart']
+                if node_data.get('vertragsart_subtyp'):
+                    art_str += f" ({node_data['vertragsart_subtyp']})"
+                tooltip_lines.append(f"Vertragsart: {art_str}")
             if node_data.get('kategorie'):
                 tooltip_lines.append(f"Kategorie: {node_data['kategorie']}")
             if node_data.get('vertragstitel'):
@@ -653,6 +680,8 @@ def create_pyvis_graph(G, spring_length=180, gravity=-8000, central_gravity=0.10
                 tooltip_lines.append(f"Datei: {meta['dateipfad']}")
 
         elif label == 'Firma':
+            if node_data.get('ist_natuerliche_person'):
+                tooltip_lines.append("Typ: Natürliche Person")
             if node_data.get('rechtsform'):
                 tooltip_lines.append(f"Rechtsform: {node_data['rechtsform']}")
             if node_data.get('adresse'):
@@ -691,6 +720,28 @@ def create_pyvis_graph(G, spring_length=180, gravity=-8000, central_gravity=0.10
                 tooltip_lines.append(f"Seiten: {node_data['seitenzahl']}")
 
         elif label == 'Projekt':
+            if node_data.get('projekt_id'):
+                tooltip_lines.append(f"Projekt-Nr: {node_data['projekt_id']}")
+            if node_data.get('projektbereich'):
+                tooltip_lines.append(f"Bereich: {node_data['projektbereich']}")
+            if node_data.get('beschreibung'):
+                tooltip_lines.append(f"Beschreibung: {node_data['beschreibung']}")
+            if node_data.get('leistung_kwp'):
+                tooltip_lines.append(f"Leistung: {node_data['leistung_kwp']} kWp")
+            if node_data.get('standort_original'):
+                tooltip_lines.append(f"Standort: {node_data['standort_original']}")
+            if node_data.get('plz'):
+                tooltip_lines.append(f"PLZ: {node_data['plz']}")
+            if node_data.get('ort'):
+                tooltip_lines.append(f"Ort: {node_data['ort']}")
+            if node_data.get('gemarkung'):
+                tooltip_lines.append(f"Gemarkung: {node_data['gemarkung']}")
+            if node_data.get('vcom_id'):
+                tooltip_lines.append(f"VCOM-ID: {node_data['vcom_id']}")
+            if node_data.get('abrechnung_evu'):
+                tooltip_lines.append(f"Abrechnung EVU: {node_data['abrechnung_evu']}")
+            if node_data.get('erzeugung_datum') and '2000-01-01' not in str(node_data['erzeugung_datum']):
+                tooltip_lines.append(f"Erzeugung: {node_data['erzeugung_datum'][:10]}")
             n_contracts = sum(1 for src, _ in G.in_edges(node) if G.nodes.get(src, {}).get('label') == 'Vertrag')
             if n_contracts:
                 tooltip_lines.append(f"Verträge: {n_contracts}")
@@ -1026,7 +1077,7 @@ PREDEFINED_QUERIES = {
     "Wärmelieferverträge Alte Heide": {"vertragsart": ["Wärmeliefervertrag"], "standort_wildcard": "Alte Heide"},
     "Wärmelieferverträge Witte Moor": {"vertragsart": ["Wärmeliefervertrag"], "standort_wildcard": "Witte Moor"},
     "Betriebsführung Marka Taler": {"vertragsart": ["Betriebsführungsvertrag"], "firma": ["Marka Taler GmbH & Co. KG"]},
-    "Gestattungsverträge Sonnentaler": {"vertragsart": ["Gestattungsvertrag (PV-Dachanlage)"], "projekt_wildcard": "Sonnentaler"},
+    "Gestattungsverträge Sonnentaler": {"vertragsart": ["Gestattungsvertrag"], "projekt_wildcard": "Sonnentaler"},
     "Miet- und Nutzungsverträge": {"vertragsart": ["Mietvertrag", "Nutzungsvertrag"]},
     "── Termine & Fristen ──": {},
     "Verträge die 2026 enden": {"datum_ende_jahr": [2026]},
@@ -1065,6 +1116,15 @@ def main():
     filter_count_placeholder = st.sidebar.empty()
     reset_placeholder = st.sidebar.empty()
 
+    # Handle filter reset BEFORE widgets are created
+    if st.session_state.get("_reset_filters"):
+        for key in ["sb_firmen", "sb_projekte", "sb_arten", "sb_personen",
+                     "sb_rolle", "sb_ende_jahr", "sb_projektbereich", "sb_abrechnung_evu"]:
+            st.session_state[key] = []
+        st.session_state["sb_nachtrag"] = "Alle"
+        st.session_state["sb_seiten"] = (1, 38)
+        st.session_state["_reset_filters"] = False
+
     # Node-Type filter (above all other filters)
     all_node_types = ['Vertrag', 'Firma', 'Person', 'Projekt', 'Anlage', 'MaLo', 'Dokument']
     default_node_types = ['Vertrag', 'Firma', 'Person', 'Projekt']
@@ -1090,31 +1150,70 @@ def main():
             if edge['src'] in c_ids and edge.get('relationship') == 'HAT_STANDORT':
                 projekt_ids.add(edge['dst'])
         projekte = sorted(
-            v.get('name') for v in vertices
+            v.get('display_name', v.get('name')) for v in vertices
             if v.get('label') == 'Projekt' and v['id'] in projekt_ids
         )
         return firmen, projekte, arten, personen
 
-    # Cascading filters in sidebar
-    all_firmen = get_firmen_list(vertices)
-    selected_firmen = st.sidebar.multiselect("Firma", all_firmen, default=[f for f in q_firma_default if f in all_firmen], key="sb_firmen")
+    # --- Projektbereich & Abrechnung EVU (oberste Filter) ---
+    all_projektbereiche = sorted(set(
+        v.get('projektbereich') for v in vertices
+        if v.get('label') == 'Projekt' and v.get('projektbereich')
+    ))
+    selected_projektbereich = st.sidebar.multiselect("Projektbereich", all_projektbereiche, key="sb_projektbereich")
 
+    all_abrechnung_evu = sorted(set(
+        v.get('abrechnung_evu') for v in vertices
+        if v.get('label') == 'Projekt' and v.get('abrechnung_evu')
+    ))
+    selected_abrechnung_evu = st.sidebar.multiselect("Abrechnung EVU", all_abrechnung_evu, key="sb_abrechnung_evu")
+
+    # Auto-select matching Projekte from Bereich/EVU
+    auto_projekte = []
+    if selected_projektbereich or selected_abrechnung_evu:
+        for v in vertices:
+            if v.get('label') != 'Projekt':
+                continue
+            if selected_projektbereich and v.get('projektbereich') not in selected_projektbereich:
+                continue
+            if selected_abrechnung_evu and v.get('abrechnung_evu') not in selected_abrechnung_evu:
+                continue
+            auto_projekte.append(v.get('display_name', v.get('name')))
+
+    # Pre-filter contracts by Projektbereich/EVU to cascade into Firma
+    if auto_projekte:
+        contracts_after_bereich = filter_contracts(contracts, vertices, edges, [], auto_projekte, [], [])
+    else:
+        contracts_after_bereich = contracts
+
+    # --- Firma (cascaded from Projektbereich/EVU) ---
+    available_firmen_from_bereich, _, _, _ = get_options_from_contracts(contracts_after_bereich)
+    if not available_firmen_from_bereich and not auto_projekte:
+        available_firmen_from_bereich = get_firmen_list(vertices)
+    selected_firmen = st.sidebar.multiselect("Firma", available_firmen_from_bereich, default=[f for f in q_firma_default if f in available_firmen_from_bereich], key="sb_firmen")
+
+    # --- Projekt (cascaded from Firma + Bereich/EVU) ---
     if selected_firmen:
-        contracts_after_firma = filter_contracts(contracts, vertices, edges, selected_firmen, [], [], [])
+        contracts_after_firma = filter_contracts(contracts_after_bereich, vertices, edges, selected_firmen, [], [], [])
     else:
-        contracts_after_firma = contracts
+        contracts_after_firma = contracts_after_bereich
     _, available_projekte, _, _ = get_options_from_contracts(contracts_after_firma)
-    selected_projekte = st.sidebar.multiselect("Projekt", available_projekte, key="sb_projekte")
+    if auto_projekte:
+        available_projekte = [p for p in available_projekte if p in auto_projekte]
 
-    if selected_firmen or selected_projekte:
-        contracts_after_fp = filter_contracts(contracts, vertices, edges, selected_firmen, selected_projekte, [], [])
+    selected_projekte = st.sidebar.multiselect("Projekt", available_projekte, key="sb_projekte")
+    effective_projekte = selected_projekte if selected_projekte else auto_projekte
+
+    # --- Vertragsart (cascaded from Firma + Projekt) ---
+    if selected_firmen or effective_projekte:
+        contracts_after_fp = filter_contracts(contracts, vertices, edges, selected_firmen, effective_projekte, [], [])
     else:
-        contracts_after_fp = contracts
+        contracts_after_fp = contracts_after_bereich
     _, _, available_arten, _ = get_options_from_contracts(contracts_after_fp)
     selected_arten = st.sidebar.multiselect("Vertragsart", available_arten, default=[a for a in q_art_default if a in available_arten], key="sb_arten")
 
-    if selected_firmen or selected_projekte or selected_arten:
-        contracts_after_fpa = filter_contracts(contracts, vertices, edges, selected_firmen, selected_projekte, selected_arten, [])
+    if selected_firmen or effective_projekte or selected_arten:
+        contracts_after_fpa = filter_contracts(contracts, vertices, edges, selected_firmen, effective_projekte, selected_arten, [])
     else:
         contracts_after_fpa = contracts
     _, _, _, available_personen = get_options_from_contracts(contracts_after_fpa)
@@ -1123,7 +1222,7 @@ def main():
     # Kreuzfilterung: Erweitert-Filter basieren auf vorgefiltertem Vertragsbestand
     contracts_after_all_main = filter_contracts(
         contracts, vertices, edges,
-        selected_firmen, selected_projekte, selected_arten, selected_personen
+        selected_firmen, effective_projekte, selected_arten, selected_personen
     )
 
     selected_standorte = []  # Standort-Filter entfernt (identisch mit Projekt)
@@ -1139,7 +1238,7 @@ def main():
     # Datum Ende (Jahr) Filter — kreuzgefiltert
     contracts_after_extended = filter_contracts(
         contracts, vertices, edges,
-        selected_firmen, selected_projekte, selected_arten, selected_personen,
+        selected_firmen, effective_projekte, selected_arten, selected_personen,
         selected_standorte, selected_rollen
     )
     available_ende_jahre = sorted(set(
@@ -1165,9 +1264,9 @@ def main():
     # Final filtered data
     sidebar_nachtrag = nachtrag_option if nachtrag_option != "Alle" else None
     sidebar_seiten = seiten_range if seiten_range != (1, 38) else None
-    any_filter_active = (selected_firmen or selected_arten or selected_projekte or selected_personen
+    any_filter_active = (selected_firmen or selected_arten or effective_projekte or selected_personen
                         or selected_rollen or sidebar_nachtrag or sidebar_seiten
-                        or selected_ende_jahre)
+                        or selected_ende_jahre or selected_projektbereich or selected_abrechnung_evu)
 
     # Projekt/Standort wildcard from query
     q_projekt_wc = query_params.get("projekt_wildcard")
@@ -1176,7 +1275,7 @@ def main():
     if any_filter_active or q_projekt_wc or q_standort_wc:
         filtered_contracts = filter_contracts(
             contracts, vertices, edges,
-            selected_firmen, selected_projekte, selected_arten, selected_personen,
+            selected_firmen, effective_projekte, selected_arten, selected_personen,
             selected_standorte, selected_rollen, sidebar_nachtrag, sidebar_seiten
         )
         # Datum Ende Jahr filter
@@ -1232,14 +1331,7 @@ def main():
     filter_count_placeholder.markdown(f"**{len(filtered_contracts)}** von {len(contracts)} Verträgen")
     if any_filter_active:
         if reset_placeholder.button("Alle Filter löschen", key="reset_filters"):
-            # Multiselects auf leer setzen
-            for key in ["sb_firmen", "sb_projekte", "sb_arten", "sb_personen",
-                         "sb_rolle", "sb_ende_jahr"]:
-                st.session_state[key] = []
-            # Nachtrag auf "Alle" (Index 0)
-            st.session_state["sb_nachtrag"] = "Alle"
-            # Seitenzahl auf vollen Bereich
-            st.session_state["sb_seiten"] = (1, 38)
+            st.session_state["_reset_filters"] = True
             st.rerun()
 
     # Create tabs
